@@ -2,4 +2,4 @@
 title: Daiko Home
 ---
 
-TestWorld
+[[Obsidian]]
