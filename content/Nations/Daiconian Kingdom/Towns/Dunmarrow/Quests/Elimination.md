@@ -13,4 +13,4 @@ Reward: 1000 GP
 
 * **Twist:** The darkelf gardener is a firend of the monster and confronts them after the fight.
 
-![Twig Bligt](_assets/_5e/Bestiary/Twig%20Bligt.png)
+![Twig Bligt](_assets/_5e/Bestiary/TwigBligt.png)

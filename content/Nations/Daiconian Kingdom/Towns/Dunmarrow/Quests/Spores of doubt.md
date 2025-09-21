@@ -12,5 +12,5 @@ tags:
 - **Optional Twist:** One mushroom patch is home to a hidden **Myconid Sprout**, who speaks in telepathic emotion—pleads not to harvest its kin.
 - Extra reward: 1 Antitoxin each
 
-![Twig Bligt](_assets/_5e/Bestiary/Twig%20Bligt.png)
+![Twig Bligt](_assets/_5e/Bestiary/TwigBligt.png)
 ![MyconidSprout](_assets/_5e/Bestiary/MyconidSprout.png)
