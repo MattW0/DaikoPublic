@@ -1,4 +1,7 @@
-#Lore #Public
+---
+tags:
+    - Lore
+---
 
 **Official Guide for Holders of a Continental Identification Sigil (CID)**
 ## Introduction

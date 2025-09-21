@@ -1,4 +1,7 @@
-#NPC #Public
+---
+tags:
+    - NPC
+---
 
 Rich human with connections in the business with [[Krogmaw Mine]]. Moved to [[Dunmarrow]] a year ago and bought a shabby yet trying to be fancy estate with considerable garden at the edge of town.
 

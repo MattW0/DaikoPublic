@@ -1,5 +1,8 @@
-#Place #Public
+---
+tags:
+    - Place
+---
 
-Owned by [[Old Berrim Barktooth]]. If players buy and establish the bar, they may rename it.
+Owned by [[Berrim Barktooth]]. If players buy and establish the bar, they may rename it.
 
-![[2033881.jpg|312x312]]
+![ratNest|534x534](_assets/Sprites/Places/ratNest.jpg)

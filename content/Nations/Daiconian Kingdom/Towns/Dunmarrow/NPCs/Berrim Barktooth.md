@@ -1,7 +1,10 @@
-#NPC #Public
+---
+tags:
+    - NPC
+---
 
 >[!multi-column]
-> ![[berrimBarktooth.png|315x473]]
+> ![berrimBarktooth](_assets/Sprites/People/berrimBarktooth.png)
 >
 >> [!info|wide-5] Old Berrim Barktooth
 >>-  He's a warm-hearted, easygoing firbolg with a big laugh and bigger hands, known for his homebrewed ale, bushy beard, and folksy wisdom. Always ready with a story or a pint, he treats everyone like family.

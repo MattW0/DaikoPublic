@@ -1,4 +1,7 @@
-#Quest #Public
+---
+tags:
+    - Quest
+---
 
 **Participants:** [[Caldra Sunhelm]], [[Marmaromenos Menos]]
 

@@ -1,4 +1,7 @@
-#NPC #Public
+---
+tags:
+    - NPC
+---
 
 > [!info] Description
 > - _Forger, Fixer, and Specialist in “Administrative Alternatives”_

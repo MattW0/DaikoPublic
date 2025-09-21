@@ -1,4 +1,7 @@
-#NPC #Public
+---
+tags:
+    - NPC
+---
 
 > [!info] Description
 > - Highest ranking police officer of [[Dunmarrow]]

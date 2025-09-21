@@ -1,2 +1,5 @@
-#NPC #Public
+---
+tags:
+    - NPC
+---
 

@@ -1,4 +1,7 @@
-#Quest #Public
+---
+tags:
+    - Quest
+---
 
 The rich Mr. [[Randall Corn]] would like the party to eliminate the monster in his backyard. 
 Reward: 1000 GP
@@ -10,4 +13,4 @@ Reward: 1000 GP
 
 * **Twist:** The darkelf gardener is a firend of the monster and confronts them after the fight.
 
-![[Twig Bligt.png]]
+![Twig Bligt](_assets/_5e/Bestiary/Twig%20Bligt.png)

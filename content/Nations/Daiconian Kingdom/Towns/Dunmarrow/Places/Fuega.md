@@ -1,4 +1,7 @@
-#Place #Public
+---
+tags:
+    - Place
+---
 ### Description
 Russian mafia owned establishment
 

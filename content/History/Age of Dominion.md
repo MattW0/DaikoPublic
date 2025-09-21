@@ -1,1 +1,5 @@
-#Lore #Public
+---
+tags:
+    - Lore
+---
+

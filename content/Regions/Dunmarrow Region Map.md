@@ -1,4 +1,7 @@
-#Place #Public
+---
+tags:
+    - Place
+---
 
 
 ```leaflet  

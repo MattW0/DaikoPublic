@@ -1,4 +1,7 @@
-#Place #Public
+---
+tags:
+    - Place
+---
 
 Smallish mining village with 8000 inhabitants. Lil Zollikofä
 ## Places

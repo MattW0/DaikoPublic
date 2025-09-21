@@ -1,11 +1,14 @@
-#NPC #Public
+---
+tags:
+    - NPC
+---
 
 Worked at [[Krogmaw Mine]]. Steals small amount of [[Obsidian]] and sells it on the black market. Uses some of it on himself for small magical abilities. [[Victor Halberin]] caught him at some point and fired him. Using the cash from his shady business, he wants to reopen the [[Rat Nest]] in [[Dunmarrow]].
  * knows players from earlier
  * uses [[Obsidian]] for slight magical abilities
 
 >[!multi-column]
-> ![[jackie.jpg]]
+> ![jackie](_assets/Sprites/People/jackie.jpg)
 >
 >> [!info|wide-5] Jackie
 > _Human Bard (Level 2), Chaotic Good_
@@ -16,9 +19,9 @@ Worked at [[Krogmaw Mine]]. Steals small amount of [[Obsidian]] and sells it on 
 > **Speed** 30 ft.
 >>
 >> | STR     | DEX     | CON     | INT     | WIS     | CHA     |
-> >| ------- | ------- | ------- | ------- | ------- | ------- |
-> | 10 (+0) | 14 (+2) | 13 (+1) | 12 (+1) | 10 (+0) | 16 (+3) |
-> >
+>> | ------- | ------- | ------- | ------- | ------- | ------- |
+>> | 10 (+0) | 14 (+2) | 13 (+1) | 12 (+1) | 10 (+0) | 16 (+3) |
+>>
 > **Saving Throws** Dexterity, Charisma
 > **Skills** Performance, Persuasion, Deception, Insight
 > **Armor Proficiencies** Light armor

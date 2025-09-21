@@ -1,4 +1,7 @@
-#Place #Public
+---
+tags:
+    - Place
+---
 
 ## Jobs
 
@@ -27,4 +30,4 @@
 [[Randall Corn]]: Eliminate the pesky half beast in his estates backyard
 ent (monmon) 
 
-![[_assets/Downloaded/Maps/Towns/TownMarket.pdf]]
+![TownMarket](_assets/Downloaded/Maps/Towns/TownMarket.jpg)

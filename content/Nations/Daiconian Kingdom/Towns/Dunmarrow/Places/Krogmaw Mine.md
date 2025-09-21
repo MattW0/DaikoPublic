@@ -1,4 +1,7 @@
-#Place #Public 
+---
+tags:
+    - Place
+---
 
 > [!info] Description
 > 7 years old, the mine has a small output of [[Obsidian]] and delivers it to [[Dunmarrow]] (in the north)

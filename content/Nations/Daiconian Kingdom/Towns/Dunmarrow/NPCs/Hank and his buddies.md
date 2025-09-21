@@ -1,4 +1,7 @@
-#NPC #Public
+---
+tags:
+    - NPC
+---
 
 > [!info] Description
 > - Work at [[Krogmaw Mine]]

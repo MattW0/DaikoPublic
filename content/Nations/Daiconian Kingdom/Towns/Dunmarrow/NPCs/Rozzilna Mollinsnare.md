@@ -1,4 +1,7 @@
-#NPC #Public
+---
+tags:
+    - NPC
+---
 
 > [!info] Description
 > _Local Administrator — [[Grand Registry of Realms and Routes]]_

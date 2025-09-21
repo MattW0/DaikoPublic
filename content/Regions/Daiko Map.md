@@ -1,4 +1,7 @@
-#Place #Public
+---
+tags:
+    - Place
+---
 
 Region of Daiko, a continent not too far from [[Helios]].
 

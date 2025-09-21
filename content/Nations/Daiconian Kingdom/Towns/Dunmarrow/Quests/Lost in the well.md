@@ -1,4 +1,7 @@
-#Quest #Public
+---
+tags:
+    - Quest
+---
 
 20 meters deep in the middle of [[Dunmarrow]].
 

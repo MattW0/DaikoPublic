@@ -1,4 +1,7 @@
-#Place #Public
+---
+tags:
+    - Place
+---
 
 > [!info] Description
 Administrative building that issues [[Continental Identification Sigil]]

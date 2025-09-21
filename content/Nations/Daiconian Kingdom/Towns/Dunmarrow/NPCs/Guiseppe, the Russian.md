@@ -1,4 +1,7 @@
-#NPC #Public
+---
+tags:
+    - NPC
+---
 ### Description
 Mafioso owning [[Fuega]]. has an agreement with [[Colt Creed]]: make people drunk and then go to the Fuega for gambling. Colt does not remember exact agreement.
 

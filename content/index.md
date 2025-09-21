@@ -1,1 +1,7 @@
-Welcome
+---
+title: Daiko Home
+tags:
+  - public
+---
+
+

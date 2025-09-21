@@ -1,4 +1,7 @@
-#Place #Public
+---
+tags:
+    - Place
+---
 
 Equipment and state of [[The Moist Blue Lobster]]: This determines daily upkeep rewards/cost.
 ## Continuous Upkeep 

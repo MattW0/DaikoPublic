@@ -1,13 +1,16 @@
-#Place #Public
+---
+tags:
+    - Place
+---
 
 Previously owned by [[Berrim Barktooth]] and called the [[Rat Nest]]. 
 - Renamed to [[The Moist Blue Lobster]]. 
 - Party has a [[Twin Vaults]] (magic kässeli) from [[Jackie]] to always carry the earnings with them.
 
 >[!multi-column]
->![[ratNest.jpg|312x312]]
+>![ratNest](_assets/Sprites/Places/ratNest.jpg)
 >
->![[TheMoistBlueLobster_Bar.png]]
+>![TheMoistBlueLobster_Opening](_assets/Sprites/Places/TheMoistBlueLobster_Opening.png)
 ## Business mechanics
 Each day, the players may roll for a Business Check: 1d20
 Players can help out in the daily business, each player doing so gives +2
