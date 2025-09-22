@@ -3,10 +3,10 @@ tags:
     - Quest
 ---
 
-**Participants:** [[Caldra Sunhelm|Caldra Sunhelm]], [[Marmaromenos Menos|Marmaromenos Menos]]
+**Participants:** [[Party/Krah Krah Gang/Caldra Sunhelm|Caldra Sunhelm]], [[Party/Krah Krah Gang/Marmaromenos Menos|Marmaromenos Menos]]
 
 > [!info] Description
-> * [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Sergeant Karr Donn|Sergeant Karr Donn]] calls for **Guard Duty** – Protect a delivery caravan that departs from [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Krogmaw Mine|Krogmaw Mine]]  to [[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]].
+> * [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Sergeant Karr Donn|Sergeant Karr Donn]] calls for **Guard Duty** – Protect a delivery caravan that departs from [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Krogmaw Mine|Krogmaw Mine]] to [[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]].
 
 ```encounter-table
 name: Ferrun Bandits

@@ -1,7 +1,7 @@
 ---
 title: Current Affairs
 ---
-_Last update: 22.09.2025, 02:34_
+_Last update: 22.09.2025, 19:55_
 
 ## [[History/Act 0 - The bar|Act 0 - The bar]]
 In: [[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]], [[Nations/Daicon Kingdom/Dunmarrow Region|Dunmarrow Region]]

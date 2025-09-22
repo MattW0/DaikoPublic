@@ -11,9 +11,9 @@ tags:
 >>- Must be presented to travel with the [[Nations/Daicon Kingdom/Lore/Inter Transport HUB|Inter Transport HUB]] and upon request of [MICE](app://obsidian.md/MICE) officers
 >>
 >>Owned by: 
->>- [[Caldra Sunhelm|Caldra Sunhelm]]
->>- [[Colt Creed|Colt Creed]]
->>- [[Marmaromenos Menos|Marmaromenos Menos]]
+>>- [[Party/Krah Krah Gang/Caldra Sunhelm|Caldra Sunhelm]]
+>>- [[Party/Krah Krah Gang/Colt Creed|Colt Creed]]
+>>- [[Party/Krah Krah Gang/Marmaromenos Menos|Marmaromenos Menos]]
 >
 >>![Card id](_assets/Sprites/Artifacts/continentaldSigil.png)
 >

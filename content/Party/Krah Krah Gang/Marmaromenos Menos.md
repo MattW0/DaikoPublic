@@ -8,7 +8,7 @@ tags:
   - Public
 ---
 >[!multi-column]
-![[_assets/Sprites/People/MarmoMorenos.jpeg]]
+>![[_assets/Sprites/People/MarmoMorenos.jpeg]]
 >
 >> [!info|wide-5] Marmaromenos Menos
 >>- Goliath

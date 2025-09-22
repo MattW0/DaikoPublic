@@ -3,7 +3,9 @@ tags:
     - Place
 ---
 
-Equipment and state of [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/The Moist Blue Lobster|The Moist Blue Lobster]]ll  | Result                         |
+Equipment and state of [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/The Moist Blue Lobster|The Moist Blue Lobster]]
+
+| Roll  | Result                         |
 | ----- | ------------------------------ |
 | 1-5   | Big loss (pay d100)            |
 | 6-10  | Small loss (pay d100 / 2)      |

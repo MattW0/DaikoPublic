@@ -10,7 +10,7 @@ tags:
 > - **Residence:** A vine-covered cottage at the edge of the Shroudfen Glade, surrounded by overgrown herbs and twitching toadstools.
 
 > [!faq] **Hooks**
->- [[Colt Creed|Colt Creed]] participated on a shroom search and left another woman lost in the woods. Authorities were informed.
+>- [[Party/Krah Krah Gang/Colt Creed|Colt Creed]] participated on a shroom search and left another woman lost in the woods. Authorities were informed.
 ### Other
 - Adventurers call her “The Thornmother.”
 - Local children dare each other to steal mushrooms from her garden. The smart ones don’t try twice.

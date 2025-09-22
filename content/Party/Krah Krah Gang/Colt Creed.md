@@ -7,7 +7,7 @@ tags:
   - Player
 ---
 >[!multi-column]
-![[_assets/Sprites/People/ColtCreed.jpeg]]
+>![[_assets/Sprites/People/ColtCreed.jpeg]]
 >
 >> [!info|wide-5] Colt Creed
 >>- Bloodhunter, human vampire
