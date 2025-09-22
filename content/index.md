@@ -1,14 +1,14 @@
 ---
-title: Home
-tags:
-  - public
+title: Current Affairs
 ---
-You are currently in:
-- [Dunmarrow](World/Nations/Daiconian%20Kingdom/Towns/Dunmarrow/Dunmarrow.md), [Krogmaw Mine](World/Nations/Daiconian%20Kingdom/Towns/Dunmarrow/Places/Krogmaw%20Mine.md)
+_Last update: 22.09.2025, 02:34_
 
-Quest:
-- [Jackie](World/Nations/Daiconian%20Kingdom/Towns/Dunmarrow/NPCs/Jackie.md)
-- [Mine Combat](World/Nations/Daiconian%20Kingdom/Towns/Dunmarrow/Quests/Mine%20Combat.md)
+## [[History/Act 0 - The bar|Act 0 - The bar]]
+In: [[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]], [[Nations/Daicon Kingdom/Dunmarrow Region|Dunmarrow Region]]
+## Quests
+- Rescue [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Jackie|Jackie]] in [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Krogmaw Mine|Krogmaw Mine]]
+## Lore
+- [[History/Lore/Prolog|Prolog]]
 
 
 
