@@ -1,6 +1,9 @@
 ---
 tags:
-    - Place
+  - Place
+thumbnail: "[[_assets/Downloaded/Maps/Dungeons/TC_Silverspring Mine 01 Entrance_Free.jpg]]"
+nation: "[[Nations/Daicon Kingdom/Daicon Kingdom|Daicon Kingdom]]"
+type: Location
 ---
 
 > [!info] Description
@@ -14,3 +17,6 @@ tags:
 > [!danger] Quests
 > [[Nations/Daicon Kingdom/Towns/Dunmarrow/Quests/Mine Combat|Mine Combat]]
 
+
+![[_assets/Downloaded/Maps/Dungeons/TC_Silverspring Mine 01 Entrance_Free.jpg]]
+![[_assets/Downloaded/Maps/Dungeons/TC_Silverspring Mines 02 Lower Level Crystals_Free.jpg]]

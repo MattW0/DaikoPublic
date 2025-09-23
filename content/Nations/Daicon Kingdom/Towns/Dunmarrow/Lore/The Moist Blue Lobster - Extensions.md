@@ -1,6 +1,6 @@
 ---
 tags:
-    - Place
+    - Lore
 ---
 
 Equipment and state of [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/The Moist Blue Lobster|The Moist Blue Lobster]]

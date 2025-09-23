@@ -1,10 +1,13 @@
 ---
 tags:
-    - NPC
+  - NPC
+thumbnail: 
+origin: "[[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]"
+race: Human
 ---
 
 > [!info] Description
 > - Work at [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Krogmaw Mine|Krogmaw Mine]] 
-> - Meet [[Party/Krah Krah Gang/Marmaromenos Menos|Marmaromenos Menos]] and [[Caldra Sunhelm|Caldra Sunhelm]] during quest [[Nations/Daicon Kingdom/Towns/Dunmarrow/Quests/Guard Duty|Guard Duty]]. He was not fond of them killing children of [[Nations/Daicon Kingdom/Towns/Dunmarrow/Lore/Ferrun Bandits|Ferrun Bandits]].
 
-Mission: [[Nations/Daicon Kingdom/Towns/Dunmarrow/Quests/Guard Duty|Guard Duty]]
+> [!faq] **Hooks**
+> - Hank has accompanied [[Marmaromenos Menos]] and [[Caldra Sunhelm]] during quest [[Guard Duty]]. He was not fond of them killing children of [[Ferrun Bandits]].

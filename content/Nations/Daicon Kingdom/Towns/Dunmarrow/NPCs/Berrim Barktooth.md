@@ -1,6 +1,9 @@
 ---
 tags:
-    - NPC
+  - NPC
+thumbnail: "[[_assets/Sprites/People/berrimBarktooth.png]]"
+origin: "[[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]"
+race: Firbolg
 ---
 
 >[!multi-column]

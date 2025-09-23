@@ -1,8 +1,8 @@
 ---
-title: Current Affairs
+title: Daiko - Current Affairs
+tags:
+  - Admin
 ---
-_Last update: 22.09.2025, 19:55_
-
 ## [[History/Act 0 - The bar|Act 0 - The bar]]
 In: [[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]], [[Nations/Daicon Kingdom/Dunmarrow Region|Dunmarrow Region]]
 ## Quests
@@ -12,3 +12,4 @@ In: [[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]], [[Nations/Da
 
 
 
+_Last update: 23.09.2025, 23:24_

@@ -1,15 +1,19 @@
 ---
 tags:
-    - NPC
+  - NPC
+thumbnail: "[[_assets/Sprites/People/jackie.jpg]]"
+origin: "[[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]"
+race: Human
 ---
-
-Worked at [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Krogmaw Mine|Krogmaw Mine]]arket. Uses some of it on[[History/World/Obsidian|Obsidian]]ictor Halberin]] caught him at some point and fired him. Using the cash from his shady busi[[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Victor Halberin|Victor Halberin]]rlier
- * uses [[History/World/Obsidian|Obsidian]] for slight magical abilities
-
->[!multi-column]
-> ![jackie](_assets/Sprite[[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Rat Nest|Rat Nest]]), C[[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]900
-> **Armor Class** 13 (Leather Armor)
-[[History/World/Obsidian|Obsidian]]*Speed** 30 ft.
+>[!multi-column] 
+>![[_assets/Sprites/People/jackie.jpg]]
+>
+>>[!info|wide-5] Jackie 
+> _Human Bard (Level 3), Chaotic Good_ 
+> **Background** Entertainer 
+> **Level** 2
+> **Armor Class** 13 (Leather Armor) 
+> **Hit Points** — _(not provided)_ **Speed** 30 ft.
 >>
 >> | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 >> | ------- | ------- | ------- | ------- | ------- | ------- |
@@ -20,6 +24,11 @@ Worked at [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Krogmaw Mine|Krogmaw M
 > **Armor Proficiencies** Light armor
 > **Weapon Proficiencies** Simple weapons, hand crossbows, longswords, rapiers, shortswords
 > **Tool Proficiencies** Lute, flute, disguise kit
+
+Worked at [[Krogmaw Mine]]. Steals small amount of [[Obsidian]] and sells it on the black market. Uses some of it on himself for small magical abilities. Owner caught him at some point and fired him. Using the cash from his shady business, he wants to reopen [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Rat Nest|Rat Nest]] in [[Dunmarrow]].
+
+- knows players from earlier
+- uses [[Obsidian]] for slight magical abilities
 
 > [!danger] Actions
 > **Cantrips:** Vicious Mockery, Prestidigitation

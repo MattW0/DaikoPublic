@@ -1,12 +1,19 @@
 ---
 tags:
-    - NPC
+  - NPC
+thumbnail: "[[_assets/Sprites/People/rozzlinaMollinsnare.jpg]]"
+origin: "[[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]"
+race: Gastroid
 ---
 
+![[_assets/Sprites/People/rozzlinaMollinsnare.jpg]]
+
 > [!info] Description
-> _Local Administrator — [[Nations/Daicon Kingdom/Lore/Grand Registry of Realms and Routes|Grand Registry of Realms and Routes]]again._”
-> - **Race[[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Postoffice|Postoffice]]**: Wizard (Enchantment/Divination hybrid)
->- **Alignment**: Lawful Neutral
+> - Local Administrator of the [[Nations/Daicon Kingdom/Lore/Grand Registry of Realms and Routes|Grand Registry of Realms and Routes]].
+> - Works at the [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Postoffice|Postoffice]]. “_You forgot to fill out Form 7C… again._”
+> - **Race**: Gastroid (Homebrew snailfolk)
+> - **Class**: Wizard (Enchantment/Divination hybrid)
+> - **Alignment**: Lawful Neutral
 
 > [!faq] **Hooks**
 >- She will **not let players skip paperwork**, no matter how heroic they are.

@@ -1,8 +1,11 @@
 ---
 tags:
-    - Place
+  - Place
+thumbnail: "[[_assets/Downloaded/Maps/Towns/TownMarket.jpg]]"
+type: Location
+nation: "[[Nations/Daicon Kingdom/Daicon Kingdom|Daicon Kingdom]]"
+city: "[[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]"
 ---
-
 ## Jobs
 
 ### [[Nations/Daicon Kingdom/Towns/Dunmarrow/Quests/Guard Duty|Guard Duty]]

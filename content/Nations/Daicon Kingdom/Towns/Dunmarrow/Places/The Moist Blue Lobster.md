@@ -1,6 +1,10 @@
 ---
 tags:
-    - Place
+  - Place
+thumbnail: "[[_assets/Sprites/Places/TheMoistBlueLobster_Opening.png]]"
+type: Town
+nation: "[[Nations/Daicon Kingdom/Daicon Kingdom|Daicon Kingdom]]"
+city: "[[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]"
 ---
 
 Previously owned by [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Berrim Barktooth|Berrim Barktooth]] and called the [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Rat Nest|Rat Nest]]. 

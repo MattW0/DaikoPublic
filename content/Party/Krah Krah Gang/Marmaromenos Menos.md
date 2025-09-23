@@ -5,7 +5,6 @@ mod: 0
 level: 1
 tags:
   - Player
-  - Public
 ---
 >[!multi-column]
 >![[_assets/Sprites/People/MarmoMorenos.jpeg]]

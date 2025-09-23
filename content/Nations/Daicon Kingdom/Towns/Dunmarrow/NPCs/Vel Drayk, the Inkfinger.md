@@ -1,7 +1,12 @@
 ---
 tags:
-    - NPC
+  - NPC
+thumbnail: "[[_assets/Sprites/People/velDrayk.png]]"
+origin: "[[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]"
+race: Half-Elf
 ---
+
+![[_assets/Sprites/People/velDrayk.png]]
 
 > [!info] Description
 > - _Forger, Fixer, and Specialist in “Administrative Alternatives”_
@@ -12,16 +17,10 @@ tags:
 >- **Notable Features**: Fingerprints smudged with residual arcane ink.
 
 > [!hint] **Offers**
-> **Fake Continental IDs ([[CIDs|CIDs]])**
+> Fake [[Nations/Daicon Kingdom/Lore/Continental Identification Sigil|Continental Identification Sigil]]
 >- **Tier I “Basic”**: Functions for most small-town Hubs, but fails under scrutiny. (25 gp)
 >- **Tier II “Woven”**: Includes a false arcane signature and mild disguise spell. Good enough to fool common Hubwardens. (150 gp)
 >- **Tier III “Mirrored”**: Reverse-enchanted to reflect bearer’s aura and simulate a real glyphmatch. Dangerous and rare. (450 gp, requires favor)
->
-> **Other Services**
->- Ghost-written bureaucratic appeals
->- Expunging of low-level registry flags
->- “Borrowed” identities of dead people who no longer use their CID
->- Supplying components to _replace_ CIDs that mysteriously “burn out”
 
 > [!faq] **Hooks**
 > - [[Caldra Sunhelm|Caldra Sunhelm]] has purchased a fake ID of Tier II. They left in suspective trust.
