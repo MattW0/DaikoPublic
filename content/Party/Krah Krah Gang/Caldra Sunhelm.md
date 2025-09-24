@@ -13,11 +13,10 @@ tags:
 >>- Paladin, human, ex state soldier
 >>- 
 
->[!multi-column]
->> [!success] Status
->>- [[Nations/Daicon Kingdom/Lore/Continental Identification Sigil|Continental Identification Sigil]] Status: Green, forged
->>- Fake name: Sophia Bluelake
->
->> [!danger] Quests
->> -
->> 
+> [!success] Status
+> - [[Nations/Daicon Kingdom/Lore/Continental Identification Sigil|Continental Identification Sigil]]: Green
+> - Forged, fake name: Sophia Bluelake
+
+> [!danger] Quests
+> -
+> 

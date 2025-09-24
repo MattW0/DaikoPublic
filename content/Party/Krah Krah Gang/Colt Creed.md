@@ -5,6 +5,8 @@ mod: 6
 level: 2
 tags:
   - Player
+cssclasses:
+  - multi-column
 ---
 >[!multi-column]
 >![[_assets/Sprites/People/ColtCreed.jpeg]]
@@ -15,10 +17,10 @@ tags:
 >>- Country boi
 
 
->[!multi-column]
->> [!success] Status
->>- [[Nations/Daicon Kingdom/Lore/Continental Identification Sigil|Continental Identification Sigil]] Status: Green
->
->> [!danger] Quests
->> -
->> 
+> [!success] Status
+>- [[Nations/Daicon Kingdom/Lore/Continental Identification Sigil|Continental Identification Sigil]]: Green
+
+> [!danger] Quests
+> -
+> 
+

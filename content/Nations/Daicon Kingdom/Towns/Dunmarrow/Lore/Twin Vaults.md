@@ -7,7 +7,7 @@ tags:
 >> [!info] **The Twin Vaults of Shal’Vaer**
 >>Wondrous Item (Legendary, requires attunement to both boxes by separate creatures)
 >>
->>Owned by: [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Jackie|Jackie]], [[_Krah Krah Gang|_Krah Krah Gang]]
+>>Owned by: [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Jackie|Jackie]], [[Party/Krah Krah Gang/Krah Krah Gang|Krah Krah Gang]]
 >
 >![[_assets/Sprites/Artifacts/Jackies_Cashregistry.png]]
 

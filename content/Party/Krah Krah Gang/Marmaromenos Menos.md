@@ -13,11 +13,10 @@ tags:
 >>- Goliath
 >
 
->[!multi-column]
->> [!success] Status
->>- [[Nations/Daicon Kingdom/Lore/Continental Identification Sigil|Continental Identification Sigil]] Status: Blue
->
->> [!danger] Quests
->> -
->> 
+> [!success] Status
+>- [[Nations/Daicon Kingdom/Lore/Continental Identification Sigil|Continental Identification Sigil]]: Blue
+
+> [!danger] Quests
+> -
+> 
 

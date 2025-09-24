@@ -12,4 +12,4 @@ In: [[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]], [[Nations/Da
 
 
 
-_Last update: 23.09.2025, 23:24_
+_Last update: 24.09.2025, 11:59_

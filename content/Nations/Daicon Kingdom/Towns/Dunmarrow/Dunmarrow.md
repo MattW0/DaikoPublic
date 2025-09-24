@@ -8,7 +8,7 @@ type: City
 > [!info] Description
 > Smallish mining village with 8000 inhabitants. Lil Zollikofä
 
-![[dunmarrow.webp|dunmarrow.webp]]
+![[_assets/Sprites/Places/dunmarrow.webp]]
 
 > [!abstract] Relevant NPCs
 >* [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Jackie|Jackie]]
@@ -21,10 +21,11 @@ type: City
 
 > [!danger] Quests
 > - [[Nations/Daicon Kingdom/Towns/Dunmarrow/Quests/Mine Combat|Mine Combat]]
-> 
-## Places
-* [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/The Moist Blue Lobster|The Moist Blue Lobster]]
-* [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Townsquare|Townsquare]]
-* [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Krogmaw Mine|Krogmaw Mine]]
-* [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Postoffice|Postoffice]]
-* [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Fuega|Fuega]]
+>
+
+> [!faq] Places
+> - [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/The Moist Blue Lobster|The Moist Blue Lobster]]
+> - [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Townsquare|Townsquare]]
+> - [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Krogmaw Mine|Krogmaw Mine]]
+> - [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Postoffice|Postoffice]]
+> - [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Fuega|Fuega]]
