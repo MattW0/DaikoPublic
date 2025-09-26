@@ -2,11 +2,10 @@
 tags:
   - Place
 thumbnail: "[[_assets/Sprites/Places/TheMoistBlueLobster_Opening.png]]"
-type: Town
+type: Location
 nation: "[[Nations/Daicon Kingdom/Daicon Kingdom|Daicon Kingdom]]"
 city: "[[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]"
 ---
-
 Previously owned by [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Berrim Barktooth|Berrim Barktooth]] and called the [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Rat Nest|Rat Nest]]. 
 - Renamed to [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/The Moist Blue Lobster|The Moist Blue Lobster]]. 
 - Party has a [[Nations/Daicon Kingdom/Towns/Dunmarrow/Lore/Twin Vaults|Twin Vaults]] (magic kässeli) from [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Jackie|Jackie]] to always carry the earnings with them.

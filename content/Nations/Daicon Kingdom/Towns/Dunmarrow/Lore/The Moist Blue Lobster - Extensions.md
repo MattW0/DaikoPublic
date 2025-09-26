@@ -14,6 +14,20 @@ Equipment and state of [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/The Moist
 | 20+   | Big hit (earn d100 + 40 gp)    |
 ## Employess
 
+Potential Employees:
+1. **Elira Voss** – Human waitress
+    - Quick, attentive, remembers every order by heart.
+    - Known for calming rowdy guests with a sharp tongue and a smile.
+2. **Markus Drenn** – Human cook
+    - Stocky, middle-aged, keeps the kitchen spotless.
+    - Specialty: spicy stews and roasted meats.
+3. **Snib Wicknose** – Goblin dishwasher & errand-runner
+    - Small, wiry, and always darting between tables to pick up mugs.
+    - Loves to gossip, often overhears guests’ secrets.
+4. **Grumgar Ironjaw** – Orc bartender
+    - Towering, scarred, but surprisingly gentle with the mugs
+    - Famous for his custom ale blend “Ironjaw Brew” and his ability to break up fights with one glare.
+
 ## Buffs
 - Deal with [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Guiseppe, the Russian|Guiseppe, the Russian]] -> almost static buff?
 

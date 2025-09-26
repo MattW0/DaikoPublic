@@ -1,0 +1,15 @@
+---
+tags:
+  - NPC
+thumbnail: "[[_assets/Sprites/People/varn.png]]"
+origin: unknown
+race: Human
+---
+## Description
+[[Nations/Umbrae Concordia/MICE|MICE]] Commander showing up in [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Krogmaw Mine|Krogmaw Mine]]. Has heard of undiscovered resources deeper and questions [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Jackie|Jackie]].
+
+
+![varn](_assets/Sprites/People/varn.png)
+
+
+[[Agent Varn - Stats]]
