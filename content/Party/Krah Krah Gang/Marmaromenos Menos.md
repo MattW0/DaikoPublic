@@ -2,15 +2,15 @@
 hp: 15
 ac: 18
 mod: 0
-level: 1
+level: 2
 tags:
   - Player
 ---
->[!multi-column]
->![[_assets/Sprites/People/MarmoMorenos.jpeg]]
->
->> [!info|wide-5] Marmaromenos Menos
->>- Goliath
+![[_assets/Sprites/People/MarmoMorenos.jpeg]]
+
+> [!info] Marmaromenos Menos
+>- Goliath
+>- Last worshipper of ?
 >
 
 > [!success] Status

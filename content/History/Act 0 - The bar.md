@@ -21,6 +21,7 @@ Location: [[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]
 	* [[Nations/Daicon Kingdom/Lore/Inter Transport HUB|Inter Transport HUB]]
 3) Preparations for bar: suppliers, flyers and music
 4) Failed attempt to explore [[Nations/Daicon Kingdom/Towns/Dunmarrow/Quests/Lost in the well|Lost in the well]]
+5) Level 2
 ### [[Preparation/Sessions/Session 3|Session 3]]
 1) Rescue the doll for [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Guiseppe, the Russian|Guiseppe, the Russian]] in [[Nations/Daicon Kingdom/Towns/Dunmarrow/Quests/Lost in the well|Lost in the well]]
 2) Opening of [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/The Moist Blue Lobster|The Moist Blue Lobster]]
@@ -28,5 +29,7 @@ Location: [[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]
 	- Investigate [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Krogmaw Mine|Krogmaw Mine]] crystal mine
 	- Encounter [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Victor Halberin|Victor Halberin]] and dead bodies at the entrance
 ### [[Preparation/Sessions/Session 4|Session 4]]
-- [[Dick]] 
+- Scorpies combat
+- Traps and [[Nations/Daicon Kingdom/Towns/Dunmarrow/Lore/Twin Vaults|Twin Vaults]]
+- [[Nations/Umbrae Concordia/Lore/MICE|MICE]] encounter
 

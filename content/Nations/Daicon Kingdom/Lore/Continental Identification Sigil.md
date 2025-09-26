@@ -15,7 +15,7 @@ tags:
 >>- [[Party/Krah Krah Gang/Colt Creed|Colt Creed]]
 >>- [[Party/Krah Krah Gang/Marmaromenos Menos|Marmaromenos Menos]]
 >
->>![Card id](_assets/Sprites/Artifacts/continentaldSigil.png)
+>>![Card id](_assets/Sprites/Lore/continentaldSigil.png)
 >
 
 > [!faq] Mechanics

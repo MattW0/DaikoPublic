@@ -10,7 +10,9 @@ Enclosed by the [[Nations/Daicon Kingdom/Lore/Durgrat Mountains|Durgrat Mountain
 
 ![[_assets/Sprites/Maps/DunmarrowRegion.webp]]
 
+## Towns
+- [[Nations/Daicon Kingdom/Towns/Northwatch Garrison/Northwatch Garrison|Northwatch Garrison]]
 ## Geographic features
 - [[Nations/Daicon Kingdom/Lore/Durgrat Mountains|Durgrat Mountains]]
 - [[River Lorynth|River Lorynth]]
-- 
+
