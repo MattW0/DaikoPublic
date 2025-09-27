@@ -11,15 +11,14 @@ type: City
 - Esvelen is strategically important: whoever holds it controls the northern passage into the kingdom.
 ### Relevant NPCs
 * [[Nations/Daicon Kingdom/Towns/Esvelen/NPCs/Duke Moron|Duke Moron]]: City councellor
-* [[Galiena von Derendal|Galiena von Derendal]]: Heir to the [[Closter of Derendal]],
-* [[Elenor of Derendal|Elenor of Derendal]]: Father of Galiena
+* [[Elenor of Derendal|Elenor of Derendal]]: Cardinal of the [[Closter of Derendal]]
 ### Economy & Trade
-- Known as a **trade hub** between the Daicon Kingdom and the northern tribes/realms.
+- Known as the [[Nations/Daicon Kingdom/Lore/Inter Transport HUB|Inter Transport HUB]] between the Daicon Kingdom and the northern tribes/realms.
 - Exports: iron tools, farm produce, and fine wool.
 - Imports: northern furs, rare herbs, and gemstones.
 - The city’s **northern markets** are bustling, with caravans constantly arriving and departing. Smuggling is common along the frontier.
 
-![City of Morkaliff|692x692](_assets/Downloaded/Maps/Towns/City%20of%20Morkaliff.jpg)
+![[_assets/Downloaded/Maps/Towns/City of Morkaliff.jpg|514x514]]
 
 [[Esvelen - Deeper Lore]]
 

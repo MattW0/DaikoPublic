@@ -1,7 +1,13 @@
 ---
 tags:
-    - Lore
+  - Lore
+thumbnail: "[[_assets/_templates/Sprite Placeholders/lore_placeholder.png]]"
+type: History
+concerning: World
 ---
+
+> [!info] Timeframe
+ >- Started 20 years ago, following the [[History/Lore/Age of Enlightenment|Age of Enlightenment]].
 
 The Age of Shadows marks the present day in [[History/World/Daiko|Daiko]]’s history, starting 20 years ago. Human society, having industrialized and militarized to extreme levels, now teeters on the edge of totalitarian domination. The ruling powers speak of “order, unity, and purity,” but behind these words is a regime built on surveillance, suppression, and the brutal erasure of culture and identity.
 

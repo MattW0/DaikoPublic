@@ -1,44 +1,20 @@
 ---
 tags:
-    - Lore
+  - Lore
+thumbnail: "[[_assets/_templates/Sprite Placeholders/lore_placeholder.png]]"
+type: History
+concerning: World
 ---
 
-- **Timeframe**: Began ~800 years ago on the continent of [[Daiko Map]].
-## Discovery of Obsidian
+> [!info] Timeframe
+> - Began ~800 years ago on the continent of [[History/World/Daiko|Daiko]].
+> - Ended 300 years ago, entering the [[History/Lore/Age of Enlightenment|Age of Enlightenment]].
 
-- Humans unearthed **[Obsidian]**, a dark and radiant substance.
-- Processing it granted direct access to the **[Weave]**.
+### Happenings
+- **Rise of the Obsidian Guilds** – secretive human orders formed around the refinement and distribution of Obsidian, often wielding more influence than kings. Rival guilds fought shadow wars that shaped the fate of nations.
+- **The Wasting Plague** – a mysterious affliction struck soldiers and sorcerers alike, their bodies twisted by prolonged exposure to raw Obsidian. Though feared, some saw this mutation as a divine gift.
+- **Age of Stonebound Kings** – rulers who bound shards of Obsidian into their flesh to extend life and power. Their reigns were long, but their humanity slipped away, leaving warped dynasties.
+- **The War of Black Rivers** – rival kingdoms poisoned one another’s rivers with ground Obsidian dust, devastating farmland and birthing wastelands still cursed today.
+- **The Silent Accord** – surviving powers eventually agreed—though not always honored—that the mining and hoarding of [[History/World/Obsidian|Obsidian]] must be limited, lest the world itself unravel.
 
-## Rise of Human Power
-
-- Humans claimed magic without divine origin.
-    
-- Expanded west and north, spreading rapidly.
-    
-- Engaged in trade and conflict with foreign powers.
-    
-- Disturbed the balance of ancient magical races:
-    
-    - Fey, elemental, and celestial beings.
-        
-    - Some submitted, others fled into exile.
-        
-
-## Consequences of Obsidian
-
-- Fuel for conquest, colonization, and sorcery.
-    
-- Excessive use led to:
-    
-    - Corruption of soul and mind.
-        
-    - Endless wars between kingdoms.
-        
-    - Survival only of the strongest, with rich Obsidian sources.
-        
-
-## Lasting Truth
-
-- A common saying emerged:
-    
-    - _“Those who use Obsidian for too long are changed—first in thought, then in flesh. And always, in allegiance.”_
+> [!danger] _“Those who use Obsidian for too long are changed—first in thought, then in flesh. And always, in allegiance.”_

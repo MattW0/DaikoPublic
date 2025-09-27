@@ -1,6 +1,6 @@
 ---
 hp: 20
-ac: 18
+ac: 19
 mod: 0
 level: 2
 tags:

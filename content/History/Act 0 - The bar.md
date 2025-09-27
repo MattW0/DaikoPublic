@@ -29,7 +29,7 @@ Location: [[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]
 	- Investigate [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Krogmaw Mine|Krogmaw Mine]] crystal mine
 	- Encounter [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Victor Halberin|Victor Halberin]] and dead bodies at the entrance
 ### [[Preparation/Sessions/Session 4|Session 4]]
-- Scorpies combat
-- Traps and [[Nations/Daicon Kingdom/Towns/Dunmarrow/Lore/Twin Vaults|Twin Vaults]]
-- [[Nations/Umbrae Concordia/Lore/MICE|MICE]] encounter
+- Scorpies combat, [[Nations/Daicon Kingdom/Towns/Dunmarrow/Lore/Twin Vaults|Twin Vaults]] revelation
+- Traps
+- Bottom floor: Jackie and [[Nations/Umbrae Concordia/Lore/MICE|MICE]] encounter
 

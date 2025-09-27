@@ -4,7 +4,6 @@ tags:
 ---
 
 Must present a valid [[Nations/Daicon Kingdom/Lore/Continental Identification Sigil|Continental Identification Sigil]] to use. Allows fast, safe, and regulated travel between major cities across the continent. It is maintained by the Continental Transit Authority and powered through a combination of leyline energy, arcane guidance, and stabilized ritual frameworks. This document serves as a practical guide for all newly registered citizens holding a valid Continental Identification Sigil (CID). Possession of a CID entitles the bearer to standard use of the Transportation Hubs, provided they are not under sanction, magical contamination, or legal investigation.
-
 ## How to use
 1. Approach the Gate Pillar and hold your CID to the activation rune.
 2. Wait for your CID to be scanned and accepted.
