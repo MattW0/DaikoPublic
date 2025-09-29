@@ -6,7 +6,7 @@ level: 2
 tags:
   - Player
 ---
-![[_assets/Sprites/People/MarmoMorenos.jpeg]]
+![[_assets/Sprites/People/_party/MarmoMorenos.jpeg]]
 
 > [!info] Marmaromenos Menos
 >- Goliath
@@ -20,3 +20,4 @@ tags:
 > -
 > 
 
+![[_assets/Sprites/People/_party/Key_menos.png|208x312]]

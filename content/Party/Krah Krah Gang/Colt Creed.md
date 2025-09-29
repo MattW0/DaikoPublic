@@ -9,7 +9,7 @@ cssclasses:
   - multi-column
 ---
 
-![[_assets/Sprites/People/ColtCreed.jpeg]]
+![[_assets/Sprites/People/_party/ColtCreed.jpeg]]
 
 
 > [!info] Colt Creed
@@ -23,3 +23,4 @@ cssclasses:
 > -
 > 
 
+![[_assets/Sprites/People/_party/key_Colt.png|260x390]]
