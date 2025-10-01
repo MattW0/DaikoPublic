@@ -5,25 +5,25 @@ thumbnail: "[[_assets/Sprites/People/jackie.jpg]]"
 origin: "[[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]"
 race: Human
 ---
->[!multi-column] 
->![[_assets/Sprites/People/jackie.jpg]]
->
->>[!info|wide-5] Jackie 
+
+>[!info] Jackie 
 > _Human Bard (Level 3), Chaotic Good_ 
 > **Background** Entertainer 
 > **Level** 2
 > **Armor Class** 13 (Leather Armor) 
 > **Hit Points** — _(not provided)_ **Speed** 30 ft.
->>
->> | STR     | DEX     | CON     | INT     | WIS     | CHA     |
->> | ------- | ------- | ------- | ------- | ------- | ------- |
->> | 10 (+0) | 14 (+2) | 13 (+1) | 12 (+1) | 10 (+0) | 16 (+3) |
->>
+>
+> | STR     | DEX     | CON     | INT     | WIS     | CHA     |
+> | ------- | ------- | ------- | ------- | ------- | ------- |
+> | 10 (+0) | 14 (+2) | 13 (+1) | 12 (+1) | 10 (+0) | 16 (+3) |
+>
 > **Saving Throws** Dexterity, Charisma
 > **Skills** Performance, Persuasion, Deception, Insight
 > **Armor Proficiencies** Light armor
 > **Weapon Proficiencies** Simple weapons, hand crossbows, longswords, rapiers, shortswords
 > **Tool Proficiencies** Lute, flute, disguise kit
+
+![[_assets/Sprites/People/jackie.jpg|351x450]]
 
 Worked at [[Krogmaw Mine]]. Steals small amount of [[Obsidian]] and sells it on the black market. Uses some of it on himself for small magical abilities. Owner caught him at some point and fired him. Using the cash from his shady business, he wants to reopen [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Rat Nest|Rat Nest]] in [[Dunmarrow]].
 

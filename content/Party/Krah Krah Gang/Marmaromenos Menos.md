@@ -6,12 +6,12 @@ level: 2
 tags:
   - Player
 ---
-![[_assets/Sprites/People/_party/MarmoMorenos.jpeg]]
 
 > [!info] Marmaromenos Menos
 >- Goliath
 >- Last worshipper of ?
->
+
+![[_assets/Sprites/People/_party/MarmoMorenos.jpeg|412x618]]
 
 > [!success] Status
 >- [[Nations/Daicon Kingdom/Lore/Continental Identification Sigil|Continental Identification Sigil]]: Blue

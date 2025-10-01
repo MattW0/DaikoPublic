@@ -9,7 +9,7 @@ race: Human
 >[!info] Agent Holt & Drumm
 _Medium humanoid (human)_
 
-![MICE-enforcers](_assets/Sprites/People/MICE-enforcers.jpg)
+![MICE-enforcers|554x578](_assets/Sprites/People/MICE-enforcers.jpg)
 
 
 [[MICE Enforcers - Stats]]

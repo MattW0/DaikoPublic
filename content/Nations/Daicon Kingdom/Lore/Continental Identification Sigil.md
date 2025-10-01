@@ -3,20 +3,19 @@ tags:
     - Item
 ---
 
->[!multi-column]
->> [!info] Continental Identification Sigil (CIS)
->>*Common Item (requires attunement)*
->>Small rune plate magically bound to registered citizens of [[Nations/Daicon Kingdom/Daicon Kingdom|Daicon Kingdom]]
->>
->>- Must be presented to travel with the [[Nations/Daicon Kingdom/Lore/Inter Transport HUB|Inter Transport HUB]] and upon request of [MICE](app://obsidian.md/MICE) officers
->>
+> [!info] Continental Identification Sigil (CIS)
+>*Common Item (requires attunement)*
+>Small rune plate magically bound to registered citizens of [[Nations/Daicon Kingdom/Daicon Kingdom|Daicon Kingdom]]
+>
+>- Must be presented to travel with the [[Nations/Daicon Kingdom/Lore/Inter Transport HUB|Inter Transport HUB]] and upon request of [MICE](app://obsidian.md/MICE) officers
+>
 >>Owned by: 
 >>- [[Party/Krah Krah Gang/Caldra Sunhelm|Caldra Sunhelm]]
 >>- [[Party/Krah Krah Gang/Colt Creed|Colt Creed]]
 >>- [[Party/Krah Krah Gang/Marmaromenos Menos|Marmaromenos Menos]]
->
->>![Card id](_assets/Sprites/Lore/continentaldSigil.png)
->
+
+![Card id|298x447](_assets/Sprites/Lore/continentaldSigil.png)
+
 
 > [!faq] Mechanics
 > The sigil is magically linked to the attuned creature’s soul. It displays their name, realm of origin, and magical affinity in flowing glyphs. Any official scryer or registry terminal can confirm the sigil’s authenticity. A _Detect Magic_ spell reveals an abjuration and divination aura.
