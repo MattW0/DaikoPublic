@@ -1,7 +1,7 @@
 ---
 tags:
   - NPC
-thumbnail: "[[_assets/Sprites/People/randalCorn.png]]"
+thumbnail: "[[_assets/Sprites/People/randalCorn.png|None]]"
 origin: "[[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]"
 race: Human
 ---

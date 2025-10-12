@@ -1,7 +1,7 @@
 ---
 tags:
   - Place
-thumbnail: "[[_assets/Downloaded/Maps/Dungeons/TC_Silverspring Mine 01 Entrance_Free.jpg]]"
+thumbnail: "[[_assets/Downloaded/Maps/Dungeons/TC_Silverspring Mine 01 Entrance_Free.jpg|None]]"
 nation: "[[Nations/Daicon Kingdom/Daicon Kingdom|Daicon Kingdom]]"
 type: Location
 ---
@@ -18,5 +18,5 @@ type: Location
 > [[Nations/Daicon Kingdom/Towns/Dunmarrow/Quests/Mine Combat|Mine Combat]]
 
 
-![[_assets/Downloaded/Maps/Dungeons/TC_Silverspring Mine 01 Entrance_Free.jpg]]
+![[_assets/Downloaded/Maps/Dungeons/TC_Silverspring Mine 01 Entrance_Free.jpg|None]]
 

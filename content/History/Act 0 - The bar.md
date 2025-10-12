@@ -31,5 +31,5 @@ Location: [[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]
 ### [[Preparation/Sessions/Session 4|Session 4]]
 - Scorpies combat, [[Nations/Daicon Kingdom/Towns/Dunmarrow/Lore/Twin Vaults|Twin Vaults]] revelation
 - Traps
-- Bottom floor: Jackie and [[Nations/Umbrae Concordia/Lore/MICE|MICE]] encounter
+- Bottom floor: Jackie and [[Nations/The Gray Ring/Lore/MICE|MICE]] encounter
 

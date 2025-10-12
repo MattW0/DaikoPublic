@@ -3,4 +3,4 @@ tags:
     - Lore
 ---
 
-![[Helios.webp|Helios.webp]]
+![[_assets/Sprites/Maps/Helios.webp|None]]

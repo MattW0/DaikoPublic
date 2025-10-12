@@ -1,7 +1,7 @@
 ---
 tags:
   - Lore
-thumbnail: "[[_assets/_templates/Sprite Placeholders/lore_placeholder.png]]"
+thumbnail: "[[_assets/_templates/Sprite Placeholders/lore_placeholder.png|None]]"
 type: Mechanics
 concerning: Party
 ---
@@ -24,5 +24,5 @@ The Twin Vaults function as a **paired teleportation container system**. Any non
 - **Box A** is kept as a “register” in the player’s bar for daily earnings and orders.
 - **Box B** is carried by the party during adventures. This setup allows passive income transfer and magical communication of funds, notes, and materials.
 ## Fruther knowledge
-- [[Twin Vaults - Deeper Lore]]
+- [[Nations/Daicon Kingdom/Towns/Dunmarrow/Lore/Twin Vaults - Deeper Lore|Twin Vaults - Deeper Lore]]
 - [[Nations/Daicon Kingdom/Towns/Dunmarrow/Lore/Twin Vaults Key|Twin Vaults Key]]

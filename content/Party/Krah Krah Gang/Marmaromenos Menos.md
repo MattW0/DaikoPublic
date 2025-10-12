@@ -8,16 +8,38 @@ tags:
 ---
 
 > [!info] Marmaromenos Menos
->- Goliath
+>- *Goliath*
 >- Last worshipper of ?
-
-![[_assets/Sprites/People/_party/MarmoMorenos.jpeg|412x618]]
 
 > [!success] Status
 >- [[Nations/Daicon Kingdom/Lore/Continental Identification Sigil|Continental Identification Sigil]]: Blue
+>- Has performed house ritual for [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/The Moist Blue Lobster|The Moist Blue Lobster]]
 
 > [!danger] Quests
 > -
 > 
 
+![[_assets/Sprites/People/_party/MarmoMorenos.jpeg|412x618]]
+
 ![[_assets/Sprites/People/_party/Key_menos.png|208x312]]
+### 1. Five things about your childhood/upbringing
+- His genetic parents were named [[Javik and Liara|None]].
+- He grew up in a class of children from the same [[Caste|None]]; children were groomed for specific duties. He belonged to the priest caste.
+- His parents were technically not allowed to interact with him outside of specific dates.
+- He tried to make friends with children from other castes and came to understand them better through that.
+- His primary caretaker was [[Aurora|None]]. She was the most important person to Marmoromenos.
+### 2. Important relationships (family, friends, ...)
+- [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Jackie|Jackie]] taught him the local language and helped him look for relics of his people.
+- He hears whispers of his people—caretakers, friends, family, royals, simple citizens he once talked to.
+- He keeps a locket with a strand of [[Aurora|None]]’s hair.
+### 3. Places you have a connection with (birthplace, place of studies/training, ...)
+- He doesn’t really have connections to cities of this age.
+### 4. Membership/affiliations with organizations (clans, army, guilds, ...)
+- Citizen of the splendid city of [[Teleion|None]]
+### 5. Your goals/believes 
+- He wants to learn what happened to his people.
+- He believes in the greater good for the population.
+- He thinks that wealth and riches are important for the well-being of a population.
+- He is an Avatar of his people—what that means, he doesn’t know.
+
+[[Marmaromenos Menos - Private|None]]

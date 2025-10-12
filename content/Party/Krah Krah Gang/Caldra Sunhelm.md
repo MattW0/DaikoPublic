@@ -7,11 +7,10 @@ tags:
   - Player
 ---
 
->[!info|] Caldra Sunhelm
->- Paladin, human, ex state soldier
+>[!info] Caldra Sunhelm
+>- *Paladin, human, 32 years old*
+>- Ex state soldier
 >- Not much for elegance, more for strength
-
-![[_assets/Sprites/People/_party/CaldraSunhelm.jpg|540x540]]
 
 > [!success] Status
 > - [[Nations/Daicon Kingdom/Lore/Continental Identification Sigil|Continental Identification Sigil]]: Green
@@ -20,4 +19,26 @@ tags:
 > [!danger] Quests
 > -
 
+![[_assets/Sprites/People/_party/CaldraSunhelm.jpg|540x540]]
+
 ![[_assets/Sprites/People/_party/key_Cauldra.png|264x264]]
+
+### 1. Five things about your childhood/upbringing
+- Born in [[Varenhold|None]] to modest loyalist parents.
+- Her father, [[Captain Alric Sunhelm|None]], was an [[Iron Aegis|None]] officer.
+- Trained from young age in discipline, combat drills, and loyalty to Kingdom.
+- Learned early that magic must be controlled; children exposed to [[History/World/Obsidian|Obsidian]] feared.
+### 2. Important relationships (family, friends, ...)
+- [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Jackie|Jackie]] — current contact in [[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]] and her link to the group; trusts him cautiously.
+### 3. Places you have a connection with (birthplace, place of studies/training, ...)
+- [[Varenhold|None]] — birthplace, childhood home, [[Iron Aegis|None]] recruitment area.
+- [[Nations/Daicon Kingdom/Dunmarrow Region|Dunmarrow Region]] — current refuge, where she operates under alias Sophia Bluelake.
+### 4. Membership/affiliations with organizations (clans, army, guilds, ...)
+- Former member of [[Iron Aegis|None]] Order under [[Nations/Daicon Kingdom/Daicon Kingdom|Daicon Kingdom]]. 
+- Falsified identity “Sophia Bluelake” to pass as a neutral or visiting commoner.
+### 5. Your goals/believes 
+- To survive quietly under a false name and avoid detection.
+- To protect innocents from abuses of magic and [[History/World/Obsidian|Obsidian]] without broad recognition. 
+- To find a small measure of peace, somewhere far from the Kingdom’s reach.
+
+[[Caldra Sunhelm - Private|None]]

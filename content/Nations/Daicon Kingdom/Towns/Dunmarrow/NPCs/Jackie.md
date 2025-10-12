@@ -1,7 +1,7 @@
 ---
 tags:
   - NPC
-thumbnail: "[[_assets/Sprites/People/jackie.jpg]]"
+thumbnail: "[[_assets/Sprites/People/jackie.jpg|None]]"
 origin: "[[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]"
 race: Human
 ---
@@ -25,10 +25,10 @@ race: Human
 
 ![[_assets/Sprites/People/jackie.jpg|351x450]]
 
-Worked at [[Krogmaw Mine]]. Steals small amount of [[Obsidian]] and sells it on the black market. Uses some of it on himself for small magical abilities. Owner caught him at some point and fired him. Using the cash from his shady business, he wants to reopen [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Rat Nest|Rat Nest]] in [[Dunmarrow]].
+Worked at [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Krogmaw Mine|Krogmaw Mine]]. Steals small amount of [[History/World/Obsidian|Obsidian]] and sells it on the black market. Uses some of it on himself for small magical abilities. Owner caught him at some point and fired him. Using the cash from his shady business, he wants to reopen [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Rat Nest|Rat Nest]] in [[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]].
 
 - knows players from earlier
-- uses [[Obsidian]] for slight magical abilities
+- uses [[History/World/Obsidian|Obsidian]] for slight magical abilities
 
 > [!danger] Actions
 > **Cantrips:** Vicious Mockery, Prestidigitation

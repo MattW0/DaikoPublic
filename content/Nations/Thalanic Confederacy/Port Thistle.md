@@ -8,7 +8,7 @@ city:
 ---
 
 > [!info] Description
-> Coastal town in the [[World/Nations/Zeta/Zeta]] wilder region
+> Coastal town in the [[Nations/Zeta/Zeta|None]] wilder region
 
 > [!abstract] Relevant NPCs
 > * ...

@@ -1,7 +1,7 @@
 ---
 tags:
   - NPC
-thumbnail: "[[_assets/Sprites/People/victorHalberin.jpg]]"
+thumbnail: "[[_assets/Sprites/People/victorHalberin.jpg|None]]"
 origin: "[[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]"
 race: Human
 ---

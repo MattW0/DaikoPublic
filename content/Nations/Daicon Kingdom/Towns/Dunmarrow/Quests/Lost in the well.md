@@ -3,7 +3,8 @@ tags:
     - Quest
 ---
 
-20 meters deep in the middle of [[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]].
+- 20 meters deep in the middle of [[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]].
+- Mineshaft A1 leads to ??
 
 **Challenges:**
 - **Athletics (DC 12):** Climb down the slick well wall (60 ft).

@@ -1,7 +1,7 @@
 ---
 tags:
   - Lore
-thumbnail: "[[_assets/_templates/Sprite Placeholders/lore_placeholder.png]]"
+thumbnail: "[[_assets/_templates/Sprite Placeholders/lore_placeholder.png|None]]"
 type: Mechanics
 concerning: Party
 ---

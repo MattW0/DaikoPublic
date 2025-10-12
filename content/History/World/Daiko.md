@@ -4,7 +4,7 @@ tags:
 ---
 
 
-![[Daiko.webp|Daiko.webp]]
+![[_assets/Sprites/Maps/Daiko.webp|None]]
 
 
 

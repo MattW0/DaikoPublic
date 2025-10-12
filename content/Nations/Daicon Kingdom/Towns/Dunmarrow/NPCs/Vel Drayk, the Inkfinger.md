@@ -1,12 +1,12 @@
 ---
 tags:
   - NPC
-thumbnail: "[[_assets/Sprites/People/velDrayk.png]]"
+thumbnail: "[[_assets/Sprites/People/velDrayk.png|None]]"
 origin: "[[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]"
 race: Half-Elf
 ---
 
-![[_assets/Sprites/People/velDrayk.png]]
+![[_assets/Sprites/People/velDrayk.png|None]]
 
 > [!info] Description
 > - _Forger, Fixer, and Specialist in “Administrative Alternatives”_
@@ -23,7 +23,7 @@ race: Half-Elf
 >- **Tier III “Mirrored”**: Reverse-enchanted to reflect bearer’s aura and simulate a real glyphmatch. Dangerous and rare. (450 gp, requires favor)
 
 > [!faq] **Hooks**
-> - [[Caldra Sunhelm|Caldra Sunhelm]] has purchased a fake ID of Tier II. They left in suspective trust.
+> - [[Party/Krah Krah Gang/Caldra Sunhelm|Caldra Sunhelm]] has purchased a fake ID of Tier II. They left in suspective trust.
 ## Other
 - Vel is polite and helpful but never volunteers information.
 - He likes the party if they amuse him — and especially if they owe him.

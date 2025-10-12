@@ -1,7 +1,7 @@
 ---
 tags:
   - Place
-thumbnail: "[[_assets/Downloaded/Maps/Towns/TownMarket.jpg]]"
+thumbnail: "[[_assets/Downloaded/Maps/Towns/TownMarket.jpg|None]]"
 type: Location
 nation: "[[Nations/Daicon Kingdom/Daicon Kingdom|Daicon Kingdom]]"
 city: "[[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]"
