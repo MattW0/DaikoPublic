@@ -13,11 +13,6 @@ city: "[[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]"
 * **Reward**: 400 GP
 
 ---
-### [[Bar managers|Bar managers]]
-* [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Berrim Barktooth|Berrim Barktooth]] looks for someone to take his shift – Bartending and managing for a full week in the [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/The Moist Blue Lobster|The Moist Blue Lobster]].
-* **Reward:** 100 gp
-
----
 ### [[Nations/Daicon Kingdom/Towns/Dunmarrow/Quests/Spores of doubt|Spores of doubt]]
 * [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Thalwine Mossbloom|Thalwine Mossbloom]] - **Herb Gathering** – Retrieve _veilshade caps_ from the _Shroudfen Glade_.
 * **Reward:** 80 gp

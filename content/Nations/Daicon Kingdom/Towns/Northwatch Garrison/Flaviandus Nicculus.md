@@ -2,13 +2,13 @@
 tags:
   - NPC
 thumbnail:
-origin: Esvelen
+origin: Durundal
 race: Dwarf
 ---
 
 > [!info|wide-5] Flaviandus Nicculus
 > - _Dwarf_
-> - Garrison officer of [[Nations/Daicon Kingdom/Towns/Northwatch Garrison/Northwatch Garrison|Northwatch Garrison]]
+> - Garrison officer of the [[Nations/Daicon Kingdom/Towns/Northwatch Garrison/Northwatch Garrison|Northwatch Garrison]]
 
 > [!faq] **Hooks**
 >- 
@@ -16,4 +16,4 @@ race: Dwarf
 > [!danger] **Abilities & Traits**
 > -
 
-[[Flaviandus Nicculus - Stats|None]]
+[[Nations/Daicon Kingdom/Towns/Northwatch Garrison/Flaviandus Nicculus - Stats|Flaviandus Nicculus - Stats]]

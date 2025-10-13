@@ -42,4 +42,4 @@ tags:
 - He thinks that wealth and riches are important for the well-being of a population.
 - He is an Avatar of his people—what that means, he doesn’t know.
 
-[[Marmaromenos Menos - Private|None]]
+[[Party/Krah Krah Gang/Marmaromenos Menos - Private|Marmaromenos Menos - Private]]

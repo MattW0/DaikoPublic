@@ -34,4 +34,4 @@ tags:
 ### 5. Your goals/believes 
 ???
 
-[[Colt Creed - Private|None]]
+[[Party/Krah Krah Gang/Colt Creed - Private|Colt Creed - Private]]

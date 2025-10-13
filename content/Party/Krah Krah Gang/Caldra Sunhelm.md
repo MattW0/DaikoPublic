@@ -41,4 +41,4 @@ tags:
 - To protect innocents from abuses of magic and [[History/World/Obsidian|Obsidian]] without broad recognition. 
 - To find a small measure of peace, somewhere far from the Kingdom’s reach.
 
-[[Caldra Sunhelm - Private|None]]
+[[Party/Krah Krah Gang/Caldra Sunhelm - Private|Caldra Sunhelm - Private]]

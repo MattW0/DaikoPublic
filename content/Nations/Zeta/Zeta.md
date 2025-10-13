@@ -1,7 +1,7 @@
 ---
 tags:
   - Lore
-thumbnail: "[[_assets/_templates/Sprite Placeholders/lore_placeholder.png|None]]"
+thumbnail:
 type: Region
 concerning: World
 ---

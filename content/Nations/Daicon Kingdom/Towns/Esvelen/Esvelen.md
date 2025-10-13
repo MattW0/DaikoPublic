@@ -21,5 +21,5 @@ type: City
 
 ![[_assets/Downloaded/Maps/Towns/City of Morkaliff.jpg|514x514]]
 
-[[Esvelen - Deeper Lore|None]]
+[[Nations/Daicon Kingdom/Towns/Esvelen/Esvelen - Deeper Lore|Esvelen - Deeper Lore]]
 
