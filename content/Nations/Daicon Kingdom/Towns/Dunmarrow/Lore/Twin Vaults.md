@@ -1,9 +1,9 @@
 ---
 tags:
   - Lore
-thumbnail: "[[_assets/_templates/Sprite Placeholders/lore_placeholder.png|None]]"
-type: Mechanics
-concerning: Party
+thumbnail: "[[_assets/Sprites/Lore/Jackies_Cashregistry.png]]"
+concerning: Mechanics
+context: Party
 ---
 
 > [!info] Description

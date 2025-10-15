@@ -2,7 +2,7 @@
 tags:
   - NPC
 thumbnail:
-origin: Durundal
+origin: "[[Nations/Ironreach/Hammerfall Empire/Durundal/Durundal|Durundal]]"
 race: Dwarf
 ---
 

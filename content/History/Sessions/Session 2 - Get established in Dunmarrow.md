@@ -1,0 +1,29 @@
+---
+tags:
+  - Lore
+thumbnail:
+concerning: History
+context: Party
+---
+[[Pete|Pete]] Local drunkard, always hangs in [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/The Moist Blue Lobster|The Moist Blue Lobster]]
+## Collecting [[Nations/Daicon Kingdom/Lore/Continental Identification Sigil|Continental Identification Sigil]] Ids
+* Postoffice
+* [[Party/Krah Krah Gang/Caldra Sunhelm|Caldra Sunhelm]] gets a frogery from [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Vel Drayk, the Inkfinger|Vel Drayk, the Inkfinger]]
+### Opening Effort:
++1 from [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Hank and his buddies|Hank and his buddies]] 
+[[Nations/Daicon Kingdom/Towns/Dunmarrow/Lore/Ferrun Bandits|Ferrun Bandits]] were killed during [[Nations/Daicon Kingdom/Towns/Dunmarrow/Quests/Guard Duty|Guard Duty]] 
+
+[[Party/Krah Krah Gang/Marmaromenos Menos|Marmaromenos Menos]] mach Menu Plan 
+- Medicine Check with [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Diego (donkey)|Diego (donkey)]] on a journey to local producers found [[Jidah (nature wine)|Jidah (nature wine)]] to push (even though semi) 
+roll: 21
+[[Party/Krah Krah Gang/Colt Creed|Colt Creed]] Sound Systems - Perfomance
+- [[Loud Lulu (country singer)|Loud Lulu (country singer)]] - 150 GP
+- [[Trio Bandillo - Mariachi band|Trio Bandillo - Mariachi band]] - 100 GP (towns favorite)
+roll: 21
+[[Party/Krah Krah Gang/Caldra Sunhelm|Caldra Sunhelm]] Marketing - Persuasion
+- [[Tim & Till|Tim & Till]] sell 100 flyers for 50 GP & 2 nights drink
+roll: 16
+### Other
+3rd marrus of mara (date)
+[[Party/Krah Krah Gang/Colt Creed|Colt Creed]] owns [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Guiseppe, the Russian|Guiseppe, the Russian]] 120 GP (owner of [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Fuega|Fuega]])
+

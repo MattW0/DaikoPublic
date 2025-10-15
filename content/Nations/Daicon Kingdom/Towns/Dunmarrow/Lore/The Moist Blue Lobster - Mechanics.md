@@ -2,15 +2,15 @@
 tags:
   - Lore
 thumbnail:
-type: Mechanics
-concerning: Party
+concerning: Mechanics
+context: Party
 ---
-
 >[!info] 
 >Equipment and state of [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/The Moist Blue Lobster|The Moist Blue Lobster]]. 
 >- Days open: 1
 >- Earnings: 110 GP
 
+## 🍺 Daily upkeep (d20 before every longrest)
 | Roll  | Result                         |
 | ----- | ------------------------------ |
 | 1-5   | Big loss (pay d100)            |
@@ -18,7 +18,7 @@ concerning: Party
 | 11-15 | Break even                     |
 | 16-19 | Profit (earn d100 / 2 + 20 gp) |
 | 20+   | Big hit (earn d100 + 40 gp)    |
-## Employess
+## Employees
 
 Potential Employees:
 1. **Elira Voss** – Human waitress
@@ -37,7 +37,7 @@ Potential Employees:
 ## Buffs
 - Deal with [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Guiseppe, the Russian|Guiseppe, the Russian]] -> almost static buff?
 
-## 🍺 Random Tavern Events (d12 every few days)
+## Random Tavern Events (d12 every few days)
 
 | d12    | Event                       | Description                                                                                               | Check                                    | Success                                           | Fail                                                              |
 | ------ | --------------------------- | --------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ------------------------------------------------- | ----------------------------------------------------------------- |

@@ -1,9 +1,9 @@
 ---
 tags:
   - Lore
-thumbnail: "[[_assets/Sprites/People/_party/key_Colt.png|None]]"
-type: Mechanics
-concerning: Party
+thumbnail: "[[_assets/Sprites/People/_party/key_Colt.png]]"
+concerning: Mechanics
+context: Party
 ---
 Attunable. It unlocks the following:
 

@@ -1,7 +1,7 @@
 ---
 tags:
   - Place
-thumbnail: "[[_assets/Sprites/Places/ratNest.jpg|None]]"
+thumbnail: "[[_assets/Sprites/Places/ratNest.jpg]]"
 type: Location
 nation: "[[Nations/Daicon Kingdom/Daicon Kingdom|Daicon Kingdom]]"
 city: "[[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]"

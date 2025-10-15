@@ -1,7 +1,7 @@
 ---
 tags:
   - NPC
-thumbnail: "[[_assets/Sprites/People/varn.png|None]]"
+thumbnail: "[[_assets/Sprites/People/varn.png]]"
 origin: unknown
 race: Human
 ---
@@ -12,4 +12,4 @@ race: Human
 ![varn](_assets/Sprites/People/varn.png)
 
 
-[[Nations/The Gray Ring/NPCs/Agent Varn - Stats|None]]
+[[Nations/The Gray Ring/NPCs/Agent Varn - Stats]]

@@ -1,14 +1,15 @@
 ---
 tags:
   - Place
-thumbnail: "[[_assets/Sprites/Places/dunmarrow.webp|None]]"
+thumbnail: "[[_assets/Sprites/Places/dunmarrow.webp]]"
 nation: "[[Nations/Daicon Kingdom/Daicon Kingdom|Daicon Kingdom]]"
 type: City
+city: "[[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]"
 ---
 > [!info] Description
 > Smallish mining village with 8000 inhabitants. Lil Zollikofä
 
-![[_assets/Sprites/Places/dunmarrow.webp|None]]
+![[_assets/Sprites/Places/dunmarrow.webp]]
 
 > [!abstract] Relevant NPCs
 >* [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Jackie|Jackie]]

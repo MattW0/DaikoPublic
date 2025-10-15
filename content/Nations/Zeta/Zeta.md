@@ -2,8 +2,8 @@
 tags:
   - Lore
 thumbnail:
-type: Region
-concerning: World
+concerning: Region
+context: World
 ---
 > [!info] Description
 > * In the south eastern region of [[History/World/Daiko|Daiko]]

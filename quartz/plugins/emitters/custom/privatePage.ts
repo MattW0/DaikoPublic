@@ -29,19 +29,15 @@ export const PrivateDocumentPage: QuartzEmitterPlugin = () => {
 
     async *emit(ctx, _content, resources) {
       const cfg = ctx.cfg.configuration
-
       const jsonPath = path.resolve(process.cwd(), "private_links.json")
+      
       let privateLinks: string[] = []
         try {
-            const data = fs.readFileSync(jsonPath, "utf-8")
-            let parsed = JSON.parse(data)
-            
-            if (Array.isArray(parsed.private_links)) {
-            privateLinks = parsed.private_links
-            console.log(`🔒 Loaded ${privateLinks.length} private links from ${jsonPath}`)
-        } else {
-            console.warn("⚠️ JSON does not contain 'private_links' array:", parsed)
-        }
+          const data = fs.readFileSync(jsonPath, "utf-8")
+          let parsed = JSON.parse(data)
+
+          privateLinks = parsed.private_links ?? []
+          console.log(`🕳️ Loaded ${privateLinks.length} nonexistent links from ${jsonPath}`)
         } catch (err) {
             console.warn("⚠️ No private_links.json found or invalid JSON:", err)
             privateLinks = []
@@ -49,16 +45,14 @@ export const PrivateDocumentPage: QuartzEmitterPlugin = () => {
 
       for (const slugStr of privateLinks) {
           const slug = slugStr as FullSlug
-          console.log("Generating private page:", slug)
+          const title = slugStr.split("/").pop()?.replace(/-/g, " ") ?? "Private Document"
 
-        // Localized or default strings
-        const title = "Private Document"
-        const desc = "This document needs the #Public tag to be accessible."
+          console.log("Generating private page:", slug)
 
         const [tree, vfile] = defaultProcessedContent({
           slug,
           text: title,
-          description: desc,
+          description: "This document needs the #Public tag to be accessible.",
           frontmatter: { title, tags: [] },
         })
 

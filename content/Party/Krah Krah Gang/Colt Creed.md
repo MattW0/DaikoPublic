@@ -30,7 +30,7 @@ tags:
 ### 4. Membership/affiliations with organizations (clans, army, guilds, ...)
 - Served in the army
 - Poker member at the shamshackle
-- [[Club of greenmill gentlemens|None]]: Trophy fishing and hunting club (actually a fishing club.
+- [[Club of greenmill gentlemens]]: Trophy fishing and hunting club (actually a fishing club.
 ### 5. Your goals/believes 
 ???
 

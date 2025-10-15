@@ -1,12 +1,12 @@
 ---
 tags:
   - NPC
-thumbnail: "[[_assets/Sprites/People/velDrayk.png|None]]"
+thumbnail: "[[_assets/Sprites/People/velDrayk.png]]"
 origin: "[[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]"
 race: Half-Elf
 ---
 
-![[_assets/Sprites/People/velDrayk.png|None]]
+![[_assets/Sprites/People/velDrayk.png]]
 
 > [!info] Description
 > - _Forger, Fixer, and Specialist in “Administrative Alternatives”_

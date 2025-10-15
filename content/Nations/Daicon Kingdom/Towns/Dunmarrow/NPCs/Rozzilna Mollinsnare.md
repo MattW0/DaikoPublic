@@ -1,12 +1,12 @@
 ---
 tags:
   - NPC
-thumbnail: "[[_assets/Sprites/People/rozzlinaMollinsnare.jpg|None]]"
+thumbnail: "[[_assets/Sprites/People/rozzlinaMollinsnare.jpg]]"
 origin: "[[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]"
 race: Gastroid
 ---
 
-![[_assets/Sprites/People/rozzlinaMollinsnare.jpg|None]]
+![[_assets/Sprites/People/rozzlinaMollinsnare.jpg]]
 
 > [!info] Description
 > - Local Administrator of the [[Nations/Daicon Kingdom/Lore/Grand Registry of Realms and Routes|Grand Registry of Realms and Routes]].

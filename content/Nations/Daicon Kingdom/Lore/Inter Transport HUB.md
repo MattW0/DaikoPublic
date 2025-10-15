@@ -2,8 +2,8 @@
 tags:
   - Lore
 thumbnail:
-type: Mechanics
-concerning: Daicon Kingdom
+concerning: Mechanics
+context: "[[Nations/Daicon Kingdom/Daicon Kingdom|Daicon Kingdom]]"
 ---
 
 > [!info] Description

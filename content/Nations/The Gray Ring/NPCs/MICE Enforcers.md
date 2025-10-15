@@ -1,7 +1,7 @@
 ---
 tags:
   - NPC
-thumbnail: "[[_assets/Sprites/People/MICE-enforcers.jpg|None]]"
+thumbnail: "[[_assets/Sprites/People/MICE-enforcers.jpg]]"
 origin: "[[Nations/Daicon Kingdom/Towns/Northwatch Garrison/Northwatch Garrison|Northwatch Garrison]]"
 race: Human
 ---

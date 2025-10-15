@@ -2,8 +2,8 @@
 tags:
   - Lore
 thumbnail:
-type:
-concerning:
+concerning: Region
+context: "[[Nations/The Freelands/The Freelands|The Freelands]]"
 ---
 
 > [!info] Description

@@ -1,9 +1,9 @@
 ---
 tags:
   - Lore
-thumbnail: "[[_assets/_templates/Sprite Placeholders/lore_placeholder.png|None]]"
-type: History
-concerning: World
+thumbnail: "[[_assets/_templates/Sprite Placeholders/lore_placeholder.png]]"
+concerning: History
+context: World
 ---
 
 > [!info] Timeframe

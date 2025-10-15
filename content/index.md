@@ -7,7 +7,7 @@ tags:
 
 ## [[History/Act 1 - Into the Unknown|Act 1 - Into the Unknown]]
 
-In: [[Nations/Daicon Kingdom/Dunmarrow Region|Dunmarrow Region]] on the continent [[History/World/Daiko|Daiko]].
+In: [[Nations/Daicon Kingdom/Towns/Dunmarrow Region|Dunmarrow Region]] on the continent [[History/World/Daiko|Daiko]].
 
 > [!danger] Active Quests
 > - Get out of [[Nations/Daicon Kingdom/Towns/Northwatch Garrison/Northwatch Garrison|Northwatch Garrison]]
@@ -16,4 +16,4 @@ In: [[Nations/Daicon Kingdom/Dunmarrow Region|Dunmarrow Region]] on the continen
 - [[History/Act 0 - The bar|Act 0 - The bar]]
 
 
-_Last update: 13.10.2025, 18:04_
+_Last update: 15.10.2025, 16:42_

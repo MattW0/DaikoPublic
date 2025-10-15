@@ -1,8 +1,10 @@
 ---
 tags:
-    - NPC
+  - NPC
+thumbnail: "[[_assets/_templates/Sprite Placeholders/npc_placeholder.png]]"
+origin: "[[Nations/The Freelands/The Freelands|The Freelands]]"
+race: Elf
 ---
-
 > [!info] Description
 > - **Race:** Elf  
 > - **Age:** Ancient (well over 700)  

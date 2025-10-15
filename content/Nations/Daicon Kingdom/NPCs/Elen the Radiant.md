@@ -1,6 +1,10 @@
 ---
 tags:
-    - NPC
+  - NPC
+thumbnail:
+origin: "[[Nations/Daicon Kingdom/Towns/Varenhold/Varenhold|Varenhold]]"
+race: Human
 ---
 
-Queen of the [[Nations/Daicon Kingdom/Daicon Kingdom|Daicon Kingdom]].
+> [!info|wide-5] Name
+> Queen of the [[Nations/Daicon Kingdom/Daicon Kingdom|Daicon Kingdom]].

@@ -2,8 +2,8 @@
 tags:
   - Lore
 thumbnail:
-type:
-concerning:
+concerning: Region
+context: "[[Nations/Ironreach/Ironreach|Ironreach]]"
 ---
 
 > [!info] Description
