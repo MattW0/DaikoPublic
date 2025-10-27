@@ -5,6 +5,8 @@ thumbnail:
 concerning: History
 context: Party
 ---
-### [[Preparation/Sessions/Session 5|Session 5]]
-- Questioning in [[Nations/Daicon Kingdom/Towns/Northwatch Garrison/Northwatch Garrison|Northwatch Garrison]]
-- 
+### [[History/Sessions/Session 5 - A dark place|Session 5 - A dark place]]
+- Questioning in [[Nations/Daicon Kingdom/Towns/Northwatch Garrison/Northwatch Garrison|Northwatch Garrison]] under [[Nations/Daicon Kingdom/Towns/Northwatch Garrison/Flaviandur Nicculus|Flaviandur Nicculus]] and [[Nations/The Gray Ring/NPCs/Agent Varn Brask|Agent Varn Brask]]
+- Meeting strangely connected NPCs
+- A sneaky [[Party/Krah Krah Gang/Colt Creed|Colt Creed]] awaits a big surprise
+

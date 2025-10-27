@@ -12,4 +12,4 @@ race: Human
 ![varn](_assets/Sprites/People/varn.png)
 
 
-[[Nations/The Gray Ring/NPCs/Agent Varn - Stats]]
+[[Nations/The Gray Ring/NPCs/Agent Varn - Private|Agent Varn - Private]]

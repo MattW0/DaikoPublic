@@ -1,8 +1,8 @@
 ---
-hp: 20
+hp: 24
 ac: 19
 mod: 0
-level: 2
+level: 3
 tags:
   - Player
 ---

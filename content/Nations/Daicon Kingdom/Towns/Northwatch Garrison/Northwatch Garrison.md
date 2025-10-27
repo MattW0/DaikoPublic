@@ -19,6 +19,6 @@ Surroundings, History, ...
 > -
 > 
 
-Ruled by highest ranking officer [[Nations/Daicon Kingdom/Towns/Northwatch Garrison/Flaviandus Nicculus|Flaviandus Nicculus]]
+Ruled by highest ranking officer [[Nations/Daicon Kingdom/Towns/Northwatch Garrison/Flaviandur Nicculus|Flaviandur Nicculus]]
 
 ![[_assets/Downloaded/Maps/Buildings/CastleDython.jpg]]

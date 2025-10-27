@@ -1,14 +1,15 @@
 ---
-hp: 16
+hp: 25
 ac: 13
 mod: 6
-level: 2
+level: 3
 tags:
   - Player
 ---
 
 > [!info] Colt Creed
 >- *Bloodhunter, human ??*
+>- From [[Dusty Town]]
 
 > [!success] Status
 >- [[Nations/Daicon Kingdom/Lore/Continental Identification Sigil|Continental Identification Sigil]]: Green
@@ -26,7 +27,7 @@ tags:
 ### 2. Important relationships (family, friends, ...)
 - Neighboring townsfolk. People know Colt for his work to deal with bounties and ,,helping’‘ with monster problem or anything paranormal
 ### 3. Places you have a connection with (birthplace, place of studies/training, ...)
-- The evergreen plains and the rocky mountains
+- The evergreen plains and the [[Nations/Daicon Kingdom/Lore/Durgrat Mountains|Durgrat Mountains]]
 ### 4. Membership/affiliations with organizations (clans, army, guilds, ...)
 - Served in the army
 - Poker member at the shamshackle

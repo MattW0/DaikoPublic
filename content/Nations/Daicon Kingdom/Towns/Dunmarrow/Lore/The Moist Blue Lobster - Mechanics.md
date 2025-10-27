@@ -7,8 +7,8 @@ context: Party
 ---
 >[!info] 
 >Equipment and state of [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/The Moist Blue Lobster|The Moist Blue Lobster]]. 
->- Days open: 1
->- Earnings: 110 GP
+>- Days open: 1, 1, 0
+>- Earnings: 110 GP, -80 GP, -10 GP
 
 ## 🍺 Daily upkeep (d20 before every longrest)
 | Roll  | Result                         |
@@ -18,9 +18,12 @@ context: Party
 | 11-15 | Break even                     |
 | 16-19 | Profit (earn d100 / 2 + 20 gp) |
 | 20+   | Big hit (earn d100 + 40 gp)    |
+Players may choose to close the bar, which costs a static upkeep cost of 10 GP
 ## Employees
 
-Potential Employees:
+#### Current
+- [[Pete, drunkard]] : because of his alcohol problem -> disadvantage on business check
+#### Potential Employees:
 1. **Elira Voss** – Human waitress
     - Quick, attentive, remembers every order by heart.
     - Known for calming rowdy guests with a sharp tongue and a smile.

@@ -1,5 +1,6 @@
 {
   "private_links": [
+    "History/World/Teleion/Caste",
     "History/World/Weave",
     "Nations/Atheria---Solar-Federation/Atheria---Solar-Federation",
     "Nations/Daicon-Kingdom/Lore/CIS---Forgery-Rules",
@@ -13,25 +14,29 @@
     "Nations/Daicon-Kingdom/Towns/Dunmarrow/Quests/Mine-Combat",
     "Nations/Daicon-Kingdom/Towns/Esvelen/Esvelen---Deeper-Lore",
     "Nations/Daicon-Kingdom/Towns/Esvelen/NPCs/Duke-Moron",
-    "Nations/Daicon-Kingdom/Towns/Northwatch-Garrison/Flaviandus-Nicculus---Stats",
+    "Nations/Daicon-Kingdom/Towns/Esvelen/NPCs/Sister-Elin-of-the-Tenth-Veil---Private",
+    "Nations/Daicon-Kingdom/Towns/Northwatch-Garrison/Flaviandur-Nicculus---Stats",
+    "Nations/Ironreach/Hammerfall-Empire/Durundal/Borin-Tesk---Private",
     "Nations/Ironreach/Hammerfall-Empire/Hammerfall-Empire---Private",
     "Nations/The-Gray-Ring/Lore/MICE",
-    "Nations/The-Gray-Ring/NPCs/Agent-Varn---Stats",
+    "Nations/The-Gray-Ring/NPCs/Agent-Varn---Private",
     "Nations/The-Gray-Ring/NPCs/MICE-Enforcers---Stats",
     "Nations/The-Gray-Ring/The-Grey-Ring",
+    "Nations/Zeta/Greenmill-Gentlemen",
+    "Nations/Zeta/Sinas-Red-Mallory---Private",
     "Party/Krah-Krah-Gang/Caldra-Sunhelm---Private",
     "Party/Krah-Krah-Gang/Colt-Creed---Private",
     "Party/Krah-Krah-Gang/Krah-Krah-Gang",
-    "Party/Krah-Krah-Gang/Marmaromenos-Menos---Private",
-    "Preparation/Sessions/Session-5"
+    "Party/Krah-Krah-Gang/Marmaromenos-Menos---Private"
   ],
   "nonexistent_links": [
     "Aurora",
+    "Battle-of-Miredeep",
     "Bram-Tugg",
     "Captain-Alric-Sunhelm",
-    "Caste",
     "Closter-of-Derendal",
     "Club-of-greenmill-gentlemens",
+    "Dusty-Town",
     "Elenor-of-Derendal",
     "Ferrun",
     "Healing-Potion",
@@ -42,10 +47,12 @@
     "Obsidan-Mining-Inc",
     "Paolo",
     "Pete",
+    "Pete,-drunkard",
     "River-Veyra",
     "Sylzryn",
-    "Teleion",
+    "Tarrowen",
     "Tim-&-Till",
-    "Trio-Bandillo---Mariachi-band"
+    "Trio-Bandillo---Mariachi-band",
+    "Truce-of-Blackmere"
   ]
 }
