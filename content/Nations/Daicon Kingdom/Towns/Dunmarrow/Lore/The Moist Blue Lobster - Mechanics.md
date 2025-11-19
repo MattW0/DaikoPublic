@@ -7,8 +7,8 @@ context: Party
 ---
 >[!info] 
 >Equipment and state of [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/The Moist Blue Lobster|The Moist Blue Lobster]]. 
->- Days open: 1, 1, 0
->- Earnings: 110 GP, -80 GP, -10 GP
+>- Days open: 1, 1, 0, 0
+>- Earnings: 110 GP, -80 GP, -10 GP, -10 GP
 
 ## 🍺 Daily upkeep (d20 before every longrest)
 | Roll  | Result                         |

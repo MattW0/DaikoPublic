@@ -10,3 +10,4 @@ context: Party
 - Meeting strangely connected NPCs
 - A sneaky [[Party/Krah Krah Gang/Colt Creed|Colt Creed]] awaits a big surprise
 
+### [[Preparation/Sessions/Session 6|Session 6]]

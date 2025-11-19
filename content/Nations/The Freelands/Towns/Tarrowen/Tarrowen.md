@@ -1,10 +1,10 @@
 ---
 tags:
   - Place
-thumbnail: "[[_assets/_templates/Sprite Placeholders/place_placeholder.png]]"
+thumbnail:
 type: City
 nation: Freelands
-city:
+city: "[[Nations/The Freelands/Towns/Tarrowen/Tarrowen|Tarrowen]]"
 ---
 
 > [!info] Description

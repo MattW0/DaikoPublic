@@ -32,7 +32,7 @@ tags:
 - [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Jackie|Jackie]] — current contact in [[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]] and her link to the group; trusts him cautiously.
 ### 3. Places you have a connection with (birthplace, place of studies/training, ...)
 - [[Nations/Daicon Kingdom/Towns/Varenhold/Varenhold|Varenhold]] — birthplace, childhood home, [[Nations/Daicon Kingdom/Towns/Varenhold/Iron Aegis|Iron Aegis]] recruitment area.
-- [[Nations/Daicon Kingdom/Towns/Dunmarrow Region|Dunmarrow Region]] — current refuge, where she operates under alias Sophia Bluelake.
+- [[Maps/Dunmarrow Region|Dunmarrow Region]] — current refuge, where she operates under alias Sophia Bluelake.
 ### 4. Membership/affiliations with organizations (clans, army, guilds, ...)
 - Former member of [[Nations/Daicon Kingdom/Towns/Varenhold/Iron Aegis|Iron Aegis]] Order under [[Nations/Daicon Kingdom/Daicon Kingdom|Daicon Kingdom]]. 
 - Falsified identity “Sophia Bluelake” to pass as a neutral or visiting commoner.

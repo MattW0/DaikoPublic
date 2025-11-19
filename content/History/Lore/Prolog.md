@@ -5,7 +5,7 @@ thumbnail:
 concerning: History
 context: World
 ---
-800 years ago, on a continent called [[History/World/Daiko|Daiko]], the clever and craving humankind, discovered something dark and radiant deep beneath the earth's crust: **[[History/World/Obsidian|Obsidian]]**. Drawn by its arcane potential, they learned to process it, unlocking unprecedented access to the [[History/World/Weave|Weave]]. The strong became mages. The weak became their soldiers. And tribes formed into small kingdoms. Thus began the **[[History/Lore/Age of Dominion|Age of Dominion]]**.
+800 years ago, on a continent called [[Maps/Daiko|Daiko]], the clever and craving humankind, discovered something dark and radiant deep beneath the earth's crust: **[[History/World/Obsidian|Obsidian]]**. Drawn by its arcane potential, they learned to process it, unlocking unprecedented access to the [[History/World/Weave|Weave]]. The strong became mages. The weak became their soldiers. And tribes formed into small kingdoms. Thus began the **[[History/Lore/Age of Dominion|Age of Dominion]]**.
 
 The humans claimed the godless magic for themselves and spread like wind-blown fire across the land, exploring lands far west and north. In their hunger for control, they traded and clashed with foreign powers, unsettling the balance of ancient magical races. Those beings—fey, elemental, celestial—watched the rise of Obsidian with wary eyes, and either bent the knee or fled deeper into exile.
 

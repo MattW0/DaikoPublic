@@ -24,7 +24,7 @@ Location: [[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]
 3) Preparations for bar: suppliers, flyers and music
 4) Failed attempt to explore [[Nations/Daicon Kingdom/Towns/Dunmarrow/Quests/Lost in the well|Lost in the well]]
 5) Level 2
-### [[History/Sessions/Session 3 - Grand opening of the Mois Blue Lobster|Session 3 - Grand opening of the Mois Blue Lobster]]
+### [[History/Sessions/Session 3 - Grand opening of the Moist Blue Lobster|Session 3 - Grand opening of the Moist Blue Lobster]]
 1) Rescue the doll for [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Guiseppe, the Russian|Guiseppe, the Russian]] in [[Nations/Daicon Kingdom/Towns/Dunmarrow/Quests/Lost in the well|Lost in the well]]
 2) Opening of [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/The Moist Blue Lobster|The Moist Blue Lobster]]
 3) [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Jackie|Jackie]] is missing

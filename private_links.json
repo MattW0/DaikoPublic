@@ -4,7 +4,6 @@
     "History/World/Weave",
     "Nations/Atheria---Solar-Federation/Atheria---Solar-Federation",
     "Nations/Daicon-Kingdom/Lore/CIS---Forgery-Rules",
-    "Nations/Daicon-Kingdom/Towns/Dunmarrow-Region",
     "Nations/Daicon-Kingdom/Towns/Dunmarrow/Lore/Twin-Vaults---Deeper-Lore",
     "Nations/Daicon-Kingdom/Towns/Dunmarrow/NPCs/Dallin-Wyrmshore",
     "Nations/Daicon-Kingdom/Towns/Dunmarrow/NPCs/Sergeant-Karr-Donn",
@@ -16,6 +15,7 @@
     "Nations/Daicon-Kingdom/Towns/Esvelen/NPCs/Duke-Moron",
     "Nations/Daicon-Kingdom/Towns/Esvelen/NPCs/Sister-Elin-of-the-Tenth-Veil---Private",
     "Nations/Daicon-Kingdom/Towns/Northwatch-Garrison/Flaviandur-Nicculus---Stats",
+    "Nations/Daicon-Kingdom/Towns/Northwatch-Garrison/Northwatch-Garrison---Private",
     "Nations/Ironreach/Hammerfall-Empire/Durundal/Borin-Tesk---Private",
     "Nations/Ironreach/Hammerfall-Empire/Hammerfall-Empire---Private",
     "Nations/The-Gray-Ring/Lore/MICE",
@@ -27,7 +27,8 @@
     "Party/Krah-Krah-Gang/Caldra-Sunhelm---Private",
     "Party/Krah-Krah-Gang/Colt-Creed---Private",
     "Party/Krah-Krah-Gang/Krah-Krah-Gang",
-    "Party/Krah-Krah-Gang/Marmaromenos-Menos---Private"
+    "Party/Krah-Krah-Gang/Marmaromenos-Menos---Private",
+    "Preparation/Sessions/Session-6"
   ],
   "nonexistent_links": [
     "Aurora",
@@ -48,6 +49,7 @@
     "Paolo",
     "Pete",
     "Pete,-drunkard",
+    "River-Lorynth",
     "River-Veyra",
     "Sylzryn",
     "Tarrowen",

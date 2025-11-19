@@ -7,7 +7,7 @@ context: World
 ---
 
 > [!info] Timeframe
-> - Began ~800 years ago on the continent of [[History/World/Daiko|Daiko]].
+> - Began ~800 years ago on the continent of [[Maps/Daiko|Daiko]].
 > - Ended 300 years ago, entering the [[History/Lore/Age of Enlightenment|Age of Enlightenment]].
 
 ### Happenings

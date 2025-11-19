@@ -1,7 +1,7 @@
 ---
 tags:
   - NPC
-thumbnail: "[[_assets/_templates/Sprite Placeholders/npc_placeholder.png]]"
+thumbnail:
 origin: "[[Nations/The Freelands/The Freelands|The Freelands]]"
 race: Elf
 ---

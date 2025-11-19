@@ -6,7 +6,7 @@ concerning: Location
 context: World
 ---
 > [!info] Description
- > - Mountain range in the central part of [[History/World/Daiko|Daiko]]
+ > - Mountain range in the central part of [[Maps/Daiko|Daiko]]
  > 
  
  > [!example] Inhabitants 
