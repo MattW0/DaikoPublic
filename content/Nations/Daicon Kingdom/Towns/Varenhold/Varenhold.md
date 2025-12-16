@@ -16,4 +16,6 @@ city: "[[Nations/Daicon Kingdom/Towns/Varenhold/Varenhold|Varenhold]]"
 
 > [!danger] Quests
 > -
-> 
+>
+
+_Last edited: 2025-12-16 01:16_

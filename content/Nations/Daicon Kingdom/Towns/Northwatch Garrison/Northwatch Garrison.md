@@ -32,3 +32,5 @@ city: "[[Nations/Daicon Kingdom/Towns/Northwatch Garrison/Northwatch Garrison|No
 ![[_assets/Downloaded/Maps/Buildings/CastleDython.jpg]]
 
 [[Nations/Daicon Kingdom/Towns/Northwatch Garrison/Northwatch Garrison - Private|Northwatch Garrison - Private]]
+
+_Last edited: 2025-12-16 01:16_

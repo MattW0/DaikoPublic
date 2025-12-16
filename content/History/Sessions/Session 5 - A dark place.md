@@ -29,9 +29,8 @@ You’re alone. Your gear — gone. Your head — pounding. And somewhere in the
 - Party meets other prisoners:
 	- [[Nations/Daicon Kingdom/Towns/Esvelen/NPCs/Sister Elin of the Tenth Veil|Sister Elin of the Tenth Veil]]
 	- [[Nations/Zeta/Sinas Red Mallory|Sinas Red Mallory]]
-	- [[Nations/The Freelands/Towns/Tarrowen/Priska Demeer|Priska Demeer]]
+	- [[Nations/The Freelands/Towns/Tarrowen/NPCs/Priska Demeer|Priska Demeer]]
 	- [[Nations/Ironreach/Hammerfall Empire/Durundal/Borin Tesk|Borin Tesk]]
 - [[Party/Krah Krah Gang/Colt Creed|Colt Creed]] learns how to open the locks and sneaks out of the cell - rolls a nat 1 in sneak
 
-
- 
+_Last edited: 2025-12-16 01:16_

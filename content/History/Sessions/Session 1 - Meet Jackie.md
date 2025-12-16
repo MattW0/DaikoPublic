@@ -13,3 +13,5 @@ context: Party
 	* Town's square has jobs
 	* Players obviously don't do any of the suggestions and want to earn more
 	* Make a deal with [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Randall Corn|Randall Corn]] to kill the monster in the backyard
+
+_Last edited: 2025-12-16 01:01_

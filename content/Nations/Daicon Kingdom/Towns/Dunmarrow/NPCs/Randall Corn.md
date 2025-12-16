@@ -18,3 +18,5 @@ Rich human with connections in the business with [[Nations/Daicon Kingdom/Towns/
 * Belinda Corn – Randall’s niece
 * [[Bram Tugg|Bram Tugg]] – Personal guard and thug. Handles “unofficial” matters discreetly around town. (Chef and wanna be security, human)
 * [[Sylzryn|Sylzryn]] (Gardener, darkelf)
+
+_Last edited: 2025-12-16 01:16_

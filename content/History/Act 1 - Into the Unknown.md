@@ -10,4 +10,6 @@ context: Party
 - Meeting strangely connected NPCs
 - A sneaky [[Party/Krah Krah Gang/Colt Creed|Colt Creed]] awaits a big surprise
 
-### [[Preparation/Sessions/Session 6|Session 6]]
+### [[History/Sessions/Session 6 - A glimpse of freedom and death|Session 6 - A glimpse of freedom and death]]
+
+_Last edited: 2025-12-16 01:16_

@@ -8,14 +8,17 @@ tags:
 ---
 
 > [!info] Colt Creed
->- *Bloodhunter, human ??*
->- From [[Dusty Town]]
+>- *Bloodhunter, human, lycan*
+>- From [[Nations/Zeta/Dusty Town|Dusty Town]]
+>- [[Nations/Zeta/Jolly Jumper|Jolly Jumper]] is his spirit animal
 
 > [!success] Status
+>- 1 Point of Exhaustion
 >- [[Nations/Daicon Kingdom/Lore/Continental Identification Sigil|Continental Identification Sigil]]: Green
+>- He is on [[Party/Krah Krah Gang/Colt Creed - Probation|Probation]] and wears a [[Nations/Daicon Kingdom/Towns/Northwatch Garrison/Lycantroppic Compliance Collar|Lycantroppic Compliance Collar]]
 
 > [!danger] Quests
-> -
+> - Has connected with [[Nations/Zeta/Sinas Red Mallory|Sinas Red Mallory]]
 > 
 
 ![[_assets/Sprites/People/_party/ColtCreed.jpeg|507x761]]
@@ -36,3 +39,7 @@ tags:
 ???
 
 [[Party/Krah Krah Gang/Colt Creed - Private|Colt Creed - Private]]
+
+Old Buxly Oldest gunsling in town
+
+_Last edited: 2025-12-16 01:16_

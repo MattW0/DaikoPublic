@@ -19,3 +19,5 @@ Locals tell of “The Red Reflection”, a ghostly mirage said to show a version
 - [[Battle of Miredeep]]
 ## Towns
 - [[Nations/Redfen (Demilitarized Zone)/Vel-Harim|Vel-Harim]]
+
+_Last edited: 2025-12-16 01:01_

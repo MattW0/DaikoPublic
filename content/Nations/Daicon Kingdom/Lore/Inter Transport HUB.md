@@ -44,3 +44,5 @@ Furthermore:
 - If your CID is lost or malfunctioning, do not attempt to travel. Visit the nearest Registry for assistance.
 - In the case of emergency, activate the Contact Rune inscribed on the back of your CID.
 May your travels be swift, safe, and sanctioned.
+
+_Last edited: 2025-12-16 01:01_

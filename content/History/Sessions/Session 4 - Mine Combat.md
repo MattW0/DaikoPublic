@@ -34,3 +34,5 @@ creatures:
 - In the unlikely case, that the players win the fight, Varn threatens to kill jackie.
 - If the players yield, they are arrested and brought to [[Nations/Daicon Kingdom/Towns/Northwatch Garrison/Northwatch Garrison|Northwatch Garrison]]
 - If they don't, jackie dies and they get arrested anyways.
+
+_Last edited: 2025-12-16 01:16_

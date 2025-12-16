@@ -31,3 +31,5 @@ The Continental Identification Sigil is a magically bound sigil unique to every 
 - First issued near the start of the [Age of Shadows](World/History/Lore/Age%20of%20Shadows.md), 12 years ago.
 
 [[Nations/Daicon Kingdom/Lore/CIS - Forgery Rules|CIS - Forgery Rules]]
+
+_Last edited: 2025-12-16 01:01_

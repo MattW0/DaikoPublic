@@ -14,3 +14,5 @@ Previous employer of [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Jackie|Jackie
 >- **Personality.** Cold, calculating, always smiling with too many teeth. Victor believes the mine is the town, and the people in it are tools—replaceable ones.
 
 [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Victor Halberin - Stats|Victor Halberin - Stats]]
+
+_Last edited: 2025-12-16 01:16_

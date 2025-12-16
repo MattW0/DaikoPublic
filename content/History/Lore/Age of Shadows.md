@@ -14,3 +14,5 @@ The Age of Shadows marks the present day in [[Maps/Daiko|Daiko]]’s history, st
 Magitech and psionics have replaced traditional arcane arts in many urban centers. Temples are abandoned or repurposed, and only state-sanctioned magical practices are allowed, like the [[Nations/Daicon Kingdom/Lore/Inter Transport HUB|Inter Transport HUB]] and [[Nations/Daicon Kingdom/Lore/Continental Identification Sigil|Continental Identification Sigil]]. All magic use and magitech-items using [[History/World/Obsidian|Obsidian]] are monitored by **[[Nations/The Gray Ring/Lore/MICE|MICE]]**.
 
 The northern lands, however, still holds free folk, innate magic, rebels, relics, and dangerous truths.
+
+_Last edited: 2025-12-16 01:16_

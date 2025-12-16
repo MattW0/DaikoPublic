@@ -15,3 +15,4 @@ The council sits on top of departments:
 
 The official ruling body of Daiko. Its members are often charismatic, influential humans (or surgically altered hybrids) trained in propaganda, counterinsurgency, and economic domination.
 
+_Last edited: 2025-12-16 01:16_

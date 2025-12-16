@@ -15,3 +15,5 @@ context: World
 - **Collapse of the Southern Colonies** – as Magitech lessened dependence on foreign resources, distant colonies were abandoned or left to fend for themselves, sparking decades of uprisings and fractured successor states.
 - **The Great Imitation Wars** – rival kingdoms, desperate to replicate Daiconian Magitech, launched wars of theft and espionage. Their crude constructs often turned unstable, rampaging across battlefields and cities alike.
 - **The Gilded Revolution** – commoners, freed from grueling labor by automatons, demanded political rights. Though crushed in blood by Daicon forces, the revolution seeded the notion of civic equality across the continent.
+
+_Last edited: 2025-12-16 01:16_

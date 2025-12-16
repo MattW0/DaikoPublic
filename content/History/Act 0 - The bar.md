@@ -13,7 +13,7 @@ Location: [[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]
 	* He would give it and all inventory to players for 5000\$
 	* [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Jackie|Jackie]] has 4000\$, players their regular starting cash and need to collect 900\$
 3) Go and earn money
-	* [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Townsquare|Townsquare]] has jobs
+	* [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Town square|Town square]] has jobs
 	* Players obviously don't do any of the suggestions and want to earn more
 	* Kill monster in backyard of [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Randall Corn|Randall Corn]] villa -> 1000\$
 ### [[History/Sessions/Session 2 - Get established in Dunmarrow|Session 2 - Get established in Dunmarrow]]
@@ -35,3 +35,4 @@ Location: [[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]
 - Traps
 - Bottom floor: Jackie and [[Nations/The Gray Ring/Lore/MICE|MICE]] encounter
 
+_Last edited: 2025-12-16 01:16_

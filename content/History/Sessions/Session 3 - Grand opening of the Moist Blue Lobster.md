@@ -18,6 +18,5 @@ context: Party
 * In [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Krogmaw Mine|Krogmaw Mine]] players encounter MICE and enter [[Nations/Daicon Kingdom/Towns/Dunmarrow/Quests/Mine Combat|Mine Combat]]
 * [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Jackie|Jackie]] is held captive in the bottom floor by [[Nations/The Gray Ring/NPCs/Agent Varn Brask|Agent Varn Brask]]
 * [[Nations/The Gray Ring/Lore/MICE|MICE]] wants to arrest party
-### Deep Lore
-* Jackie knows about huge Obsidian res under Krogmaw Mine
-* When working there, has crawled deep down
+
+_Last edited: 2025-12-16 01:01_

@@ -18,3 +18,5 @@ context: World
 - **The Silent Accord** – surviving powers eventually agreed—though not always honored—that the mining and hoarding of [[History/World/Obsidian|Obsidian]] must be limited, lest the world itself unravel.
 
 > [!danger] _“Those who use Obsidian for too long are changed—first in thought, then in flesh. And always, in allegiance.”_
+
+_Last edited: 2025-12-16 01:16_

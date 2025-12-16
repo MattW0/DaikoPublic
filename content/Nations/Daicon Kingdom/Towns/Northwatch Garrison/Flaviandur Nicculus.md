@@ -16,3 +16,4 @@ race: Dwarf
 
 [[Nations/Daicon Kingdom/Towns/Northwatch Garrison/Flaviandur Nicculus - Stats|Flaviandur Nicculus - Stats]]
 
+_Last edited: 2025-12-16 01:16_

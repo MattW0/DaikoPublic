@@ -26,3 +26,5 @@ The Twin Vaults function as a **paired teleportation container system**. Any non
 ## Fruther knowledge
 - [[Nations/Daicon Kingdom/Towns/Dunmarrow/Lore/Twin Vaults - Deeper Lore|Twin Vaults - Deeper Lore]]
 - [[Nations/Daicon Kingdom/Towns/Dunmarrow/Lore/Twin Vaults Key|Twin Vaults Key]]
+
+_Last edited: 2025-12-16 01:16_

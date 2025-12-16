@@ -17,3 +17,5 @@ Previously owned by [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Berrim Barktoo
 - Each day, the players may roll for a Business Check: 1d20
 - Players can help out in the daily business, each player doing so gives +2 to the business Check
 - Get earnings from Continuous Upkeep described in [[Nations/Daicon Kingdom/Towns/Dunmarrow/Lore/The Moist Blue Lobster - Mechanics|The Moist Blue Lobster - Mechanics]].
+
+_Last edited: 2025-12-16 01:01_

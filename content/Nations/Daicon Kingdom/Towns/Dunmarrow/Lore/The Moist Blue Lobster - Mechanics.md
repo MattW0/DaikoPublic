@@ -5,10 +5,8 @@ thumbnail:
 concerning: Mechanics
 context: Party
 ---
->[!info] 
->Equipment and state of [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/The Moist Blue Lobster|The Moist Blue Lobster]]. 
->- Days open: 1, 1, 0, 0
->- Earnings: 110 GP, -80 GP, -10 GP, -10 GP
+
+Equipment and state of [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/The Moist Blue Lobster|The Moist Blue Lobster]]. 
 
 ## 🍺 Daily upkeep (d20 before every longrest)
 | Roll  | Result                         |
@@ -22,7 +20,7 @@ Players may choose to close the bar, which costs a static upkeep cost of 10 GP
 ## Employees
 
 #### Current
-- [[Pete, drunkard]] : because of his alcohol problem -> disadvantage on business check
+- [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Pete, drunkard]] : because of his alcohol problem -> disadvantage on business check
 #### Potential Employees:
 1. **Elira Voss** – Human waitress
     - Quick, attentive, remembers every order by heart.
@@ -62,3 +60,9 @@ Players make ability checks (each 1 or 2) to determine how well the opening day 
 * Crowd Control: Dexterity (Acrobatics) or Strength (Athletics) – Keeping things under control.
 * Service: Wisdom (Insight) to manage staff, or Dexterity (Sleight of Hand) for bar flair.
 * Kitchen Prep: Intelligence (Cook’s Utensils) or Wisdom (Survival).
+
+## History
+- Days open: 1, 1, 0, 0, 0
+- Earnings: 110 GP, -80 GP, -10 GP, -10 GP, -10GP
+
+_Last edited: 16.12.2025, 02:08_

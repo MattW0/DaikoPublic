@@ -16,7 +16,8 @@ tags:
 >- Has performed house ritual for [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/The Moist Blue Lobster|The Moist Blue Lobster]]
 
 > [!danger] Quests
-> -
+> - Has a love letter from [[Nations/The Freelands/Towns/Tarrowen/NPCs/Priska Demeer|Priska Demeer]] to deliver in [[Nations/The Freelands/Towns/Tarrowen/Tarrowen|Tarrowen]]
+> - Has [[History/World/Teleion/Vorrak the Whispered|Vorrak the Whispered]], a follower of the true avatar, on his side.
 > 
 
 ![[_assets/Sprites/People/_party/MarmoMorenos.jpeg|412x618]]
@@ -43,3 +44,5 @@ tags:
 - He is an Avatar of his people—what that means, he doesn’t know.
 
 [[Party/Krah Krah Gang/Marmaromenos Menos - Private|Marmaromenos Menos - Private]]
+
+_Last edited: 2025-12-16 01:16_

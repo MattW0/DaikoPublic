@@ -5,7 +5,7 @@ thumbnail:
 concerning: History
 context: Party
 ---
-[[Pete|Pete]] Local drunkard, always hangs in [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/The Moist Blue Lobster|The Moist Blue Lobster]]
+[[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Pete, drunkard]] Local drunkard, always hangs in [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/The Moist Blue Lobster|The Moist Blue Lobster]]
 ## Collecting [[Nations/Daicon Kingdom/Lore/Continental Identification Sigil|Continental Identification Sigil]] Ids
 * Postoffice
 * [[Party/Krah Krah Gang/Caldra Sunhelm|Caldra Sunhelm]] gets a frogery from [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Vel Drayk, the Inkfinger|Vel Drayk, the Inkfinger]]
@@ -27,3 +27,4 @@ roll: 16
 3rd marrus of mara (date)
 [[Party/Krah Krah Gang/Colt Creed|Colt Creed]] owns [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Guiseppe, the Russian|Guiseppe, the Russian]] 120 GP (owner of [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Fuega|Fuega]])
 
+_Last edited: 16.12.2025, 02:08_

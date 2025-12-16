@@ -13,5 +13,5 @@ context: World
  > - [[Nations/Daicon Kingdom/Daicon Kingdom|Daicon Kingdom]], *humans*
  > - [[Nations/Ironreach/Hammerfall Empire/Hammerfall Empire|Hammerfall Empire]], *dwarfs*
  > - [[Ferrun]], *firbolgs and friends*
- 
 
+_Last edited: 2025-12-16 01:16_

@@ -15,10 +15,10 @@ race: Human
 >- When [[Party/Krah Krah Gang/Caldra Sunhelm|Caldra Sunhelm]] first speaks with her, Elin tilts her head slightly, as if recognizing her voice.
 >- She says quietly: *“You wear his face, child. The one they called Sunhelm’s Shadow.”*
 
-
-
 **Small habits:**
 - Draws circles of ash around her sleeping spot.
 - Collects candle wax.
 
 [[Nations/Daicon Kingdom/Towns/Esvelen/NPCs/Sister Elin of the Tenth Veil - Private|Sister Elin of the Tenth Veil - Private]]
+
+_Last edited: 2025-12-16 01:01_
