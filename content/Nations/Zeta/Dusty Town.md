@@ -12,5 +12,6 @@ city:
 
 > [!abstract] Relevant NPCs
 > * [[Party/Krah Krah Gang/Colt Creed|Colt Creed]] birthplace
+> * Old Buxly (oldest in town)
 
-_Last edited: 2025-12-16 01:01_
+_Last edited: 16.12.2025, 02:24_

@@ -11,4 +11,7 @@ race: Human
 > - Always hangs out in [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/The Moist Blue Lobster|The Moist Blue Lobster]]
 > - Reeks of Köbi
 
-_Last edited: 16.12.2025, 02:08_
+> [!danger] Quests
+> -
+
+_Last edited: 16.12.2025, 02:36_

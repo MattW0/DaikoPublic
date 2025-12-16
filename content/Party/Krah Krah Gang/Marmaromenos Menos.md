@@ -20,9 +20,9 @@ tags:
 > - Has [[History/World/Teleion/Vorrak the Whispered|Vorrak the Whispered]], a follower of the true avatar, on his side.
 > 
 
-![[_assets/Sprites/People/_party/MarmoMorenos.jpeg|412x618]]
+![[_assets/Sprites/People/_party/marmoMorenos.jpeg|412x618]]
 
-![[_assets/Sprites/People/_party/Key_menos.png|208x312]]
+![[_assets/Sprites/People/_party/key_menos.png|208x312]]
 ### 1. Five things about your childhood/upbringing
 - His genetic parents were named [[Javik and Liara]].
 - He grew up in a class of children from the same [[History/World/Teleion/Caste]]; children were groomed for specific duties. He belonged to the priest caste.
@@ -45,4 +45,4 @@ tags:
 
 [[Party/Krah Krah Gang/Marmaromenos Menos - Private|Marmaromenos Menos - Private]]
 
-_Last edited: 2025-12-16 01:16_
+_Last edited: 16.12.2025, 02:24_

@@ -19,7 +19,7 @@ tags:
 > [!danger] Quests
 > -
 
-![[_assets/Sprites/People/_party/CaldraSunhelm.jpg|540x540]]
+![[_assets/Sprites/People/_party/caldraSunhelm.jpg|540x540]]
 
 ![[_assets/Sprites/People/_party/key_Cauldra.png|264x264]]
 
@@ -43,4 +43,4 @@ tags:
 
 [[Party/Krah Krah Gang/Caldra Sunhelm - Private|Caldra Sunhelm - Private]]
 
-_Last edited: 2025-12-16 01:16_
+_Last edited: 16.12.2025, 02:24_

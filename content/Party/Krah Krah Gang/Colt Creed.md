@@ -15,13 +15,13 @@ tags:
 > [!success] Status
 >- 1 Point of Exhaustion
 >- [[Nations/Daicon Kingdom/Lore/Continental Identification Sigil|Continental Identification Sigil]]: Green
->- He is on [[Party/Krah Krah Gang/Colt Creed - Probation|Probation]] and wears a [[Nations/Daicon Kingdom/Towns/Northwatch Garrison/Lycantroppic Compliance Collar|Lycantroppic Compliance Collar]]
+>- He is on [[Nations/Daicon Kingdom/Towns/Northwatch Garrison/Colt Creed - Probation|Probation]] and wears a [[Nations/Daicon Kingdom/Towns/Northwatch Garrison/Lycantroppic Compliance Collar|Lycantroppic Compliance Collar]]
 
 > [!danger] Quests
 > - Has connected with [[Nations/Zeta/Sinas Red Mallory|Sinas Red Mallory]]
 > 
 
-![[_assets/Sprites/People/_party/ColtCreed.jpeg|507x761]]
+![[_assets/Sprites/People/_party/coltCreed.jpeg|507x761]]
 
 ![[_assets/Sprites/People/_party/key_Colt.png|260x390]]
 
@@ -40,6 +40,4 @@ tags:
 
 [[Party/Krah Krah Gang/Colt Creed - Private|Colt Creed - Private]]
 
-Old Buxly Oldest gunsling in town
-
-_Last edited: 2025-12-16 01:16_
+_Last edited: 16.12.2025, 02:36_
