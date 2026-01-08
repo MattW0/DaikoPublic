@@ -3,19 +3,18 @@ title: Daiko - Current Affairs
 tags:
   - Admin
 ---
-## [[History/Act 1 - Into the Unknown|Act 1 - Into the Unknown]]
+# [[History/Act 1 - Into the Unknown|Act 1 - Into the Unknown]]
 
-> [!hint] Current day and location
-> [[Nations/Daicon Kingdom/Towns/Northwatch Garrison/Northwatch Garrison|Northwatch Garrison]] in [[Maps/Dunmarrow Region|Dunmarrow Region]]
-> *Tue, Spring*
+> [!hint] Current day
+> - **Time:** *Early evening, Tuesday, Spring*
+> - **Location:** Outskirts of [[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]] in [[Maps/Dunmarrow Region|Dunmarrow Region]]
+> - **News:** [[History/Lore/The State Herald|The State Herald]]
 
 > [!danger] Active Quests
-> - Get out of [[Nations/Daicon Kingdom/Towns/Northwatch Garrison/Northwatch Garrison|Northwatch Garrison]]
+> - Confront the wizard (for peeing on Lizard)
+> - Investigate [[Nations/Daicon Kingdom/Towns/Dunmarrow/Lore/Twin Vaults|Twin Vaults]] calling
 > - Expand business of [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/The Moist Blue Lobster|The Moist Blue Lobster]]
-> - Play a game of cards with [[Nations/Zeta/Sinas Red Mallory|Sinas Red Mallory]]
-> - Explore history of [[History/World/Teleion/Teleion|Teleion]]
-> - Deliver love note from [[Nations/The Freelands/Towns/Tarrowen/NPCs/Priska Demeer|Priska Demeer]]
-> - 5 days left to pay 300 GP
+> - 4 days left to pay 300 GP
 
 
 ![[_assets/Sprites/Maps/Daiko.webp]]
@@ -28,29 +27,31 @@ tags:
 > - [[Nations/Zeta/Zeta|Zeta]]
 
 > [!info] Lore
->- [[History/Lore/Prolog|Prolog]]
+>- [[History/Lore/Ages/Prolog|Prolog]]
 >- [[History/Act 0 - The bar|Act 0 - The bar]]
+>- [[History/Act 1 - Into the Unknown|Act 1 - Into the Unknown]]
+>- 
 
 ## 🕒 Recent Changes
+- [[History/Lore/The State Herald.md|The State Herald]]
+- [[Party/Krah Krah Gang/Art.md|Art]]
+- [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Chrüzapothek.md|Chrüzapothek]]
+- [[Party/Krah Krah Gang/Lizard the wizard.md|Lizard the wizard]]
+- [[History/Lore/Ages/Age of Dominion.md|Age of Dominion]]
+- [[History/Lore/Ages/Age of Enlightenment.md|Age of Enlightenment]]
+- [[History/Lore/Ages/Age of Shadows.md|Age of Shadows]]
+- [[History/Lore/Ages/Prolog.md|Prolog]]
+- [[History/Act 0 - The bar.md|Act 0 - The bar]]
+- [[History/Sessions/Session 1 - Meet Jackie.md|Session 1 - Meet Jackie]]
+- [[History/Sessions/Session 2 - Get established in Dunmarrow.md|Session 2 - Get established in Dunmarrow]]
+- [[History/Sessions/Session 3 - Grand opening of the Moist Blue Lobster.md|Session 3 - Grand opening of the Moist Blue Lobster]]
+- [[History/Sessions/Session 4 - Mine Combat.md|Session 4 - Mine Combat]]
+- [[History/Sessions/Session 5 - A dark place.md|Session 5 - A dark place]]
+- [[History/Sessions/Session 6 - A glimpse of freedom and death.md|Session 6 - A glimpse of freedom and death]]
 - [[History/Sessions/Session 7 - New Awakening.md|Session 7 - New Awakening]]
 - [[History/World/Zenia of the Vault.md|Zenia of the Vault]]
-- [[Party/Krah Krah Gang/Art.md|Art]]
-- [[Party/Krah Krah Gang/Lizard the wizard.md|Lizard the wizard]]
+- [[Nations/Daicon Kingdom/Lore/Continental Identification Sigil.md|Continental Identification Sigil]]
 - [[History/Act 1 - Into the Unknown.md|Act 1 - Into the Unknown]]
 - [[Party/Krah Krah Gang/Heir.md|Heir]]
-- [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Town square.md|Town square]]
-- [[Party/Krah Krah Gang/Marmaromenos Menos.md|Marmaromenos Menos]]
-- [[Nations/The Freelands/Towns/Tarrowen/NPCs/Garviel Loken.md|Garviel Loken]]
-- [[Nations/The Freelands/Towns/Tarrowen/NPCs/Priska Demeer.md|Priska Demeer]]
-- [[Party/Krah Krah Gang/Colt Creed.md|Colt Creed]]
-- [[Party/Krah Krah Gang/Caldra Sunhelm.md|Caldra Sunhelm]]
-- [[Nations/Zeta/Jolly Jumper.md|Jolly Jumper]]
-- [[Nations/Daicon Kingdom/Towns/Dunmarrow/Lore/The Moist Blue Lobster - Mechanics.md|The Moist Blue Lobster - Mechanics]]
-- [[Party/Krah Krah Gang/Colt Creed - Probation.md|Colt Creed - Probation]]
-- [[Nations/Daicon Kingdom/Towns/Northwatch Garrison/Colt Creed - Probation.md|Colt Creed - Probation]]
-- [[History/Sessions/Session 2 - Get established in Dunmarrow.md|Session 2 - Get established in Dunmarrow]]
-- [[History/Sessions/Session 6 - A glimpse of freedom and death.md|Session 6 - A glimpse of freedom and death]]
-- [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Pete, drunkard.md|Pete, drunkard]]
-- [[Nations/Zeta/Dusty Town.md|Dusty Town]]
 
-Last update: _08.01.2026, 21:48_
+Last update: _08.01.2026, 22:52_

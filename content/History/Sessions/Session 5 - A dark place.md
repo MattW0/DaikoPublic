@@ -5,6 +5,8 @@ thumbnail:
 concerning: History
 context: Party
 ---
+*Played on the 6.11.2025*
+
 ## Intro 
 Darkness. Not the comforting kind that comes with sleep — this one thinks. It presses against you, whispering in voices that sound like your own. You feel weightless. Drifting. Somewhere far away, metal rattles. Chains, perhaps. Or the hum of a machine. Then, the Key — that cold, alien weight in your mind — pulses once, twice… like a heartbeat that isn’t yours.
 
@@ -33,4 +35,4 @@ You’re alone. Your gear — gone. Your head — pounding. And somewhere in the
 	- [[Nations/Ironreach/Hammerfall Empire/Durundal/Borin Tesk|Borin Tesk]]
 - [[Party/Krah Krah Gang/Colt Creed|Colt Creed]] learns how to open the locks and sneaks out of the cell - rolls a nat 1 in sneak
 
-_Last edited: 2025-12-16 01:16_
+_Last edited: 08.01.2026, 22:29_

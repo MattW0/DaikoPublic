@@ -5,6 +5,8 @@ thumbnail:
 concerning: History
 context: Party
 ---
+*Played on the 13.6.2025*
+## Happenings
 1) Meet in [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/The Moist Blue Lobster|The Moist Blue Lobster]] (shabby bar) with [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Jackie|Jackie]], he pitches his idea
 	* Old owner [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Berrim Barktooth|Berrim Barktooth]] is getting tired -> opens connections for bar mechanics
 	* He would give it and all inventory to players for 5000\$
@@ -14,4 +16,4 @@ context: Party
 	* Players obviously don't do any of the suggestions and want to earn more
 	* Make a deal with [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Randall Corn|Randall Corn]] to kill the monster in the backyard
 
-_Last edited: 2025-12-16 01:01_
+_Last edited: 08.01.2026, 22:29_

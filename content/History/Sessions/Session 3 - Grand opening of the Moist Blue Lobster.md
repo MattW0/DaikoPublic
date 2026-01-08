@@ -5,6 +5,8 @@ thumbnail:
 concerning: History
 context: Party
 ---
+*Played on the 15.9.2025*
+
 ## Happenings
 * Jackie set up bar contracts to show his name and a friends
 * Gives players "immunity" against [[Nations/The Gray Ring/Lore/MICE|MICE]] investigation
@@ -19,4 +21,4 @@ context: Party
 * [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Jackie|Jackie]] is held captive in the bottom floor by [[Nations/The Gray Ring/NPCs/Agent Varn Brask|Agent Varn Brask]]
 * [[Nations/The Gray Ring/Lore/MICE|MICE]] wants to arrest party
 
-_Last edited: 2025-12-16 01:01_
+_Last edited: 08.01.2026, 22:29_

@@ -5,11 +5,10 @@ mod: 0
 level: 3
 tags:
   - Player
-  - Template
 ---
 
 > [!info] Art
-> - Fighter, tiefling
+> - *Fighter, Tiefling*
 
 > [!success] Status
 >- 
@@ -28,4 +27,4 @@ tags:
 
 ### 5. Your goals/believes
 
-_Last edited: 08.01.2026, 21:48_
+_Last edited: 08.01.2026, 22:52_

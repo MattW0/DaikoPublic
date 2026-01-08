@@ -7,7 +7,7 @@ context: Party
 ---
 Location: [[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]
 ### [[History/Sessions/Session 1 - Meet Jackie|Session 1 - Meet Jackie]]
-1) [[History/Lore/Prolog|Prolog]]
+1) [[History/Lore/Ages/Prolog|Prolog]]
 2) Meet in [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Rat Nest|Rat Nest]] (shabby bar) with [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Jackie|Jackie]], he pitches his idea
 	* Old owner [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Berrim Barktooth|Berrim Barktooth]] is getting tired -> opens connections for bar mechanics
 	* He would give it and all inventory to players for 5000\$
@@ -35,4 +35,4 @@ Location: [[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]
 - Traps
 - Bottom floor: Jackie and [[Nations/The Gray Ring/Lore/MICE|MICE]] encounter
 
-_Last edited: 2025-12-16 01:16_
+_Last edited: 08.01.2026, 22:29_

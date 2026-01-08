@@ -6,7 +6,7 @@ concerning: History
 context: Party
 date:
 ---
-*Played on the 09.01.2026*
+*Played on the 16.12.2025*
 
 ### Intro
 All players are unconscious as they are carried away by [[Nations/Zeta/Jolly Jumper|Jolly Jumper]]. They find themselfes in a strange semi-plane floor of black glass, cracked by purple light. 
@@ -37,4 +37,4 @@ Everybody chooses a new character:
 - [[Fulgrim]], transformed to a sheep, with an animal speaking scroll in his mouth initially, asks the party to attack the wizard (shizzard) tower.
 - They approach the monkeys (and the pooping bear), which disappear and alert the wizard. He opens the door (as the regular old Kevin).
 
-_Last edited: 08.01.2026, 21:48_
+_Last edited: 08.01.2026, 22:29_

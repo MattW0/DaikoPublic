@@ -5,6 +5,8 @@ thumbnail:
 concerning: History
 context: Party
 ---
+*Played on the 29.9.2025*
+
 ## Happenings
 Start with immediate combat on top floor because of miserable (nat 1) perception check:
 ```encounter-table
@@ -35,4 +37,4 @@ creatures:
 - If the players yield, they are arrested and brought to [[Nations/Daicon Kingdom/Towns/Northwatch Garrison/Northwatch Garrison|Northwatch Garrison]]
 - If they don't, jackie dies and they get arrested anyways.
 
-_Last edited: 2025-12-16 01:16_
+_Last edited: 08.01.2026, 22:29_

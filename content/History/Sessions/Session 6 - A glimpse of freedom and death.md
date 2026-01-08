@@ -5,6 +5,8 @@ thumbnail:
 concerning: History
 context: Party
 ---
+*Played on the 19.11.2025*
+
 ## Happenings
 [[Party/Krah Krah Gang/Colt Creed|Colt Creed]] gets caught sneaking around and receives punishment
 - Night in isolation cell -> POE
@@ -25,4 +27,4 @@ creatures:
 - [[History/World/Teleion/Vorrak the Whispered|Vorrak the Whispered]] dies in combat
 - TPU and [[Nations/Zeta/Jolly Jumper|Jolly Jumper]] saves them from immediate death...
 
-_Last edited: 16.12.2025, 01:48_
+_Last edited: 08.01.2026, 22:29_

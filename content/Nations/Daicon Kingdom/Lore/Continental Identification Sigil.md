@@ -28,8 +28,8 @@ tags:
 ### Further Info
 The Continental Identification Sigil is a magically bound sigil unique to every registered citizen of the [[Nations/Daicon Kingdom/Daicon Kingdom|Daicon Kingdom]]. Etched into a small rune plate or directly into the bearer’s aura, it holds personal details—name, lineage, magical affinity, and realm of origin—encoded in shifting glyphs only readable by authorized scryers. The sigil resists forgery through soul-binding wards, making it a trusted proof of identity across the realms. CIS are issued and registered by the [Grand Registry of Realms and Routes](World/Nations/Daicon%20Kingdom/Lore/Grand%20Registry%20of%20Realms%20and%20Routes.md).
 
-- First issued near the start of the [Age of Shadows](World/History/Lore/Age%20of%20Shadows.md), 12 years ago.
+- First issued near the start of the [Age of Shadows](World/History/Lore/Ages/Age%20of%20Shadows.md), 12 years ago.
 
 [[Nations/Daicon Kingdom/Lore/CIS - Forgery Rules|CIS - Forgery Rules]]
 
-_Last edited: 2025-12-16 01:01_
+_Last edited: 08.01.2026, 22:29_

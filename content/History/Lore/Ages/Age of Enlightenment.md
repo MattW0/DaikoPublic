@@ -7,8 +7,8 @@ context: World
 ---
 
 > [!info] Timeframe
-> - Following: [[History/Lore/Age of Dominion|Age of Dominion]] 300 years ago
-> - Ended: 20 years ago, entering the [[History/Lore/Age of Shadows|Age of Shadows]]
+> - Following: [[History/Lore/Ages/Age of Dominion|Age of Dominion]] 300 years ago
+> - Ended: 20 years ago, entering the [[History/Lore/Ages/Age of Shadows|Age of Shadows]]
 
 ### Happenings
 - **The Iron Bloom Era** – the first Magitech engines transformed agriculture and industry. Vast fields were tilled by constructs, giving birth to food surpluses and population booms unseen before.
@@ -16,4 +16,4 @@ context: World
 - **The Great Imitation Wars** – rival kingdoms, desperate to replicate Daiconian Magitech, launched wars of theft and espionage. Their crude constructs often turned unstable, rampaging across battlefields and cities alike.
 - **The Gilded Revolution** – commoners, freed from grueling labor by automatons, demanded political rights. Though crushed in blood by Daicon forces, the revolution seeded the notion of civic equality across the continent.
 
-_Last edited: 2025-12-16 01:16_
+_Last edited: 08.01.2026, 22:29_

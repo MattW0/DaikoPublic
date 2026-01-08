@@ -1,7 +1,7 @@
 ---
 tags:
   - Place
-thumbnail:
+thumbnail: "[[_assets/Sprites/Places/chrützappothek.png]]"
 type: Location
 nation: "[[Nations/Daicon Kingdom/Daicon Kingdom|Daicon Kingdom]]"
 city: "[[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]"
@@ -15,6 +15,6 @@ city: "[[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]"
 > 
 
 
-![[Chrützappothek.png]]
+![[_assets/Sprites/Places/chrützappothek.png]]
 
-_Last edited: 2025-12-16 01:16_
+_Last edited: 08.01.2026, 22:50_

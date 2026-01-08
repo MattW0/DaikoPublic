@@ -8,7 +8,7 @@ context: World
 
 > [!info] Timeframe
 > - Began ~800 years ago on the continent of [[Maps/Daiko|Daiko]].
-> - Ended 300 years ago, entering the [[History/Lore/Age of Enlightenment|Age of Enlightenment]].
+> - Ended 300 years ago, entering the [[History/Lore/Ages/Age of Enlightenment|Age of Enlightenment]].
 
 ### Happenings
 - **Rise of the Obsidian Guilds** – secretive human orders formed around the refinement and distribution of Obsidian, often wielding more influence than kings. Rival guilds fought shadow wars that shaped the fate of nations.
@@ -19,4 +19,4 @@ context: World
 
 > [!danger] _“Those who use Obsidian for too long are changed—first in thought, then in flesh. And always, in allegiance.”_
 
-_Last edited: 2025-12-16 01:16_
+_Last edited: 08.01.2026, 22:29_
