@@ -11,5 +11,15 @@ context: Party
 - A sneaky [[Party/Krah Krah Gang/Colt Creed|Colt Creed]] awaits a big surprise
 
 ### [[History/Sessions/Session 6 - A glimpse of freedom and death|Session 6 - A glimpse of freedom and death]]
+- [[Party/Krah Krah Gang/Colt Creed|Colt Creed]] gets probation with [[Nations/The Freelands/Towns/Tarrowen/NPCs/Garviel Loken|Garviel Loken]]
+- Out of [[Nations/Daicon Kingdom/Towns/Northwatch Garrison/Northwatch Garrison|Northwatch Garrison]] and on towards [[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]
+- Fighting Owlbears leads to TPK, but saved by [[Nations/Zeta/Jolly Jumper|Jolly Jumper]]
 
-_Last edited: 2025-12-16 01:16_
+### [[History/Sessions/Session 7 - New Awakening|Session 7 - New Awakening]]
+- Ultimatum by [[History/World/Zenia of the Vault|Zenia of the Vault]]: 3 new characters
+	- [[Party/Krah Krah Gang/Heir|Heir]], [[Party/Krah Krah Gang/Art|Art]], [[Party/Krah Krah Gang/Lizard the wizard|Lizard the wizard]]
+- Return to messed up [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/The Moist Blue Lobster|The Moist Blue Lobster]]
+- Strange exhaustion caused by [[Nations/Daicon Kingdom/Towns/Dunmarrow/Lore/Twin Vaults|Twin Vaults]]
+- Search for the wizard (lizards previous owner)
+
+_Last edited: 08.01.2026, 21:48_

@@ -2,7 +2,7 @@
 hp: 0
 ac: 0
 mod: 0
-level: 1
+level: 3
 tags:
   - Player
 ---
@@ -50,4 +50,4 @@ tags:
 
 [[Hier - Private]]
 
-_Last edited: 16.12.2025, 02:36_
+_Last edited: 08.01.2026, 21:48_

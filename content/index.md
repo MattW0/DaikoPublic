@@ -32,13 +32,18 @@ tags:
 >- [[History/Act 0 - The bar|Act 0 - The bar]]
 
 ## 🕒 Recent Changes
+- [[History/Sessions/Session 7 - New Awakening.md|Session 7 - New Awakening]]
+- [[History/World/Zenia of the Vault.md|Zenia of the Vault]]
+- [[Party/Krah Krah Gang/Art.md|Art]]
+- [[Party/Krah Krah Gang/Lizard the wizard.md|Lizard the wizard]]
+- [[History/Act 1 - Into the Unknown.md|Act 1 - Into the Unknown]]
+- [[Party/Krah Krah Gang/Heir.md|Heir]]
 - [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Town square.md|Town square]]
 - [[Party/Krah Krah Gang/Marmaromenos Menos.md|Marmaromenos Menos]]
 - [[Nations/The Freelands/Towns/Tarrowen/NPCs/Garviel Loken.md|Garviel Loken]]
 - [[Nations/The Freelands/Towns/Tarrowen/NPCs/Priska Demeer.md|Priska Demeer]]
 - [[Party/Krah Krah Gang/Colt Creed.md|Colt Creed]]
 - [[Party/Krah Krah Gang/Caldra Sunhelm.md|Caldra Sunhelm]]
-- [[Party/Krah Krah Gang/Heir.md|Heir]]
 - [[Nations/Zeta/Jolly Jumper.md|Jolly Jumper]]
 - [[Nations/Daicon Kingdom/Towns/Dunmarrow/Lore/The Moist Blue Lobster - Mechanics.md|The Moist Blue Lobster - Mechanics]]
 - [[Party/Krah Krah Gang/Colt Creed - Probation.md|Colt Creed - Probation]]
@@ -48,4 +53,4 @@ tags:
 - [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Pete, drunkard.md|Pete, drunkard]]
 - [[Nations/Zeta/Dusty Town.md|Dusty Town]]
 
-Last update: _16.12.2025, 02:43_
+Last update: _08.01.2026, 21:48_
