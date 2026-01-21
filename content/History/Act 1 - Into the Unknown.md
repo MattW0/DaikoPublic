@@ -22,4 +22,6 @@ context: Party
 - Strange exhaustion caused by [[Nations/Daicon Kingdom/Towns/Dunmarrow/Lore/Twin Vaults|Twin Vaults]]
 - Search for the wizard (lizards previous owner)
 
-_Last edited: 08.01.2026, 21:48_
+# [[History/Sessions/Session 8 - DK Fight|Session 8 - DK Fight]]
+
+_Last edited: 21.01.2026, 18:55_

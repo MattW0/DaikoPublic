@@ -16,7 +16,7 @@ context: Party
 [[Nations/Daicon Kingdom/Towns/Dunmarrow/Lore/Ferrun Bandits|Ferrun Bandits]] were killed during [[Nations/Daicon Kingdom/Towns/Dunmarrow/Quests/Guard Duty|Guard Duty]] 
 
 [[Party/Krah Krah Gang/Marmaromenos Menos|Marmaromenos Menos]] mach Menu Plan 
-- Medicine Check with [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Diego (donkey)|Diego (donkey)]] on a journey to local producers found [[Jidah (nature wine)|Jidah (nature wine)]] to push (even though semi) 
+- Medicine Check with [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Diego (donkey)|Diego (donkey)]] on a journey to local producers found [[Nations/Daicon Kingdom/Towns/Dunmarrow/Lore/Jidah (nature wine)|Jidah (nature wine)]] to push (even though semi) 
 roll: 21
 [[Party/Krah Krah Gang/Colt Creed|Colt Creed]] Sound Systems - Perfomance
 - [[Loud Lulu (country singer)|Loud Lulu (country singer)]] - 150 GP
@@ -29,4 +29,4 @@ roll: 16
 3rd marrus of mara (date)
 [[Party/Krah Krah Gang/Colt Creed|Colt Creed]] owns [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Guiseppe, the Russian|Guiseppe, the Russian]] 120 GP (owner of [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Fuega|Fuega]])
 
-_Last edited: 08.01.2026, 22:29_
+_Last edited: 21.01.2026, 18:55_

@@ -13,12 +13,12 @@ tags:
 > - Job: Contract Headhunter for illegal magic
 
 > [!success] Status
->- 
+>- [[Nations/Daicon Kingdom/Lore/Continental Identification Sigil|Continental Identification Sigil]]: Green
 
 > [!danger] Quests
 > -
 
-![[_assets/Sprites/People/_party/heir.png]]
+![[_assets/Sprites/People/_party/heir.png|399x598]]
 
 ![[_assets/Sprites/People/_party/key_heir.jpeg]]
 
@@ -50,4 +50,4 @@ tags:
 
 [[Hier - Private]]
 
-_Last edited: 08.01.2026, 21:48_
+_Last edited: 21.01.2026, 19:03_

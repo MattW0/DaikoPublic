@@ -8,10 +8,10 @@ context: Party
 Location: [[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]
 ### [[History/Sessions/Session 1 - Meet Jackie|Session 1 - Meet Jackie]]
 1) [[History/Lore/Ages/Prolog|Prolog]]
-2) Meet in [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Rat Nest|Rat Nest]] (shabby bar) with [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Jackie|Jackie]], he pitches his idea
+2) Meet in [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Rat Nest|Rat Nest]] (shabby bar) with [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Jackie Sullivan|Jackie]], he pitches his idea
 	* Old owner [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Berrim Barktooth|Berrim Barktooth]] is getting tired -> opens connections for bar mechanics
 	* He would give it and all inventory to players for 5000\$
-	* [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Jackie|Jackie]] has 4000\$, players their regular starting cash and need to collect 900\$
+	* [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Jackie Sullivan|Jackie]] has 4000\$, players their regular starting cash and need to collect 900\$
 3) Go and earn money
 	* [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Town square|Town square]] has jobs
 	* Players obviously don't do any of the suggestions and want to earn more
@@ -27,7 +27,7 @@ Location: [[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]
 ### [[History/Sessions/Session 3 - Grand opening of the Moist Blue Lobster|Session 3 - Grand opening of the Moist Blue Lobster]]
 1) Rescue the doll for [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Guiseppe, the Russian|Guiseppe, the Russian]] in [[Nations/Daicon Kingdom/Towns/Dunmarrow/Quests/Lost in the well|Lost in the well]]
 2) Opening of [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/The Moist Blue Lobster|The Moist Blue Lobster]]
-3) [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Jackie|Jackie]] is missing
+3) [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Jackie Sullivan|Jackie]] is missing
 	- Investigate [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Krogmaw Mine|Krogmaw Mine]] crystal mine
 	- Encounter [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Victor Halberin|Victor Halberin]] and dead bodies at the entrance
 ### [[History/Sessions/Session 4 - Mine Combat|Session 4 - Mine Combat]]
@@ -35,4 +35,4 @@ Location: [[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]
 - Traps
 - Bottom floor: Jackie and [[Nations/The Gray Ring/Lore/MICE|MICE]] encounter
 
-_Last edited: 08.01.2026, 22:29_
+_Last edited: 21.01.2026, 18:55_

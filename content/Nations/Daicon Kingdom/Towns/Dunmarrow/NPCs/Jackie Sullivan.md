@@ -16,7 +16,8 @@ race: Human
 >- Always has a story to tell, even if it's a lie.
 >- Thinks quick, talks quicker. Means well, usually.
 >- Sees the bar venture as a stage for a greater act yet to come.
+> - He loves [[Nations/Daicon Kingdom/Towns/Dunmarrow/Quests/Riddle/Dark n Stormy|Dark n Stormy]]
 
 [[Jackie - Private]]
 
-_Last edited: 2025-12-16 01:16_
+_Last edited: 21.01.2026, 18:55_

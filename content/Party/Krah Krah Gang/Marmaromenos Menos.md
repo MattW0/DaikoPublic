@@ -30,7 +30,7 @@ tags:
 - He tried to make friends with children from other castes and came to understand them better through that.
 - His primary caretaker was [[Aurora]]. She was the most important person to Marmoromenos.
 ### 2. Important relationships (family, friends, ...)
-- [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Jackie|Jackie]] taught him the local language and helped him look for relics of his people.
+- [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Jackie Sullivan|Jackie]] taught him the local language and helped him look for relics of his people.
 - He hears whispers of his people—caretakers, friends, family, royals, simple citizens he once talked to.
 - He keeps a locket with a strand of [[Aurora]]’s hair.
 ### 3. Places you have a connection with (birthplace, place of studies/training, ...)
@@ -45,4 +45,4 @@ tags:
 
 [[Party/Krah Krah Gang/Marmaromenos Menos - Private|Marmaromenos Menos - Private]]
 
-_Last edited: 16.12.2025, 02:24_
+_Last edited: 21.01.2026, 19:03_

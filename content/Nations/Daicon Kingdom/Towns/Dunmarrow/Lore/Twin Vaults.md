@@ -7,7 +7,7 @@ context: Party
 ---
 
 > [!info] Description
-> - Owned by: [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Jackie|Jackie]], [[Party/Krah Krah Gang/Krah Krah Gang|Krah Krah Gang]]
+> - Owned by: [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Jackie Sullivan|Jackie]], [[Party/Krah Krah Gang/Krah Krah Gang|Krah Krah Gang]]
 
 ![[_assets/Sprites/Lore/Jackies_Cashregistry.png|488x325]]
 
@@ -27,4 +27,4 @@ The Twin Vaults function as a **paired teleportation container system**. Any non
 - [[Nations/Daicon Kingdom/Towns/Dunmarrow/Lore/Twin Vaults - Deeper Lore|Twin Vaults - Deeper Lore]]
 - [[Nations/Daicon Kingdom/Towns/Dunmarrow/Lore/Twin Vaults Key|Twin Vaults Key]]
 
-_Last edited: 2025-12-16 01:16_
+_Last edited: 21.01.2026, 18:55_

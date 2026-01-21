@@ -25,7 +25,7 @@ city: "[[Nations/Daicon Kingdom/Towns/Northwatch Garrison/Northwatch Garrison|No
 
 > [!danger] Quests
 > - Get out of the prison
-> - [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Jackie|Jackie]] is transferred to another high security prison
+> - [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Jackie Sullivan|Jackie]] is transferred to another high security prison
 > - Player hooks from other prisoners
 
 
@@ -33,4 +33,4 @@ city: "[[Nations/Daicon Kingdom/Towns/Northwatch Garrison/Northwatch Garrison|No
 
 [[Nations/Daicon Kingdom/Towns/Northwatch Garrison/Northwatch Garrison - Private|Northwatch Garrison - Private]]
 
-_Last edited: 2025-12-16 01:16_
+_Last edited: 21.01.2026, 18:55_

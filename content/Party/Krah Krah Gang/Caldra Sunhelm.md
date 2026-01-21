@@ -29,7 +29,7 @@ tags:
 - Trained from young age in discipline, combat drills, and loyalty to Kingdom.
 - Learned early that magic must be controlled; children exposed to [[History/World/Obsidian|Obsidian]] feared.
 ### 2. Important relationships (family, friends, ...)
-- [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Jackie|Jackie]] — current contact in [[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]] and her link to the group; trusts him cautiously.
+- [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Jackie Sullivan|Jackie]] — current contact in [[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]] and her link to the group; trusts him cautiously.
 ### 3. Places you have a connection with (birthplace, place of studies/training, ...)
 - [[Nations/Daicon Kingdom/Towns/Varenhold/Varenhold|Varenhold]] — birthplace, childhood home, [[Nations/Daicon Kingdom/Towns/Varenhold/Iron Aegis|Iron Aegis]] recruitment area.
 - [[Maps/Dunmarrow Region|Dunmarrow Region]] — current refuge, where she operates under alias Sophia Bluelake.
@@ -43,4 +43,4 @@ tags:
 
 [[Party/Krah Krah Gang/Caldra Sunhelm - Private|Caldra Sunhelm - Private]]
 
-_Last edited: 16.12.2025, 02:24_
+_Last edited: 21.01.2026, 18:55_

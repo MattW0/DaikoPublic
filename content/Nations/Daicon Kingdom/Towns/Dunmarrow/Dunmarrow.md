@@ -13,7 +13,7 @@ city: "[[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]"
 ![[_assets/Sprites/Places/dunmarrow.webp]]
 
 > [!abstract] Relevant NPCs
->* [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Jackie|Jackie]]
+>* [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Jackie Sullivan|Jackie]]
 >* [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Berrim Barktooth|Berrim Barktooth]]
 >* [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Guiseppe, the Russian|Guiseppe, the Russian]]
 >* [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Victor Halberin|Victor Halberin]]
@@ -32,4 +32,4 @@ city: "[[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]"
 > - [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Postoffice|Postoffice]]
 > - [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Fuega|Fuega]]
 
-_Last edited: 2025-12-16 01:16_
+_Last edited: 21.01.2026, 18:55_

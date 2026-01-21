@@ -1,7 +1,7 @@
 ---
 tags:
   - Lore
-thumbnail: "[[_assets/_templates/Sprite Placeholders/lore_placeholder.png]]"
+thumbnail:
 concerning: Mechanics
 context: Party
 ---
@@ -27,4 +27,4 @@ Roll a d6 for the question format:
 - Catch escaped therapy geese.
 - Fill out 40 pages of meaningless forms (Investigation check to speed-run).
 
-_Last edited: 16.12.2025, 02:36_
+_Last edited: 21.01.2026, 18:55_
