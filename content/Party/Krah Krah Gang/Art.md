@@ -2,13 +2,14 @@
 hp: 0
 ac: 0
 mod: 0
-level: 3
+level: 4
 tags:
   - Player
 ---
 
 > [!info] Art
 > - *Fighter, Tiefling*
+> - From [[Nations/Daicon Kingdom/Towns/Varenhold/Varenhold|Varenhold]], part of the [[knight of the order]]
 
 > [!success] Status
 >- 
@@ -27,4 +28,4 @@ tags:
 
 ### 5. Your goals/believes
 
-_Last edited: 08.01.2026, 22:52_
+_Last edited: 31.01.2026, 01:53_

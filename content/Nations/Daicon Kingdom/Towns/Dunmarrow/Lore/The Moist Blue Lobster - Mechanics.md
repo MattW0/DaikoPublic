@@ -20,7 +20,7 @@ Players may choose to close the bar, which costs a static upkeep cost of 10 GP
 ## Employees
 
 #### Current
-- [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Pete, drunkard]] : because of his alcohol problem -> disadvantage on business check
+- [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Pete, drunkard|Pete, drunkard]] : because of his alcohol problem -> disadvantage on business check
 #### Potential Employees:
 1. **Elira Voss** – Human waitress
     - Quick, attentive, remembers every order by heart.
@@ -65,4 +65,4 @@ Players make ability checks (each 1 or 2) to determine how well the opening day 
 - Days open: 1, 1, 0, 0, 0
 - Earnings: 110 GP, -80 GP, -10 GP, -10 GP, -10GP
 
-_Last edited: 16.12.2025, 02:08_
+_Last edited: 31.01.2026, 01:53_

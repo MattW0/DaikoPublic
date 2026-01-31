@@ -23,5 +23,15 @@ context: Party
 - Search for the wizard (lizards previous owner)
 
 # [[History/Sessions/Session 8 - DK Fight|Session 8 - DK Fight]]
+- Meet Ahmed and his monkeys. Gift a barrel of wine and invite to MBL opening
+- Consider with [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Vulgrim Savage|Vulgrim Savage]] and attack
+- 10h Donkey Kong combat music
+- Salin Ahmed and transform everybody back, including [[Kevin Maxim]]
 
-_Last edited: 21.01.2026, 18:55_
+# [[History/Sessions/Session 9 - A search, a son and snails|Session 9 - A search, a son and snails]]
+- Return glorious to Dunmarrow, earning bounty and a son
+- Find investigation at MBL and meet [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Lady Selina Ravenscar|Lady Selina Ravenscar]]
+- Search for ownership document and riddle through wiki pages
+- Gain back keys to the [[Nations/Daicon Kingdom/Towns/Dunmarrow/Lore/Twin Vaults|Twin Vaults]] and crack the code
+
+_Last edited: 31.01.2026, 02:30_

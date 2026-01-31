@@ -34,7 +34,7 @@ Everybody chooses a new character:
 ## A talking sheep, pooping bear and the wizard
 - They bring along a barrel of natur wii
 - [[Billy Bucklee]]: farmer owning the flock of sheep near the wizard tower. It is close to the mushroom expedition too.
-- [[History/Sessions/Vulgrim Savage|Vulgrim Savage]] (the master wizard shizzard) transformed to a sheep, with an animal speaking scroll in his mouth initially. -> Animal speaking for 7 days. He asks the party to attack his imposter student [[Ahmed Noke]] in the tower.
+- [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Vulgrim Savage|Vulgrim Savage]] (the master wizard shizzard) transformed to a sheep, with an animal speaking scroll in his mouth initially. -> Animal speaking for 7 days. He asks the party to attack his imposter student [[Ahmed Noke]] in the tower.
 - They approach the tower and see talking monkeys and the pooping bear.
 
-_Last edited: 21.01.2026, 18:55_
+_Last edited: 31.01.2026, 01:53_

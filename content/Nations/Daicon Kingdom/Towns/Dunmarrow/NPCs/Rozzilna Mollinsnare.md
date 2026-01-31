@@ -5,15 +5,14 @@ thumbnail: "[[_assets/Sprites/People/rozzlinaMollinsnare.jpg]]"
 origin: "[[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]"
 race: Gastroid
 ---
-
-![[_assets/Sprites/People/rozzlinaMollinsnare.jpg]]
-
 > [!info] Description
 > - Local Administrator of the [[Nations/Daicon Kingdom/Lore/Grand Registry of Realms and Routes|Grand Registry of Realms and Routes]].
 > - Works at the [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Postoffice|Postoffice]]. “_You forgot to fill out Form 7C… again._”
 > - **Race**: Gastroid (Homebrew snailfolk)
 > - **Class**: Wizard (Enchantment/Divination hybrid)
 > - **Alignment**: Lawful Neutral
+
+![[_assets/Sprites/People/rozzlinaMollinsnare.jpg|430x657]]
 
 > [!faq] **Hooks**
 >- She will **not let players skip paperwork**, no matter how heroic they are.
@@ -32,4 +31,4 @@ race: Gastroid
 > - **CID Binding Ritual**
 Roz performs a binding ritual to issue each CID, involving a drop of blood, arcane stamping, and three deeply unimpressed questions.
 
-_Last edited: 2025-12-16 01:16_
+_Last edited: 31.01.2026, 01:53_

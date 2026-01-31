@@ -12,7 +12,7 @@ context: Party
 2) Convince the apes to get invited by Ahmed
 3) Make him taste and convince him to show up to the opening on Friday
 4) Heir leaves an Eerie Token to observe the wizards initial reaction: He commands the ape to give him the wine barrel
-5) Party retreats to chill spot and meet [[History/Sessions/Vulgrim Savage|Vulgrim Savage]] again
+5) Party retreats to chill spot and meet [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Vulgrim Savage|Vulgrim Savage]] again
 6) Smithing intricate plan to infiltrate (is killing the monkeys okay, Heir in depth agexplains verbal component of guidance)
 
 ## 2nd Approach
@@ -35,7 +35,8 @@ creatures:
 ```
 ## Aftering
 Martha and Andrew: Parents of Kevin
-- Kevin,16, goes to bed with Art and Lizzy
-- Heir goes to bed with [[History/Sessions/Vulgrim Savage|Vulgrim,]]
+- Kevin,16, goes to bed and so do Art and Lizzy
+	- Parents martha and Andrew
+- Heir goes to bed with [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Vulgrim Savage|Vulgrim,]]
 
-_Last edited: 21.01.2026, 18:55_
+_Last edited: 31.01.2026, 01:53_

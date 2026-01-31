@@ -6,14 +6,13 @@ tags:
 # [[History/Act 1 - Into the Unknown|Act 1 - Into the Unknown]]
 
 > [!hint] Current day
-> - **Time:** *Morning, Wednesday, Spring*
-> - **Location:** Outskirts of [[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]] in [[Maps/Dunmarrow Region|Dunmarrow Region]]
+> - **Time:** *Evening, Wednesday, Spring*
+> - **Location:** [[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]] in [[Maps/Dunmarrow Region|Dunmarrow Region]]
 > - **News:** [[History/Lore/The State Herald|The State Herald]]
 
 > [!danger] Active Quests
-> - Get cash money from killing the rogue wizard [[Ahmed Noke]]
+> - Gain ownership of [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/The Moist Blue Lobster|The Moist Blue Lobster]] and expand business
 > - Investigate [[Nations/Daicon Kingdom/Towns/Dunmarrow/Lore/Twin Vaults|Twin Vaults]] calling
-> - Expand business of [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/The Moist Blue Lobster|The Moist Blue Lobster]]
 > - 3 days left to pay 300 GP
 
 
@@ -33,25 +32,25 @@ tags:
 >- 
 
 ## 🕒 Recent Changes
+- [[History/Act 1 - Into the Unknown.md|Act 1 - Into the Unknown]]
+- [[History/Sessions/Session 9 - A search, a son and snails.md|Session 9 - A search, a son and snails]]
+- [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Shizzard Wizard Tower.md|Shizzard Wizard Tower]]
+- [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Lady Selina Ravenscar.md|Lady Selina Ravenscar]]
+- [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Lord Aldric Vantrell.md|Lord Aldric Vantrell]]
+- [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Vulgrim Savage.md|Vulgrim Savage]]
+- [[History/Sessions/Session 7 - New Awakening.md|Session 7 - New Awakening]]
+- [[History/Sessions/Session 8 - DK Fight.md|Session 8 - DK Fight]]
+- [[Nations/Daicon Kingdom/Towns/Dunmarrow/Lore/The Moist Blue Lobster - Mechanics.md|The Moist Blue Lobster - Mechanics]]
+- [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Rozzilna Mollinsnare.md|Rozzilna Mollinsnare]]
+- [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Sergeant Karr Donn.md|Sergeant Karr Donn]]
+- [[Nations/Daicon Kingdom/Towns/Dunmarrow/Quests/Riddle/Khar’Mol Festival of the Borrowed Crown.md|Khar’Mol Festival of the Borrowed Crown]]
+- [[Party/Krah Krah Gang/Art.md|Art]]
+- [[Party/Krah Krah Gang/Heir.md|Heir]]
+- [[Party/Krah Krah Gang/Lizard the wizard.md|Lizard the wizard]]
 - [[Nations/Daicon Kingdom/Towns/Dunmarrow/Quests/Riddle/Ashcane.md|Ashcane]]
 - [[Nations/Daicon Kingdom/Towns/Dunmarrow/Quests/Riddle/Ginger beer.md|Ginger beer]]
 - [[Nations/Daicon Kingdom/Towns/Dunmarrow/Quests/Riddle/Gold flesh.md|Gold flesh]]
 - [[Nations/Daicon Kingdom/Towns/Dunmarrow/Quests/Riddle/Red veins.md|Red veins]]
 - [[Nations/Daicon Kingdom/Towns/Dunmarrow/Quests/Riddle/Verdant Coil.md|Verdant Coil]]
-- [[Nations/Daicon Kingdom/Towns/Dunmarrow/Quests/Riddle/Crackled Reaches.md|Crackled Reaches]]
-- [[Nations/Daicon Kingdom/Towns/Dunmarrow/Quests/Riddle/Peels.md|Peels]]
-- [[Nations/Daicon Kingdom/Towns/Dunmarrow/Quests/Riddle/Rum.md|Rum]]
-- [[Nations/Daicon Kingdom/Towns/Dunmarrow/Quests/Riddle/Sailors.md|Sailors]]
-- [[Nations/Daicon Kingdom/Towns/Dunmarrow/Quests/Riddle/Sea spray.md|Sea spray]]
-- [[Nations/Daicon Kingdom/Towns/Dunmarrow/Quests/Riddle/Storm season.md|Storm season]]
-- [[Nations/Daicon Kingdom/Towns/Dunmarrow/Quests/Riddle/Sunbite Lime.md|Sunbite Lime]]
-- [[Party/Krah Krah Gang/Heir.md|Heir]]
-- [[Party/Krah Krah Gang/Marmaromenos Menos.md|Marmaromenos Menos]]
-- [[History/Lore/The State Herald.md|The State Herald]]
-- [[Party/Krah Krah Gang/Art.md|Art]]
-- [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Chrüzapothek.md|Chrüzapothek]]
-- [[Party/Krah Krah Gang/Lizard the wizard.md|Lizard the wizard]]
-- [[History/Lore/Ages/Age of Dominion.md|Age of Dominion]]
-- [[History/Lore/Ages/Age of Enlightenment.md|Age of Enlightenment]]
 
-Last update: _21.01.2026, 19:18_
+Last update: _31.01.2026, 02:49_
