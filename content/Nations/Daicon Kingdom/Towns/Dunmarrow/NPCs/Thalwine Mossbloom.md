@@ -19,4 +19,4 @@ race: Elf
 - _“Gather veilshade caps under moonlight—they bloom only in silence.”_
 - _“Something is sickening the forest. I want a fresh blood sample. From whatever’s doing it.”_
 
-_Last edited: 2025-12-16 01:16_
+_Last edited: 04.02.2026, 22:32_

@@ -30,7 +30,7 @@ Search for clues
 - Confront Pete about info on Jackie
 - Visit Selina at her home. She promises 200 GP if they find Jackie or info about him
 	- Pete Buttinghedge is her butler
-- They almost make it but fail on Ashcane
+- They almost solve the riddle on Jackies favorite drink [[Nations/Daicon Kingdom/Towns/Dunmarrow/Quests/Riddle/Dark n Stormy|Dark n Stormy]], but fail on [[Nations/Daicon Kingdom/Towns/Dunmarrow/Quests/Riddle/Ashcane|Ashcane]]
 
 Retry
 - Find nasty snails and bring to Rozzlinda, she integrates them and is pleased
@@ -41,4 +41,4 @@ Retry
 
 ![[_assets/Certificate_Moist Blue Lobster.pdf]]
 
-_Last edited: 31.01.2026, 02:24_
+_Last edited: 04.02.2026, 22:32_

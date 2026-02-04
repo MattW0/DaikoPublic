@@ -14,4 +14,4 @@ race: Human
 > [!danger] Quests
 > -
 
-_Last edited: 16.12.2025, 02:36_
+_Last edited: 04.02.2026, 22:32_

@@ -16,4 +16,4 @@ context: Party
 	* Players obviously don't do any of the suggestions and want to earn more
 	* Make a deal with [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Randall Corn|Randall Corn]] to kill the monster in the backyard
 
-_Last edited: 21.01.2026, 18:55_
+_Last edited: 04.02.2026, 22:32_

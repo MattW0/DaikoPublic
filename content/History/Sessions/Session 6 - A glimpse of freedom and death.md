@@ -27,4 +27,4 @@ creatures:
 - [[History/World/Teleion/Vorrak the Whispered|Vorrak the Whispered]] dies in combat
 - TPU and [[Nations/Zeta/Jolly Jumper|Jolly Jumper]] saves them from immediate death...
 
-_Last edited: 08.01.2026, 22:29_
+_Last edited: 04.02.2026, 22:32_

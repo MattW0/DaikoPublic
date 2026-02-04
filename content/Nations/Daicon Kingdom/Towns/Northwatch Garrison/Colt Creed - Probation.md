@@ -27,4 +27,4 @@ Roll a d6 for the question format:
 - Catch escaped therapy geese.
 - Fill out 40 pages of meaningless forms (Investigation check to speed-run).
 
-_Last edited: 21.01.2026, 18:55_
+_Last edited: 04.02.2026, 22:32_

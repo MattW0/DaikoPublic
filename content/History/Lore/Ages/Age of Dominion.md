@@ -19,4 +19,4 @@ context: World
 
 > [!danger] _“Those who use Obsidian for too long are changed—first in thought, then in flesh. And always, in allegiance.”_
 
-_Last edited: 08.01.2026, 22:29_
+_Last edited: 04.02.2026, 22:32_

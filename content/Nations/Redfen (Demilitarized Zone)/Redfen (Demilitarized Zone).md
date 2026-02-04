@@ -20,4 +20,4 @@ Locals tell of “The Red Reflection”, a ghostly mirage said to show a version
 ## Towns
 - [[Nations/Redfen (Demilitarized Zone)/Vel-Harim|Vel-Harim]]
 
-_Last edited: 2025-12-16 01:01_
+_Last edited: 04.02.2026, 22:32_

@@ -14,4 +14,4 @@ city:
 > * [[Party/Krah Krah Gang/Colt Creed|Colt Creed]] birthplace
 > * Old Buxly (oldest in town)
 
-_Last edited: 16.12.2025, 02:24_
+_Last edited: 04.02.2026, 22:32_

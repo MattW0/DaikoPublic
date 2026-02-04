@@ -14,4 +14,4 @@ context: World
  > - [[Nations/Ironreach/Hammerfall Empire/Hammerfall Empire|Hammerfall Empire]], *dwarfs*
  > - [[Ferrun]], *firbolgs and friends*
 
-_Last edited: 2025-12-16 01:16_
+_Last edited: 04.02.2026, 22:32_

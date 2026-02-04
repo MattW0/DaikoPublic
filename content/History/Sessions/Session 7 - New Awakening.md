@@ -37,4 +37,4 @@ Everybody chooses a new character:
 - [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Vulgrim Savage|Vulgrim Savage]] (the master wizard shizzard) transformed to a sheep, with an animal speaking scroll in his mouth initially. -> Animal speaking for 7 days. He asks the party to attack his imposter student [[Ahmed Noke]] in the tower.
 - They approach the tower and see talking monkeys and the pooping bear.
 
-_Last edited: 31.01.2026, 01:53_
+_Last edited: 04.02.2026, 22:32_

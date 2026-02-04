@@ -11,4 +11,4 @@ Owned by [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Berrim Barktooth|Berrim B
 
 ![ratNest|534x534](_assets/Sprites/Places/ratNest.jpg)
 
-_Last edited: 2025-12-16 01:01_
+_Last edited: 04.02.2026, 22:32_

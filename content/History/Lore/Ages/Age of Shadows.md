@@ -15,4 +15,4 @@ Magitech and psionics have replaced traditional arcane arts in many urban center
 
 The northern lands, however, still holds free folk, innate magic, rebels, relics, and dangerous truths.
 
-_Last edited: 08.01.2026, 22:29_
+_Last edited: 04.02.2026, 22:32_

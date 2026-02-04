@@ -65,4 +65,4 @@ Players make ability checks (each 1 or 2) to determine how well the opening day 
 - Days open: 1, 1, 0, 0, 0
 - Earnings: 110 GP, -80 GP, -10 GP, -10 GP, -10GP
 
-_Last edited: 31.01.2026, 01:53_
+_Last edited: 04.02.2026, 22:32_

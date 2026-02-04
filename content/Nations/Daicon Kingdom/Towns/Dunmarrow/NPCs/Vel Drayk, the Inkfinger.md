@@ -31,4 +31,4 @@ race: Half-Elf
 - He hates [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Rozzilna Mollinsnare|Rozzilna Mollinsnare]] but refuses to speak ill of her. There’s clearly history there.
 - He collects failed IDs in a drawer and refers to it as “the regret pile.”
 
-_Last edited: 2025-12-16 01:16_
+_Last edited: 04.02.2026, 22:32_

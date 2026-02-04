@@ -11,4 +11,4 @@ tags:
 - Tossing the peel into water or the sea is said to calm storms or [[Nations/Daicon Kingdom/Towns/Dunmarrow/Quests/Riddle/Lead|spirits]]
 - Used in rituals to mark a drink as **ready and true**
 
-_Last edited: 21.01.2026, 19:14_
+_Last edited: 04.02.2026, 22:32_

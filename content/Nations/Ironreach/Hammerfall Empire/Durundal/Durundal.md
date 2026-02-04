@@ -10,4 +10,4 @@ Dwarven city in the eastern part of the [[Nations/Ironreach/Hammerfall Empire/Ha
 
 ![[_assets/Downloaded/Maps/Unterwegs/Dwarven City Entrance Ruins 30x50.jpg]]
 
-_Last edited: 2025-12-16 01:16_
+_Last edited: 04.02.2026, 22:32_

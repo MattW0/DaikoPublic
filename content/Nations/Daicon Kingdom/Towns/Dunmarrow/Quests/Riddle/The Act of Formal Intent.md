@@ -10,4 +10,4 @@ The ritual requires the admirer to wait their turn, state their purpose calmly, 
 
 Outsiders often fail by seeking privacy or extravagant gifts, overlooking that among the Snail Folk, affection begins **publicly, slowly, and only**
 
-_Last edited: 21.01.2026, 18:55_
+_Last edited: 04.02.2026, 22:32_

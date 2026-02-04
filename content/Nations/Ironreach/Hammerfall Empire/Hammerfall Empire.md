@@ -9,4 +9,4 @@ Dwarven clan residing in the [[Nations/Daicon Kingdom/Lore/Durgrat Mountains|Dur
 
 [[Nations/Ironreach/Hammerfall Empire/Hammerfall Empire - Private|Hammerfall Empire - Private]]
 
-_Last edited: 2025-12-16 01:16_
+_Last edited: 04.02.2026, 22:32_

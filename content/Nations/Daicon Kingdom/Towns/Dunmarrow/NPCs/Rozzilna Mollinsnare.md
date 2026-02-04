@@ -31,4 +31,4 @@ race: Gastroid
 > - **CID Binding Ritual**
 Roz performs a binding ritual to issue each CID, involving a drop of blood, arcane stamping, and three deeply unimpressed questions.
 
-_Last edited: 31.01.2026, 01:53_
+_Last edited: 04.02.2026, 22:32_

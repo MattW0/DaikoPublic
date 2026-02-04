@@ -10,4 +10,4 @@ context: World
 
 Came in contact with [[Party/Krah Krah Gang/Marmaromenos Menos|Marmaromenos Menos]] and [[Party/Krah Krah Gang/Caldra Sunhelm|Caldra Sunhelm]], who killed two younger rebels.
 
-_Last edited: 2025-12-16 01:16_
+_Last edited: 04.02.2026, 22:32_

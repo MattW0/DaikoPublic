@@ -19,4 +19,4 @@ Rich human with connections in the business with [[Nations/Daicon Kingdom/Towns/
 * [[Bram Tugg|Bram Tugg]] – Personal guard and thug. Handles “unofficial” matters discreetly around town. (Chef and wanna be security, human)
 * [[Sylzryn|Sylzryn]] (Gardener, darkelf)
 
-_Last edited: 2025-12-16 01:16_
+_Last edited: 04.02.2026, 22:32_

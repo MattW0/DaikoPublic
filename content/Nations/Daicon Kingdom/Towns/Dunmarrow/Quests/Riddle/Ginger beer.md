@@ -14,4 +14,4 @@ This is where Daicon grows **coil-ginger**.
 
 Locals say you can tell a good harvest by how long it takes before your tongue protests.
 
-_Last edited: 21.01.2026, 19:18_
+_Last edited: 04.02.2026, 22:32_

@@ -12,4 +12,4 @@ tags:
 - Considered a symbol of **stored sunlight and patience**
 - They say eating it raw is “stealing fire meant to be shared”
 
-_Last edited: 21.01.2026, 19:18_
+_Last edited: 04.02.2026, 22:32_

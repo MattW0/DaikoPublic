@@ -9,4 +9,4 @@ tags:
 - Barrels are aged in cliffside warehouses, open to salt air and thunder.
 - By tradition, barrels are only sealed after surviving one full [[Nations/Daicon Kingdom/Towns/Dunmarrow/Quests/Riddle/Storm season|Storm season]].
 
-_Last edited: 21.01.2026, 19:14_
+_Last edited: 04.02.2026, 22:32_

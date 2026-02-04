@@ -19,4 +19,4 @@ city: "[[Nations/Daicon Kingdom/Towns/Varenhold/Varenhold|Varenhold]]"
 > - Free [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Jackie Sullivan|Jackie]]
 >
 
-_Last edited: 21.01.2026, 18:55_
+_Last edited: 04.02.2026, 22:32_

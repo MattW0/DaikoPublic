@@ -9,4 +9,4 @@ Sailors are individuals trained to crew and navigate sea-going vessels, spending
 
 For this reason, objects or records originating from sailors are traditionally treated with caution, especially when questions of origin, ownership, or authenticity arise.
 
-_Last edited: 21.01.2026, 19:14_
+_Last edited: 04.02.2026, 22:32_

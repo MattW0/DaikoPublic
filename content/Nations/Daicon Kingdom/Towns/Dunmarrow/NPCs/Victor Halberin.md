@@ -15,4 +15,4 @@ Previous employer of [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Jackie Sulliv
 
 [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Victor Halberin - Stats|Victor Halberin - Stats]]
 
-_Last edited: 21.01.2026, 18:55_
+_Last edited: 04.02.2026, 22:32_

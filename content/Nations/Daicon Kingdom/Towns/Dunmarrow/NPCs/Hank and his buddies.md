@@ -12,4 +12,4 @@ race: Human
 > [!faq] **Hooks**
 > - Hank has accompanied [[Party/Krah Krah Gang/Marmaromenos Menos|Marmaromenos Menos]] and [[Party/Krah Krah Gang/Caldra Sunhelm|Caldra Sunhelm]] during quest [[Nations/Daicon Kingdom/Towns/Dunmarrow/Quests/Guard Duty|Guard Duty]]. He was not fond of them killing children of [[Nations/Daicon Kingdom/Towns/Dunmarrow/Lore/Ferrun Bandits|Ferrun Bandits]].
 
-_Last edited: 2025-12-16 01:16_
+_Last edited: 04.02.2026, 22:32_

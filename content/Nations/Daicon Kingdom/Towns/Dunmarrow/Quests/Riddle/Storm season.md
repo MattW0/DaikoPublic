@@ -13,4 +13,4 @@ _“The Long Roar”_
 - Ships stay docked unless oath-bound
 - Contract [[Nations/Daicon Kingdom/Towns/Dunmarrow/Quests/Riddle/The Act of Formal Intent|Long Roar]] are considered unbreakable [[Nations/Daicon Kingdom/Towns/Dunmarrow/Quests/Riddle/The Act of Formal Intent|thunder]], not days
 
-_Last edited: 21.01.2026, 19:14_
+_Last edited: 04.02.2026, 22:32_

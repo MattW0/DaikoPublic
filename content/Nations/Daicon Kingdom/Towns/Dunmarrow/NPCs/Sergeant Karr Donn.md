@@ -14,4 +14,4 @@ race: Human
 >- [[Nations/Daicon Kingdom/Towns/Dunmarrow/Quests/Guard Duty|Guard Duty]] 
 >-  Investigated about vanishing owners of [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/The Moist Blue Lobster]]
 
-_Last edited: 31.01.2026, 01:53_
+_Last edited: 04.02.2026, 22:32_

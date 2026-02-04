@@ -18,4 +18,4 @@ Previously owned by [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Berrim Barktoo
 - Players can help out in the daily business, each player doing so gives +2 to the business Check
 - Get earnings from Continuous Upkeep described in [[Nations/Daicon Kingdom/Towns/Dunmarrow/Lore/The Moist Blue Lobster - Mechanics|The Moist Blue Lobster - Mechanics]].
 
-_Last edited: 21.01.2026, 18:55_
+_Last edited: 04.02.2026, 22:32_

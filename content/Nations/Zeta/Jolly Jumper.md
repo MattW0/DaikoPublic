@@ -13,4 +13,4 @@ race:
 > [!faq] **Hooks**
 >- [[Party/Krah Krah Gang/Colt Creed|Colt Creed]] always hoped that he would once see it
 
-_Last edited: 16.12.2025, 02:00_
+_Last edited: 04.02.2026, 22:32_

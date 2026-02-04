@@ -21,4 +21,4 @@ city: "[[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]"
 
 ![[_assets/Downloaded/Maps/Dungeons/TC_Silverspring Mine 01 Entrance_Free.jpg]]
 
-_Last edited: 2025-12-16 01:16_
+_Last edited: 04.02.2026, 22:32_

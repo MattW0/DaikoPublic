@@ -37,4 +37,4 @@ creatures:
 - If the players yield, they are arrested and brought to [[Nations/Daicon Kingdom/Towns/Northwatch Garrison/Northwatch Garrison|Northwatch Garrison]]
 - If they don't, jackie dies and they get arrested anyways.
 
-_Last edited: 21.01.2026, 18:55_
+_Last edited: 04.02.2026, 22:32_

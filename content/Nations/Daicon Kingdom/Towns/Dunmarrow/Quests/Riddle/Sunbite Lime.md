@@ -17,4 +17,4 @@ tags:
 Not sweetness—**clarity**.  
 Jackie says it “cuts the storm so you can survive it.”
 
-_Last edited: 21.01.2026, 19:14_
+_Last edited: 04.02.2026, 22:32_

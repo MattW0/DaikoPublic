@@ -35,4 +35,4 @@ You’re alone. Your gear — gone. Your head — pounding. And somewhere in the
 	- [[Nations/Ironreach/Hammerfall Empire/Durundal/Borin Tesk|Borin Tesk]]
 - [[Party/Krah Krah Gang/Colt Creed|Colt Creed]] learns how to open the locks and sneaks out of the cell - rolls a nat 1 in sneak
 
-_Last edited: 08.01.2026, 22:29_
+_Last edited: 04.02.2026, 22:32_

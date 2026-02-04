@@ -2,7 +2,7 @@
 tags:
   - NPC
 thumbnail: "[[_assets/_templates/Sprite Placeholders/npc_placeholder.png]]"
-origin: "[[Tarrowen]]"
+origin: "[[Nations/The Freelands/Towns/Tarrowen/Tarrowen|Tarrowen]]"
 race: High-Elf
 ---
 
@@ -13,4 +13,4 @@ race: High-Elf
 > [!faq] **Hooks**
 >- [[Party/Krah Krah Gang/Colt Creed|Colt Creed]] must show up to him every month (6 times) for his probation punishment
 
-_Last edited: 16.12.2025, 02:04_
+_Last edited: 04.02.2026, 22:50_

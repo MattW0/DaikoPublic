@@ -19,4 +19,4 @@ city: "[[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]"
 > [!danger] Quests
 > - Slain Ahmed, the imposter wizzard: 300 GP
 
-_Last edited: 31.01.2026, 02:24_
+_Last edited: 04.02.2026, 22:32_

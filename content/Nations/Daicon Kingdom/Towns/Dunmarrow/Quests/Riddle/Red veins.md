@@ -10,4 +10,4 @@ _“Cinderthread”_
 - Goliaths dry and grind them for **rite-smoke and marking ash**
 - Healers use minute amounts to “wake the blood” after cold or shock
 
-_Last edited: 21.01.2026, 19:18_
+_Last edited: 04.02.2026, 22:32_

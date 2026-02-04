@@ -10,4 +10,4 @@ context: Redfen
 
 This battle near the end of the conflict left thousands dead and the land poisoned by burning tar and alchemical runoff. Dwarves tunneled beneath the marshes, elves rained fire from the tree lines, and humans flooding the trenches with a poisonous mixture to claim the high ground. With the land left unusable, the three races were forced to negotiate. This led to the [[Nations/Redfen (Demilitarized Zone)/Truce of Blackmere|Truce of Blackmere]]
 
-_Last edited: 2025-12-16 01:01_
+_Last edited: 04.02.2026, 22:32_

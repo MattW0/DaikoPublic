@@ -16,4 +16,4 @@ context: World
 - **The Great Imitation Wars** – rival kingdoms, desperate to replicate Daiconian Magitech, launched wars of theft and espionage. Their crude constructs often turned unstable, rampaging across battlefields and cities alike.
 - **The Gilded Revolution** – commoners, freed from grueling labor by automatons, demanded political rights. Though crushed in blood by Daicon forces, the revolution seeded the notion of civic equality across the continent.
 
-_Last edited: 08.01.2026, 22:29_
+_Last edited: 04.02.2026, 22:32_

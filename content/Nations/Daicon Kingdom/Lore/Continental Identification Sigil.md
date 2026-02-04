@@ -32,4 +32,4 @@ The Continental Identification Sigil is a magically bound sigil unique to every 
 
 [[Nations/Daicon Kingdom/Lore/CIS - Forgery Rules|CIS - Forgery Rules]]
 
-_Last edited: 08.01.2026, 22:29_
+_Last edited: 04.02.2026, 22:32_
