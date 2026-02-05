@@ -27,6 +27,6 @@ tags:
 
 ### 5. Your goals/believes 
 
-![[_assets/Lizard Wizard Mutation List.pdf]]
+![[_assets/krahKrahGang/Lizard Wizard Mutation List.pdf]]
 
-_Last edited: 04.02.2026, 22:32_
+_Last edited: 06.02.2026, 00:26_

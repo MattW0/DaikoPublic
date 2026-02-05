@@ -9,7 +9,7 @@ race: Human
 > [!info|wide-5] Lady Selina Ravenscar
 > - Comes form noble living outside of [[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]
 > - Lives at Dorfstrasse 9
-> - Daughter of [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Lord Aldric Vantrell]]
+> - Daughter of [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Lord Aldric Vantrell|Lord Aldric Vantrell]]
 
 > [!faq] **Hooks**
 >- Is the advocate and notary of Dunmarrow
@@ -20,4 +20,4 @@ race: Human
 
 ![[_assets/Sprites/People/selinaRavenscar.png|420x630]]
 
-_Last edited: 04.02.2026, 22:32_
+_Last edited: 06.02.2026, 00:26_

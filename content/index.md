@@ -33,6 +33,10 @@ tags:
 
 ## 🕒 Recent Changes
 - [[History/Lore/The State Herald.md|The State Herald]]
+- [[History/Sessions/Session 9 - A search, a son and snails.md|Session 9 - A search, a son and snails]]
+- [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Lady Selina Ravenscar.md|Lady Selina Ravenscar]]
+- [[Nations/Redfen (Demilitarized Zone)/Truce of Blackmere.md|Truce of Blackmere]]
+- [[Party/Krah Krah Gang/Lizard the wizard.md|Lizard the wizard]]
 - [[Nations/The Freelands/Towns/Tarrowen/NPCs/Garviel Loken.md|Garviel Loken]]
 - [[Nations/The Freelands/Towns/Tarrowen/NPCs/Priska Demeer.md|Priska Demeer]]
 - [[History/Act 0 - The bar.md|Act 0 - The bar]]
@@ -48,9 +52,5 @@ tags:
 - [[History/Sessions/Session 5 - A dark place.md|Session 5 - A dark place]]
 - [[History/Sessions/Session 6 - A glimpse of freedom and death.md|Session 6 - A glimpse of freedom and death]]
 - [[History/Sessions/Session 7 - New Awakening.md|Session 7 - New Awakening]]
-- [[History/Sessions/Session 8 - DK Fight.md|Session 8 - DK Fight]]
-- [[History/Sessions/Session 9 - A search, a son and snails.md|Session 9 - A search, a son and snails]]
-- [[History/World/Obsidian.md|Obsidian]]
-- [[History/World/Zenia of the Vault.md|Zenia of the Vault]]
 
-Last update: _04.02.2026, 22:50_
+Last update: _06.02.2026, 00:45_

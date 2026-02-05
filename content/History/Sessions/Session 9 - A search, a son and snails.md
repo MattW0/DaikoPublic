@@ -39,6 +39,6 @@ Retry
 - Buttler gets them, paying 200 GP for "arrangements". Players have their keys and another 6 tries.
 - Finally enter "[[Khar’Mol Festival of the Borrowed Crown|Burn the sugar]]" and find out the ownership document was with Peschä all along.
 
-![[_assets/Certificate_Moist Blue Lobster.pdf]]
+![[_assets/krahKrahGang/Certificate_Moist Blue Lobster.pdf]]
 
-_Last edited: 04.02.2026, 22:32_
+_Last edited: 06.02.2026, 00:26_
