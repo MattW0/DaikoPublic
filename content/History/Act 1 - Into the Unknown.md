@@ -16,7 +16,7 @@ context: Party
 - Fighting Owlbears leads to TPK, but saved by [[Nations/Zeta/Jolly Jumper|Jolly Jumper]]
 
 ### [[History/Sessions/Session 7 - New Awakening|Session 7 - New Awakening]]
-- Ultimatum by [[History/World/Zenia of the Vault|Zenia of the Vault]]: 3 new characters
+- Ultimatum by [[History/Lore/Zenia of the Vault|Zenia of the Vault]]: 3 new characters
 	- [[Party/Krah Krah Gang/Heir|Heir]], [[Party/Krah Krah Gang/Art|Art]], [[Party/Krah Krah Gang/Lizard the wizard|Lizard the wizard]]
 - Return to messed up [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/The Moist Blue Lobster|The Moist Blue Lobster]]
 - Strange exhaustion caused by [[Nations/Daicon Kingdom/Towns/Dunmarrow/Lore/Twin Vaults|Twin Vaults]]
@@ -34,4 +34,4 @@ context: Party
 - Search for ownership document and riddle through wiki pages
 - Gain back keys to the [[Nations/Daicon Kingdom/Towns/Dunmarrow/Lore/Twin Vaults|Twin Vaults]] and crack the code
 
-_Last edited: 04.02.2026, 22:32_
+_Last edited: 06.02.2026, 18:39_

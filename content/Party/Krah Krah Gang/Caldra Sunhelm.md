@@ -27,7 +27,7 @@ tags:
 - Born in [[Nations/Daicon Kingdom/Towns/Varenhold/Varenhold|Varenhold]] to modest loyalist parents.
 - Her father, [[Captain Alric Sunhelm]], was an [[Nations/Daicon Kingdom/Towns/Varenhold/Iron Aegis|Iron Aegis]] officer.
 - Trained from young age in discipline, combat drills, and loyalty to Kingdom.
-- Learned early that magic must be controlled; children exposed to [[History/World/Obsidian|Obsidian]] feared.
+- Learned early that magic must be controlled; children exposed to [[History/Lore/Obsidian|Obsidian]] feared.
 ### 2. Important relationships (family, friends, ...)
 - [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Jackie Sullivan|Jackie]] — current contact in [[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]] and her link to the group; trusts him cautiously.
 ### 3. Places you have a connection with (birthplace, place of studies/training, ...)
@@ -38,9 +38,9 @@ tags:
 - Falsified identity “Sophia Bluelake” to pass as a neutral or visiting commoner.
 ### 5. Your goals/believes 
 - To survive quietly under a false name and avoid detection.
-- To protect innocents from abuses of magic and [[History/World/Obsidian|Obsidian]] without broad recognition. 
+- To protect innocents from abuses of magic and [[History/Lore/Obsidian|Obsidian]] without broad recognition. 
 - To find a small measure of peace, somewhere far from the Kingdom’s reach.
 
 [[Party/Krah Krah Gang/Caldra Sunhelm - Private|Caldra Sunhelm - Private]]
 
-_Last edited: 04.02.2026, 22:32_
+_Last edited: 06.02.2026, 18:39_

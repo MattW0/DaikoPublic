@@ -24,7 +24,7 @@ creatures:
   - 2: Owlbear
   - 1: Baby owlbear
 ```
-- [[History/World/Teleion/Vorrak the Whispered|Vorrak the Whispered]] dies in combat
+- [[History/Lore/Teleion/Vorrak the Whispered|Vorrak the Whispered]] dies in combat
 - TPU and [[Nations/Zeta/Jolly Jumper|Jolly Jumper]] saves them from immediate death...
 
-_Last edited: 04.02.2026, 22:32_
+_Last edited: 06.02.2026, 18:39_

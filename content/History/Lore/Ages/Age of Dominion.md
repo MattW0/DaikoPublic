@@ -15,8 +15,8 @@ context: World
 - **The Wasting Plague** – a mysterious affliction struck soldiers and sorcerers alike, their bodies twisted by prolonged exposure to raw Obsidian. Though feared, some saw this mutation as a divine gift.
 - **Age of Stonebound Kings** – rulers who bound shards of Obsidian into their flesh to extend life and power. Their reigns were long, but their humanity slipped away, leaving warped dynasties.
 - **The War of Black Rivers** – rival kingdoms poisoned one another’s rivers with ground Obsidian dust, devastating farmland and birthing wastelands still cursed today.
-- **The Silent Accord** – surviving powers eventually agreed—though not always honored—that the mining and hoarding of [[History/World/Obsidian|Obsidian]] must be limited, lest the world itself unravel.
+- **The Silent Accord** – surviving powers eventually agreed—though not always honored—that the mining and hoarding of [[History/Lore/Obsidian|Obsidian]] must be limited, lest the world itself unravel.
 
 > [!danger] _“Those who use Obsidian for too long are changed—first in thought, then in flesh. And always, in allegiance.”_
 
-_Last edited: 04.02.2026, 22:32_
+_Last edited: 06.02.2026, 18:39_

@@ -9,7 +9,7 @@ context: Party
 ### Intro
 All players are unconscious as they are carried away by [[Nations/Zeta/Jolly Jumper|Jolly Jumper]]. They find themselfes in a strange semi-plane floor of black glass, cracked by purple light. 
 
-A woman awaits them: [[History/World/Zenia of the Vault|Zenia of the Vault]]
+A woman awaits them: [[History/Lore/Zenia of the Vault|Zenia of the Vault]]
 > “You arrive at a pause the world did not intend.”
 
 She gestures. The void to the left and right of her shifts and reveals two passages:
@@ -37,4 +37,4 @@ Everybody chooses a new character:
 - [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Vulgrim Savage|Vulgrim Savage]] (the master wizard shizzard) transformed to a sheep, with an animal speaking scroll in his mouth initially. -> Animal speaking for 7 days. He asks the party to attack his imposter student [[Ahmed Noke]] in the tower.
 - They approach the tower and see talking monkeys and the pooping bear.
 
-_Last edited: 04.02.2026, 22:32_
+_Last edited: 06.02.2026, 18:39_

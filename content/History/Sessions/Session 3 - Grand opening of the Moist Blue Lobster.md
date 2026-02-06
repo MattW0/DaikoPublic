@@ -10,7 +10,7 @@ context: Party
 ## Happenings
 * Jackie set up bar contracts to show his name and a friends
 * Gives players "immunity" against [[Nations/The Gray Ring/Lore/MICE|MICE]] investigation
-* He sniffs [[History/World/Obsidian|Obsidian]] extensively during preparations
+* He sniffs [[History/Lore/Obsidian|Obsidian]] extensively during preparations
 * Night berfore bar opening, [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Jackie Sullivan|Jackie]] disappears
 * Berrim gives hints where he might be
 
@@ -21,4 +21,4 @@ context: Party
 * [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Jackie Sullivan|Jackie]] is held captive in the bottom floor by [[Nations/The Gray Ring/NPCs/Agent Varn Brask|Agent Varn Brask]]
 * [[Nations/The Gray Ring/Lore/MICE|MICE]] wants to arrest party
 
-_Last edited: 04.02.2026, 22:32_
+_Last edited: 06.02.2026, 18:39_

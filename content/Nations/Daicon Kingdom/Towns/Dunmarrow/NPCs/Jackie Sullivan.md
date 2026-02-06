@@ -8,7 +8,7 @@ race: Human
 
 >[!info] Jackie 
 > _Human Bard (Level 3), Chaotic Good, Entertainer_
-> Worked at [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Krogmaw Mine|Krogmaw Mine]]. Steals small amount of [[History/World/Obsidian|Obsidian]] and sells it on the black market. Uses some of it on himself for small magical abilities. Owner caught him at some point and fired him. Using the cash from his shady business, he wants to reopen [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Rat Nest|Rat Nest]] in [[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]. He knows players from back in the days and nowadays uses [[History/World/Obsidian|Obsidian]] for slight magical abilities (but mostly because he's addicted)
+> Worked at [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Krogmaw Mine|Krogmaw Mine]]. Steals small amount of [[History/Lore/Obsidian|Obsidian]] and sells it on the black market. Uses some of it on himself for small magical abilities. Owner caught him at some point and fired him. Using the cash from his shady business, he wants to reopen [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Rat Nest|Rat Nest]] in [[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]. He knows players from back in the days and nowadays uses [[History/Lore/Obsidian|Obsidian]] for slight magical abilities (but mostly because he's addicted)
 
 ![[_assets/Sprites/People/jackie.jpg|351x450]]
 
@@ -20,4 +20,4 @@ race: Human
 
 [[Jackie - Private]]
 
-_Last edited: 04.02.2026, 22:32_
+_Last edited: 06.02.2026, 18:39_

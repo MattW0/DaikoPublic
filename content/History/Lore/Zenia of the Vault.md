@@ -15,6 +15,6 @@ race:
 >- The party has been marked by the [[Nations/Daicon Kingdom/Towns/Dunmarrow/Lore/Twin Vaults|Twin Vaults]]’s influence.
 >
 
-[[History/World/Zenia of the Vault - Private|Zenia of the Vault - Private]]
+[[History/Lore/Zenia of the Vault - Private|Zenia of the Vault - Private]]
 
-_Last edited: 04.02.2026, 22:32_
+_Last edited: 06.02.2026, 18:39_
