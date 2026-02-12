@@ -6,7 +6,7 @@ concerning: Mechanics
 context: Party
 ---
 
-Equipment and state of [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/The Moist Blue Lobster|The Moist Blue Lobster]]. 
+Equipment and state of [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/The Jolly Hot Bongo Storm|The Jolly Hot Bongo Storm]]. 
 
 ## 🍺 Daily upkeep (d20 before every longrest)
 | Roll  | Result                         |
@@ -62,7 +62,7 @@ Players make ability checks (each 1 or 2) to determine how well the opening day 
 * Kitchen Prep: Intelligence (Cook’s Utensils) or Wisdom (Survival).
 
 ## History
-- Days open: 1, 1, 0, 0, 0
-- Earnings: 110 GP, -80 GP, -10 GP, -10 GP, -10GP
+- Days open: 1, 1, 0, 0, 0, 0, 0, 0
+- Earnings: 110 GP, -80 GP, -10 GP, -10 GP, -10GP, -10GP, -10GP, -10GP
 
-_Last edited: 04.02.2026, 22:32_
+_Last edited: 12.02.2026, 17:41_

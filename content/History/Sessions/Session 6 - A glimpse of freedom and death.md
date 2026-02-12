@@ -14,7 +14,7 @@ context: Party
 [[Nations/The Freelands/Towns/Tarrowen/NPCs/Priska Demeer|Priska Demeer]] writes loveletter and hands it to Menos next day. He promised to bring it to her lover in [[Nations/The Freelands/Towns/Tarrowen/Tarrowen|Tarrowen]] 
 ### Release
 - [[Nations/Daicon Kingdom/Towns/Northwatch Garrison/Flaviandur Nicculus|Flaviandur Nicculus]] laht d Spiler frei um am [[Nations/The Gray Ring/NPCs/Agent Varn Brask|Agent Varn Brask]] eis uszwüsche.
-- For their crimes of trespassing into a controlled zone, they must pay 300 GP within 5 days. Otherwise, [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/The Moist Blue Lobster|The Moist Blue Lobster]] will be foreclosed.
+- For their crimes of trespassing into a controlled zone, they must pay 300 GP within 5 days. Otherwise, [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/The Jolly Hot Bongo Storm|The Jolly Hot Bongo Storm]] will be foreclosed.
 ### Onwards
 - Party marches towards [[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]] (~1 days march)
 - They encounter an owlbear lair
@@ -27,4 +27,4 @@ creatures:
 - [[History/Lore/Teleion/Vorrak the Whispered|Vorrak the Whispered]] dies in combat
 - TPU and [[Nations/Zeta/Jolly Jumper|Jolly Jumper]] saves them from immediate death...
 
-_Last edited: 06.02.2026, 18:39_
+_Last edited: 12.02.2026, 17:41_

@@ -26,7 +26,7 @@ Location: [[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]
 5) Level 2
 ### [[History/Sessions/Session 3 - Grand opening of the Moist Blue Lobster|Session 3 - Grand opening of the Moist Blue Lobster]]
 1) Rescue the doll for [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Guiseppe, the Russian|Guiseppe, the Russian]] in [[Nations/Daicon Kingdom/Towns/Dunmarrow/Quests/Lost in the well|Lost in the well]]
-2) Opening of [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/The Moist Blue Lobster|The Moist Blue Lobster]]
+2) Opening of [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/The Jolly Hot Bongo Storm|The Jolly Hot Bongo Storm]]
 3) [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Jackie Sullivan|Jackie]] is missing
 	- Investigate [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Krogmaw Mine|Krogmaw Mine]] crystal mine
 	- Encounter [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Victor Halberin|Victor Halberin]] and dead bodies at the entrance
@@ -35,4 +35,4 @@ Location: [[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]
 - Traps
 - Bottom floor: Jackie and [[Nations/The Gray Ring/Lore/MICE|MICE]] encounter
 
-_Last edited: 04.02.2026, 22:32_
+_Last edited: 12.02.2026, 17:41_

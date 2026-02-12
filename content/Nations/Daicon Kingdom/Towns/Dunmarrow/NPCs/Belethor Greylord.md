@@ -9,8 +9,7 @@ race: Human
 > [!info|wide-5] Belethor Greylord
 > _"Everything's for sale, my friend. Everything. If I had a sister, I'd sell her in a second."_
 
-
-![[Belethor-1.webp]]
+![[_assets/Sprites/People/belethor.webp]]
 
 
 > [!faq] **Hooks**
@@ -19,4 +18,4 @@ race: Human
 > [!danger] **Abilities & Traits**
 > -
 
-_Last edited: 06.02.2026, 18:39_
+_Last edited: 12.02.2026, 17:41_

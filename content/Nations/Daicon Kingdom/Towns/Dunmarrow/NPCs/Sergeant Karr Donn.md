@@ -12,6 +12,6 @@ race: Human
 
 > [!faq] **Hooks**
 >- [[Nations/Daicon Kingdom/Towns/Dunmarrow/Quests/Guard Duty|Guard Duty]] 
->-  Investigated about vanishing owners of [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/The Moist Blue Lobster]]
+>-  Investigated about vanishing owners of [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/The Jolly Hot Bongo Storm]]
 
-_Last edited: 04.02.2026, 22:32_
+_Last edited: 12.02.2026, 17:41_

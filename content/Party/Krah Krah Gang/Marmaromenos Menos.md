@@ -13,7 +13,7 @@ tags:
 
 > [!success] Status
 >- [[Nations/Daicon Kingdom/Lore/Continental Identification Sigil|Continental Identification Sigil]]: Blue
->- Has performed house ritual for [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/The Moist Blue Lobster|The Moist Blue Lobster]]
+>- Has performed house ritual for [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/The Jolly Hot Bongo Storm|The Jolly Hot Bongo Storm]]
 
 > [!danger] Quests
 > - Has a love letter from [[Nations/The Freelands/Towns/Tarrowen/NPCs/Priska Demeer|Priska Demeer]] to deliver in [[Nations/The Freelands/Towns/Tarrowen/Tarrowen|Tarrowen]]
@@ -45,4 +45,4 @@ tags:
 
 [[Party/Krah Krah Gang/Marmaromenos Menos - Private|Marmaromenos Menos - Private]]
 
-_Last edited: 06.02.2026, 18:39_
+_Last edited: 12.02.2026, 17:41_

@@ -25,7 +25,7 @@ Everybody chooses a new character:
 ## Townsquare
 - Players meet at [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Town square|Town square]] and figure things out by being reckless magic-casting cunts with the [[Nations/Daicon Kingdom/Towns/Dunmarrow/Habibis (Zolli chiller gang)|Habibis (Zolli chiller gang)]] 
 - Meet [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Fuega|Fuega]] owners and carry peschä to sober up back to MBL. 
-- They search for booze and do a clean up of [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/The Moist Blue Lobster|The Moist Blue Lobster]]. 
+- They search for booze and do a clean up of [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/The Jolly Hot Bongo Storm|The Jolly Hot Bongo Storm]]. 
 - They make plans to kill [[Party/Krah Krah Gang/Lizard the wizard|Lizard the wizard]]'s previous nasty wizard owner. He has a bounty that Heir knows about.
 - When they leave the bar, they encounter a psychic barrier at the door. The [[Nations/Daicon Kingdom/Towns/Dunmarrow/Lore/Twin Vaults|Twin Vaults]] seem to reach out to their souls and does not want them to go.
 - Art ant Heir - Leaf me the fuck alone and throw away their keys. Lizzard the wizzard embraces it and sees a vision:
@@ -37,4 +37,4 @@ Everybody chooses a new character:
 - [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Vulgrim Savage|Vulgrim Savage]] (the master wizard shizzard) transformed to a sheep, with an animal speaking scroll in his mouth initially. -> Animal speaking for 7 days. He asks the party to attack his imposter student [[Ahmed Noke]] in the tower.
 - They approach the tower and see talking monkeys and the pooping bear.
 
-_Last edited: 06.02.2026, 18:39_
+_Last edited: 12.02.2026, 17:41_

@@ -11,8 +11,12 @@ tags:
 > - *Fighter, Tiefling*
 > - From [[Nations/Daicon Kingdom/Towns/Varenhold/Varenhold|Varenhold]], part of the [[knight of the order]]
 
+![[_assets/Sprites/People/_party/art.jpeg]]
+
 > [!success] Status
 >- 
+>- Has snail'o'phobia
+
 
 > [!danger] Quests
 > - 
@@ -28,4 +32,4 @@ tags:
 
 ### 5. Your goals/believes
 
-_Last edited: 04.02.2026, 22:32_
+_Last edited: 12.02.2026, 17:41_

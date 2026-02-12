@@ -12,7 +12,7 @@ city: "[[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]"
 > - _"Need supplies? See Belethor at his store. Sleazy little man, but he has good stock."_
 ―[[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]] Guard
 
-![[Belethor's_General_Goods.webp]]
+![[_assets/Sprites/Places/belethorsGeneralGoods.webp]]
 
 ## ⚔️ Weapons & Gear
 
@@ -53,4 +53,4 @@ city: "[[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]"
 |**Scroll of Disguise Self**|45 gp|
 |**Scroll of Lesser Restoration**|75 gp|
 
-_Last edited: 06.02.2026, 18:39_
+_Last edited: 12.02.2026, 17:41_
