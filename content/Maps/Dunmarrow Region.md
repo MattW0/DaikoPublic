@@ -20,6 +20,6 @@ context: World
 - [[Nations/Ironreach/Hammerfall Empire/Durundal/Durundal|Durundal]]
 ## Geographic features
 - [[Nations/Daicon Kingdom/Lore/Durgrat Mountains|Durgrat Mountains]]
-- [[River Lorynth|River Lorynth]]
+- River Lorynth passing Esvelen into the southern sea.
 
-_Last edited: 20.02.2026, 00:09_
+_Last edited: 20.02.2026, 00:20_

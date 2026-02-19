@@ -33,14 +33,14 @@ tags:
 >- 
 
 ## 🕒 Recent Changes
-- [[History/Act 1 - Into the Unknown.md|Act 1 - Into the Unknown]]
 - [[History/Sessions/Session 11 - Trending on Wizzdagram.md|Session 11 - Trending on Wizzdagram]]
-- [[History/Sessions/Session 10 - The new owners.md|Session 10 - The new owners]]
+- [[Maps/Dunmarrow Region.md|Dunmarrow Region]]
 - [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Mac Tyson.md|Mac Tyson]]
+- [[History/Act 1 - Into the Unknown.md|Act 1 - Into the Unknown]]
+- [[History/Sessions/Session 10 - The new owners.md|Session 10 - The new owners]]
 - [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Wingston.md|Wingston]]
 - [[Nations/Daicon Kingdom/Towns/Dunmarrow/Quests/Agent Varns Proposal.md|Agent Varns Proposal]]
 - [[History/Lore/_archive/Heir's Traktanden.md|Heir's Traktanden]]
-- [[Maps/Dunmarrow Region.md|Dunmarrow Region]]
 - [[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow.md|Dunmarrow]]
 - [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Diego (donkey).md|Diego (donkey)]]
 - [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/The Jolly Hot Bongo Storm.md|The Jolly Hot Bongo Storm]]
@@ -54,4 +54,4 @@ tags:
 - [[History/Lore/Ages/Age of Shadows.md|Age of Shadows]]
 - [[History/Lore/Ages/Prolog.md|Prolog]]
 
-Last update: _20.02.2026, 00:11_
+Last update: _20.02.2026, 00:20_

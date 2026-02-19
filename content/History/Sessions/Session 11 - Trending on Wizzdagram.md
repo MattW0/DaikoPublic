@@ -40,9 +40,6 @@ creatures:
 - Sudden music stop as [[Nations/The Gray Ring/NPCs/Agent Varn Brask|Agent Varn Brask]] enters the bar.
 - He proposes a partnership with MBL: [[Nations/Daicon Kingdom/Towns/Dunmarrow/Quests/Agent Varns Proposal|Agent Varns Proposal]]
 - As DJ Solero is playing bangers, they meet a mysterious man: [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Mac Tyson|Mac Tyson]]
-- Big cash -> 70 GP
-## Proposal Danilo:
+- Their opening was a big success: earn 70 GP
 
-During the opening celebrations of the Jolly Hot Bongo Storm the Party is approached by both Agent Varn and his MICE agents, as well as members of the Maquis (A underground Resistance movement against MICE and the Kingdom of Daikon).
-
-_Last edited: 20.02.2026, 00:11_
+_Last edited: 20.02.2026, 00:20_
