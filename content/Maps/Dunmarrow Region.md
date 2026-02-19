@@ -10,7 +10,7 @@ context: World
 > [!info] Description
 > Enclosed by the [[Nations/Daicon Kingdom/Lore/Durgrat Mountains|Durgrat Mountains]], [[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]] dwells in the central part of [[Maps/Daiko|Daiko]]. It lies on the northern edge of the [[Nations/Daicon Kingdom/Daicon Kingdom|Daicon Kingdom]], that borders the [[Nations/Redfen (Demilitarized Zone)/Redfen (Demilitarized Zone)|Redfen (Demilitarized Zone)]], a disputed territory with a bloody history. Beyond thast lay the [[Nations/The Freelands/The Freelands|The Freelands]] in the east and [[Nations/Ironreach/Hammerfall Empire/Durundal/Durundal|Durundal]], a city of the dwarven empire, in the north.
 
-![[_assets/Sprites/Maps/DunmarrowRegion.webp]]
+![[_assets/Sprites/Maps/dunmarrogRegion.webp]]
 
 ## Towns
 - [[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]
@@ -22,4 +22,4 @@ context: World
 - [[Nations/Daicon Kingdom/Lore/Durgrat Mountains|Durgrat Mountains]]
 - [[River Lorynth|River Lorynth]]
 
-_Last edited: 04.02.2026, 22:32_
+_Last edited: 20.02.2026, 00:09_

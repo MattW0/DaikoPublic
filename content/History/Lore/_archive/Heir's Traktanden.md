@@ -17,7 +17,7 @@ To-Do: for Grand Opening
 - Food/Drinks à Heir
 - Repair Clean Cellar à Art
 - Marketing à Kevin
-- Music (including Mariachi)à Wizzdagram  à Lizzy
+- Music (including Mariachi)à Wizzdagram à Lizzy
 
 Name of the Bar: Jolly Hot Bongo Storms
 
@@ -42,4 +42,4 @@ Sunset all hands for cellar
 - Peschä 2 GP
 - 300GP dept. on Saturday
 
-_Last edited: 12.02.2026, 17:41_
+_Last edited: 20.02.2026, 00:09_

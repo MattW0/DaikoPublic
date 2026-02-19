@@ -16,8 +16,8 @@ Previously owned by [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Berrim Barktoo
 - Players can help out in the daily business, each player doing so gives +1 to the business Check
 - Get earnings from Continuous Upkeep described in [[Nations/Daicon Kingdom/Towns/Dunmarrow/Lore/Jolly Hot Bongo Storm - Mechanics|Jolly Hot Bongo Storm - Mechanics]].
 
-![[_assets/Sprites/Places/TheMoistBlueLobster_Opening.png|595x397]]
+![[_assets/Sprites/Places/jhbs.jpeg]]
 
 ![[_assets/Sprites/Places/mblCellar.png]]
 
-_Last edited: 12.02.2026, 17:42_
+_Last edited: 20.02.2026, 00:09_

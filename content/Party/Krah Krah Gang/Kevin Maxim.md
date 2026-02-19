@@ -6,13 +6,11 @@ origin:
 race:
 ---
 
-> [!info|wide-5] Name
-> Adoptive son to the party
+> [!info|wide-5] Kevin "Maxim"
+> - Adoptive son to the party
 
 > [!faq] **Hooks**
->- 
+> - His parents died when he was 5. Since then he just came by as a Verdingkind.
+> - Seems to have two personalities.
 
-> [!danger] **Abilities & Traits**
-> -
-
-_Last edited: 12.02.2026, 17:41_
+_Last edited: 20.02.2026, 00:09_

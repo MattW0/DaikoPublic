@@ -13,5 +13,6 @@ race: Donkey
 
 > [!faq] **Hooks**
 >- Have you ever played Donkey Dong ?
+>- Diego is a enjoyer of fine food
 
-_Last edited: 12.02.2026, 17:41_
+_Last edited: 20.02.2026, 00:09_
