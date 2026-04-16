@@ -1,0 +1,22 @@
+---
+tags:
+  - NPC
+thumbnail: "[[_assets/Sprites/People/berrimBarktooth.png]]"
+origin: "[[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]"
+race: Firbolg
+---
+
+> [!info|wide-5] Old Berrim Barktooth
+>-  He's a warm-hearted, easygoing firbolg with a big laugh and bigger hands, known for his homebrewed ale, bushy beard, and folksy wisdom. Always ready with a story or a pint, he treats everyone like family.
+> - His wife Bertha died recently and that was the final straw. 
+
+![berrimBarktooth|226x339](_assets/Sprites/People/berrimBarktooth.png)
+
+
+> [!faq] **Hooks**
+>- He wants to close the "[[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Rat Nest|Rat Nest]]" because the town’s changing—fewer travelers, more regulations, and rising costs. But deep down, it’s also because he’s tired. He misses the forest, his kin, and the quiet life he left behind. The bar was fun, but his heart’s calling him home. He discussed and offered a the opportunity to [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Jackie Sullivan|Jackie]] and his friends and wants 5000 GP for everything. 
+
+> [!danger] **Abilities & Traits**
+> -
+
+_Last edited: 17.04.2026, 01:28_
