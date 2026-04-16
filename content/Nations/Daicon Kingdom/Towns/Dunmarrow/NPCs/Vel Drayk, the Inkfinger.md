@@ -23,7 +23,7 @@ race: Half-Elf
 >- **Tier III “Mirrored”**: Reverse-enchanted to reflect bearer’s aura and simulate a real glyphmatch. Dangerous and rare. (450 gp, requires favor)
 
 > [!faq] **Hooks**
-> - [[Party/Krah Krah Gang/Caldra Sunhelm|Caldra Sunhelm]] has purchased a fake ID of Tier II. They left in suspective trust.
+> - [[Party/Krah Krah Gang/Past/Caldra Sunhelm|Caldra Sunhelm]] has purchased a fake ID of Tier II. They left in suspective trust.
 ## Other
 - Vel is polite and helpful but never volunteers information.
 - He likes the party if they amuse him — and especially if they owe him.
@@ -31,4 +31,4 @@ race: Half-Elf
 - He hates [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Rozzilna Mollinsnare|Rozzilna Mollinsnare]] but refuses to speak ill of her. There’s clearly history there.
 - He collects failed IDs in a drawer and refers to it as “the regret pile.”
 
-_Last edited: 2025-12-16 01:16_
+_Last edited: 17.04.2026, 01:01_

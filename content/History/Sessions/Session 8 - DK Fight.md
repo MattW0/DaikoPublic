@@ -8,7 +8,7 @@ context: Party
 *Played on the 09.01.2026*
 
 ## 1st Approach
-1) At wizards tower ([[Ahmed Noke]] impostering as the true master)
+1) At wizards tower (Ahmed Noke impostering as the true master)
 2) Convince the apes to get invited by Ahmed
 3) Make him taste and convince him to show up to the opening on Friday
 4) Heir leaves an Eerie Token to observe the wizards initial reaction: He commands the ape to give him the wine barrel
@@ -39,4 +39,4 @@ Martha and Andrew: Parents of Kevin
 	- Parents martha and Andrew
 - Heir goes to bed with [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Vulgrim Savage|Vulgrim,]]
 
-_Last edited: 31.01.2026, 01:53_
+_Last edited: 17.04.2026, 00:23_

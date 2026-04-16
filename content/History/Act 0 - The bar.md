@@ -26,7 +26,7 @@ Location: [[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]
 5) Level 2
 ### [[History/Sessions/Session 3 - Grand opening of the Moist Blue Lobster|Session 3 - Grand opening of the Moist Blue Lobster]]
 1) Rescue the doll for [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Guiseppe, the Russian|Guiseppe, the Russian]] in [[Nations/Daicon Kingdom/Towns/Dunmarrow/Quests/Lost in the well|Lost in the well]]
-2) Opening of [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/The Moist Blue Lobster|The Moist Blue Lobster]]
+2) Opening of [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/The Jolly Hot Bongo Storm|The Jolly Hot Bongo Storm]]
 3) [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Jackie Sullivan|Jackie]] is missing
 	- Investigate [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Krogmaw Mine|Krogmaw Mine]] crystal mine
 	- Encounter [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Victor Halberin|Victor Halberin]] and dead bodies at the entrance
@@ -35,4 +35,14 @@ Location: [[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]
 - Traps
 - Bottom floor: Jackie and [[Nations/The Gray Ring/Lore/MICE|MICE]] encounter
 
-_Last edited: 21.01.2026, 18:55_
+### [[History/Sessions/Session 5 - A dark place|Session 5 - A dark place]]
+- Questioning in [[Nations/Daicon Kingdom/Towns/Northwatch Garrison/Northwatch Garrison|Northwatch Garrison]] under [[Nations/Daicon Kingdom/Towns/Northwatch Garrison/Flaviandur Nicculus|Flaviandur Nicculus]] and [[Nations/The Gray Ring/NPCs/Agent Varn Brask|Agent Varn Brask]]
+- Meeting strangely connected NPCs
+- A sneaky [[Party/Krah Krah Gang/Past/Colt Creed|Colt Creed]] awaits a big surprise
+
+### [[History/Sessions/Session 6 - A glimpse of freedom and death|Session 6 - A glimpse of freedom and death]]
+- [[Party/Krah Krah Gang/Past/Colt Creed|Colt Creed]] gets probation with [[Nations/The Freelands/Towns/Tarrowen/NPCs/Garviel Loken|Garviel Loken]]
+- Out of [[Nations/Daicon Kingdom/Towns/Northwatch Garrison/Northwatch Garrison|Northwatch Garrison]] and on towards [[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]
+- Fighting Owlbears leads to TPK, which is saved by [[Nations/Zeta/Jolly Jumper|Jolly Jumper]]
+
+_Last edited: 17.04.2026, 01:01_

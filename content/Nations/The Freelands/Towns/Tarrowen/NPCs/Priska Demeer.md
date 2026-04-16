@@ -2,7 +2,7 @@
 tags:
   - NPC
 thumbnail:
-origin: "[[Tarrowen]]"
+origin: "[[Nations/The Freelands/Towns/Tarrowen/Tarrowen|Tarrowen]]"
 race: Half-Elf
 ---
 
@@ -21,4 +21,4 @@ race: Half-Elf
 - Keeps a piece of straw or wire between her teeth like a toothpick.
 - Never touches metal with her bare hands.
 
-_Last edited: 16.12.2025, 02:10_
+_Last edited: 17.04.2026, 00:18_

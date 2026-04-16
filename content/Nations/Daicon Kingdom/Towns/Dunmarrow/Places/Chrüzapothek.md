@@ -8,13 +8,13 @@ city: "[[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]"
 ---
 
 > [!abstract] Relevant NPCs
-> * [[Paolo]]: drogerist
+> * Paolo: drogerist
 
 > [!danger] Quests
-> - Sells [[Healing Potion]] 
+> - Sells Healing Potions and other medicines
 > 
 
 
 ![[_assets/Sprites/Places/chrützappothek.png]]
 
-_Last edited: 08.01.2026, 22:50_
+_Last edited: 17.04.2026, 00:32_

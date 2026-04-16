@@ -3,7 +3,7 @@ tags:
     - Quest
 ---
 
-**Participants:** [[Party/Krah Krah Gang/Caldra Sunhelm|Caldra Sunhelm]], [[Party/Krah Krah Gang/Marmaromenos Menos|Marmaromenos Menos]]
+**Participants:** [[Party/Krah Krah Gang/Past/Caldra Sunhelm|Caldra Sunhelm]], [[Party/Krah Krah Gang/Past/Marmaromenos Menos|Marmaromenos Menos]]
 
 > [!info] Description
 > * [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Sergeant Karr Donn|Sergeant Karr Donn]] calls for **Guard Duty** – Protect a delivery caravan that departs from [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Krogmaw Mine|Krogmaw Mine]] to [[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]].
@@ -30,4 +30,4 @@ creatures:
 > [!success] Reward
 > 400 GP
 
-_Last edited: 2025-12-16 01:01_
+_Last edited: 17.04.2026, 01:01_

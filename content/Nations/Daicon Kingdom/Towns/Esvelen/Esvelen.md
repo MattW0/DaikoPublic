@@ -8,12 +8,12 @@ city: "[[Nations/Daicon Kingdom/Towns/Esvelen/Esvelen|Esvelen]]"
 ---
 ### Description
 * Human city near the northern edge of the [[Nations/Daicon Kingdom/Daicon Kingdom|Daicon Kingdom]]. Last major city before the rugged highlands that mark the frontier.
-- The [[River Veyra]] runs through the city, providing fresh water, trade routes, and fertile soil for surrounding farmland.
+- The river *Veyra* runs through the city, providing fresh water, trade routes, and fertile soil for surrounding farmland.
 - Esvelen is strategically important: whoever holds it controls the northern passage into the kingdom.
 - All locals call it _Elseveeen_ 
 ### Relevant NPCs
 * [[Nations/Daicon Kingdom/Towns/Esvelen/NPCs/Duke Moron|Duke Moron]]: City councellor
-* [[Elenor of Derendal|Elenor of Derendal]]: Cardinal of the [[Closter of Derendal]]
+* Elenor of Derendal: Cardinal of the Closter of Derendal
 ### Economy & Trade
 - Known as the [[Nations/Daicon Kingdom/Lore/Inter Transport HUB|Inter Transport HUB]] between the Daicon Kingdom and the northern tribes/realms.
 - Exports: iron tools, farm produce, and fine wool.
@@ -22,6 +22,6 @@ city: "[[Nations/Daicon Kingdom/Towns/Esvelen/Esvelen|Esvelen]]"
 
 ![[_assets/Downloaded/Maps/Towns/City of Morkaliff.jpg|514x514]]
 
-[[Nations/Daicon Kingdom/Towns/Esvelen/Esvelen - Deeper Lore|Esvelen - Deeper Lore]]
+[[Nations/Daicon Kingdom/Towns/Esvelen/Esvelen - Private|Esvelen - Private]]
 
-_Last edited: 2025-12-16 01:16_
+_Last edited: 17.04.2026, 00:47_

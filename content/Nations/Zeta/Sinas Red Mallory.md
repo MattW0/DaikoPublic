@@ -13,7 +13,7 @@ alignment: Chaotic Neutral
 > - **Voice / Personality:** Raspy drawl, laughs like gravel rolling in a tin can. Pragmatic, fatalistic — “ain’t no good deed without a debt, kid.”
 
 > [!faq] **Hooks**
->- Former [[Nations/Zeta/Greenmill Gentlemen]] member
+>- Former *Greenmill Gentlemen* member
 >- [[Nations/Zeta/Sinas Red Mallory - Private|Sinas Red Mallory - Private]]
 
-_Last edited: 2025-12-16 01:01_
+_Last edited: 17.04.2026, 00:49_

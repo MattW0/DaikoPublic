@@ -11,6 +11,6 @@ race:
 > - Nobody ever saw it but old Billy Bucklee swore he did once while watching his cattle
 
 > [!faq] **Hooks**
->- [[Party/Krah Krah Gang/Colt Creed|Colt Creed]] always hoped that he would once see it
+>- [[Party/Krah Krah Gang/Past/Colt Creed|Colt Creed]] always hoped that he would once see it
 
-_Last edited: 16.12.2025, 02:00_
+_Last edited: 17.04.2026, 01:01_

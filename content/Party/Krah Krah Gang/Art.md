@@ -1,18 +1,21 @@
 ---
-hp: 0
+hp: 38
 ac: 0
 mod: 0
-level: 4
+level: 5
 tags:
   - Player
 ---
 
 > [!info] Art
 > - *Fighter, Tiefling*
-> - From [[Nations/Daicon Kingdom/Towns/Varenhold/Varenhold|Varenhold]], part of the [[knight of the order]]
+> - From [[Nations/Daicon Kingdom/Towns/Varenhold/Varenhold|Varenhold]], part of the *Knights of the Order*
+
+![[_assets/Sprites/People/_party/art.jpeg]]
 
 > [!success] Status
->- 
+>- Has snail'o'phobia
+
 
 > [!danger] Quests
 > - 
@@ -28,4 +31,4 @@ tags:
 
 ### 5. Your goals/believes
 
-_Last edited: 31.01.2026, 01:53_
+_Last edited: 17.04.2026, 00:33_

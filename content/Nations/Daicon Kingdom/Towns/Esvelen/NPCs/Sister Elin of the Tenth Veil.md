@@ -12,7 +12,7 @@ race: Human
 > - **Reason for Imprisonment:** Condemned cult leader — preached that Obsidian is “divine memory solidified.” Her followers vanished years ago.
 
 > [!faq] **Hooks**
->- When [[Party/Krah Krah Gang/Caldra Sunhelm|Caldra Sunhelm]] first speaks with her, Elin tilts her head slightly, as if recognizing her voice.
+>- When [[Party/Krah Krah Gang/Past/Caldra Sunhelm|Caldra Sunhelm]] first speaks with her, Elin tilts her head slightly, as if recognizing her voice.
 >- She says quietly: *“You wear his face, child. The one they called Sunhelm’s Shadow.”*
 
 **Small habits:**
@@ -21,4 +21,4 @@ race: Human
 
 [[Nations/Daicon Kingdom/Towns/Esvelen/NPCs/Sister Elin of the Tenth Veil - Private|Sister Elin of the Tenth Veil - Private]]
 
-_Last edited: 2025-12-16 01:01_
+_Last edited: 17.04.2026, 01:01_

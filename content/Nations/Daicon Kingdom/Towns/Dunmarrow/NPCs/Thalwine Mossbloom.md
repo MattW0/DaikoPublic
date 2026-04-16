@@ -12,11 +12,11 @@ race: Elf
 > - **Residence:** A vine-covered cottage at the edge of the Shroudfen Glade, surrounded by overgrown herbs and twitching toadstools.
 
 > [!faq] **Hooks**
->- [[Party/Krah Krah Gang/Colt Creed|Colt Creed]] participated on a shroom search and left another woman lost in the woods. Authorities were informed.
+>- [[Party/Krah Krah Gang/Past/Colt Creed|Colt Creed]] participated on a shroom search and left another woman lost in the woods. Authorities were informed.
 ### Other
 - Adventurers call her “The Thornmother.”
 - Local children dare each other to steal mushrooms from her garden. The smart ones don’t try twice.
 - _“Gather veilshade caps under moonlight—they bloom only in silence.”_
 - _“Something is sickening the forest. I want a fresh blood sample. From whatever’s doing it.”_
 
-_Last edited: 2025-12-16 01:16_
+_Last edited: 17.04.2026, 01:01_

@@ -1,8 +1,8 @@
 ---
-hp: 0
+hp: 26
 ac: 0
 mod: 0
-level: 4
+level: 5
 tags:
   - Player
 ---
@@ -27,6 +27,6 @@ tags:
 
 ### 5. Your goals/believes 
 
-![[_assets/Lizard Wizard Mutation List.pdf]]
+![[_assets/krahKrahGang/Lizard Wizard Mutation List.pdf]]
 
-_Last edited: 31.01.2026, 01:53_
+_Last edited: 17.04.2026, 00:18_

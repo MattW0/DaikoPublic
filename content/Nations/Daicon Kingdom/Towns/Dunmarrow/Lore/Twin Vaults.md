@@ -24,7 +24,7 @@ The Twin Vaults function as a **paired teleportation container system**. Any non
 - **Box A** is kept as a “register” in the player’s bar for daily earnings and orders.
 - **Box B** is carried by the party during adventures. This setup allows passive income transfer and magical communication of funds, notes, and materials.
 ## Fruther knowledge
-- [[Nations/Daicon Kingdom/Towns/Dunmarrow/Lore/Twin Vaults - Deeper Lore|Twin Vaults - Deeper Lore]]
+- [[Nations/Daicon Kingdom/Towns/Dunmarrow/Lore/Twin Vaults - Private|Twin Vaults - Private]]
 - [[Nations/Daicon Kingdom/Towns/Dunmarrow/Lore/Twin Vaults Key|Twin Vaults Key]]
 
-_Last edited: 21.01.2026, 18:55_
+_Last edited: 17.04.2026, 00:41_

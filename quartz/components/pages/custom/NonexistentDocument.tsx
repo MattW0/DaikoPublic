@@ -8,7 +8,7 @@ const NonexistentDocument: QuartzComponent = ({ fileData }: QuartzComponentProps
       <h1>{title}</h1>
       <p>This document has not been created yet.</p>
       <p>
-        Nobody yet knows what <code> { title }</code> is about...
+        Nobody yet knows what <code> { title } </code> is about...
       </p>
     </article>
   )

@@ -1,7 +1,7 @@
 ---
 tags:
   - Place
-thumbnail: "[[_assets/_templates/Sprite Placeholders/place_placeholder.png]]"
+thumbnail:
 type: City
 nation: "[[Nations/Zeta/Zeta|Zeta]]"
 city:
@@ -11,7 +11,7 @@ city:
 > - Lonely and shabby village in the far reaching plains of [[Nations/Zeta/Zeta|Zeta]]
 
 > [!abstract] Relevant NPCs
-> * [[Party/Krah Krah Gang/Colt Creed|Colt Creed]] birthplace
+> * [[Party/Krah Krah Gang/Past/Colt Creed|Colt Creed]] birthplace
 > * Old Buxly (oldest in town)
 
-_Last edited: 16.12.2025, 02:24_
+_Last edited: 17.04.2026, 01:01_

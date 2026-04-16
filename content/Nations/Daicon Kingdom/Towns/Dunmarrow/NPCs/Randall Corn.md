@@ -16,7 +16,7 @@ Rich human with connections in the business with [[Nations/Daicon Kingdom/Towns/
 * Malcolm (Butler, old guy during the day, young in the night)
 * [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Victor Halberin|Victor Halberin]]
 * Belinda Corn – Randall’s niece
-* [[Bram Tugg|Bram Tugg]] – Personal guard and thug. Handles “unofficial” matters discreetly around town. (Chef and wanna be security, human)
-* [[Sylzryn|Sylzryn]] (Gardener, darkelf)
+* Bram Tugg – Personal guard and thug. Handles “unofficial” matters discreetly around town. (Chef and wanna be security, human)
+* Sylzryn - (Gardener, darkelf)
 
-_Last edited: 2025-12-16 01:16_
+_Last edited: 17.04.2026, 00:26_

@@ -7,12 +7,7 @@ tags:
 >*Common Item (requires attunement)*
 >Small rune plate magically bound to registered citizens of [[Nations/Daicon Kingdom/Daicon Kingdom|Daicon Kingdom]]
 >
->- Must be presented to travel with the [[Nations/Daicon Kingdom/Lore/Inter Transport HUB|Inter Transport HUB]] and upon request of [MICE](app://obsidian.md/MICE) officers
->
->>Owned by: 
->>- [[Party/Krah Krah Gang/Caldra Sunhelm|Caldra Sunhelm]]
->>- [[Party/Krah Krah Gang/Colt Creed|Colt Creed]]
->>- [[Party/Krah Krah Gang/Marmaromenos Menos|Marmaromenos Menos]]
+>- Must be presented to travel with the [[Nations/Daicon Kingdom/Lore/Inter Transport HUB|Inter Transport HUB]] and upon request of [[Nations/The Gray Ring/NPCs/MICE Enforcers|MICE Enforcers]]
 
 ![Card id|298x447](_assets/Sprites/Lore/continentaldSigil.png)
 
@@ -30,6 +25,6 @@ The Continental Identification Sigil is a magically bound sigil unique to every 
 
 - First issued near the start of the [Age of Shadows](World/History/Lore/Ages/Age%20of%20Shadows.md), 12 years ago.
 
-[[Nations/Daicon Kingdom/Lore/CIS - Forgery Rules|CIS - Forgery Rules]]
+[[Nations/Daicon Kingdom/Lore/CIS - Private|CIS - Private]]
 
-_Last edited: 08.01.2026, 22:29_
+_Last edited: 17.04.2026, 00:40_

@@ -10,13 +10,13 @@ context: Party
 Upkeep MBL: -10 GP
 - The party woke up
 - Glizzy turned into a dragon but stressed out two times and turned normal again 19 -> 20
-- Heir made breakfast and the party ate with [[Kevin Maxim]] and [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Vulgrim Savage|Vulgrim]].
+- Heir made breakfast and the party ate with [[Party/Krah Krah Gang/Kevin Maxim|Kevin Maxim]] and [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Vulgrim Savage|Vulgrim]].
 - The party buries the Body of Granny Smith and Ahmed
 - They go to dunmarrow and see peet drinking aperol spritz in fuego fully dead inside
 
 At [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Postoffice|Postoffice]]:
 - They get 300GP. Rozzlinda explains property ownership of MBL
-- Party officially adopts [[Kevin Maxim]]
+- Party officially adopts [[Party/Krah Krah Gang/Kevin Maxim|Kevin Maxim]]
 
 Return to MBL:
 - [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Sergeant Karr Donn|Sergeant Karr Donn]] and crew investigate. The bar is foreclosed within 3 days because of debt.
@@ -30,7 +30,7 @@ Search for clues
 - Confront Pete about info on Jackie
 - Visit Selina at her home. She promises 200 GP if they find Jackie or info about him
 	- Pete Buttinghedge is her butler
-- They almost make it but fail on Ashcane
+- They almost solve the riddle on Jackies favorite drink [[Nations/Daicon Kingdom/Towns/Dunmarrow/Quests/Riddle/Dark n Stormy|Dark n Stormy]], but fail on [[Nations/Daicon Kingdom/Towns/Dunmarrow/Quests/Riddle/Ashcane|Ashcane]]
 
 Retry
 - Find nasty snails and bring to Rozzlinda, she integrates them and is pleased
@@ -39,6 +39,4 @@ Retry
 - Buttler gets them, paying 200 GP for "arrangements". Players have their keys and another 6 tries.
 - Finally enter "[[Khar’Mol Festival of the Borrowed Crown|Burn the sugar]]" and find out the ownership document was with Peschä all along.
 
-![[_assets/Certificate_Moist Blue Lobster.pdf]]
-
-_Last edited: 31.01.2026, 02:24_
+_Last edited: 17.04.2026, 00:18_

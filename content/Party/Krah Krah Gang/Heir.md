@@ -1,8 +1,8 @@
 ---
-hp: 0
+hp: 40
 ac: 0
 mod: 0
-level: 4
+level: 5
 tags:
   - Player
 ---
@@ -14,6 +14,7 @@ tags:
 
 > [!success] Status
 >- [[Nations/Daicon Kingdom/Lore/Continental Identification Sigil|Continental Identification Sigil]]: Green
+>- Is a headhunter
 
 > [!danger] Quests
 > -
@@ -48,6 +49,6 @@ tags:
 - I do not ask unnecessary questions about the state.
 - I am not interested in ideology or politics.
 
-[[Hier - Private]]
+[[Party/Krah Krah Gang/Heir - Private]]
 
-_Last edited: 31.01.2026, 01:53_
+_Last edited: 17.04.2026, 00:18_

@@ -12,6 +12,6 @@ race: Human
 ![varn|366x518](_assets/Sprites/People/varn.png)
 
 
-[[Nations/The Gray Ring/NPCs/Agent Varn - Private|Agent Varn - Private]]
+[[_assets/_5e/Bestiary/Agent Varn - Private|Agent Varn - Private]]
 
-_Last edited: 21.01.2026, 18:55_
+_Last edited: 17.04.2026, 00:18_

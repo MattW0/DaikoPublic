@@ -9,9 +9,9 @@ race: Human
 >[!info] Agent Holt & Drumm
 > _Medium humanoid (human)_
 
-![MICE-enforcers|554x578](_assets/Sprites/People/MICE-enforcers.jpg)
+![MICE-enforcers|654x578](_assets/Sprites/People/MICE-enforcers.jpg)
 
 
-[[Nations/The Gray Ring/NPCs/MICE Enforcers - Stats|MICE Enforcers - Stats]]
+[[_assets/_5e/Bestiary/MICE Enforcers - Statblock|MICE Enforcers - Statblock]]
 
-_Last edited: 2025-12-16 01:01_
+_Last edited: 17.04.2026, 00:18_

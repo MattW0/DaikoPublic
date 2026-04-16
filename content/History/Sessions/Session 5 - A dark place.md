@@ -27,12 +27,12 @@ You’re alone. Your gear — gone. Your head — pounding. And somewhere in the
 - Friendlyer [[Nations/Daicon Kingdom/Towns/Northwatch Garrison/Flaviandur Nicculus|Flaviandur Nicculus]] talks about [[Nations/Redfen (Demilitarized Zone)/Redfen (Demilitarized Zone)|Redfen (Demilitarized Zone)]] and his part in the war
 ## Downtime im Knast
 - [[Nations/Daicon Kingdom/Towns/Northwatch Garrison/Flaviandur Nicculus|Flaviandur Nicculus]] is the prison warden
-- [[Party/Krah Krah Gang/Caldra Sunhelm|Caldra Sunhelm]] manages to distract from her forged [[Nations/Daicon Kingdom/Lore/Continental Identification Sigil|Continental Identification Sigil]]
+- [[Party/Krah Krah Gang/Past/Caldra Sunhelm|Caldra Sunhelm]] manages to distract from her forged [[Nations/Daicon Kingdom/Lore/Continental Identification Sigil|Continental Identification Sigil]]
 - Party meets other prisoners:
 	- [[Nations/Daicon Kingdom/Towns/Esvelen/NPCs/Sister Elin of the Tenth Veil|Sister Elin of the Tenth Veil]]
 	- [[Nations/Zeta/Sinas Red Mallory|Sinas Red Mallory]]
 	- [[Nations/The Freelands/Towns/Tarrowen/NPCs/Priska Demeer|Priska Demeer]]
 	- [[Nations/Ironreach/Hammerfall Empire/Durundal/Borin Tesk|Borin Tesk]]
-- [[Party/Krah Krah Gang/Colt Creed|Colt Creed]] learns how to open the locks and sneaks out of the cell - rolls a nat 1 in sneak
+- [[Party/Krah Krah Gang/Past/Colt Creed|Colt Creed]] learns how to open the locks and sneaks out of the cell - rolls a nat 1 in sneak
 
-_Last edited: 08.01.2026, 22:29_
+_Last edited: 17.04.2026, 01:01_
