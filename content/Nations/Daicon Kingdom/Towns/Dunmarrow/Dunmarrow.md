@@ -19,7 +19,7 @@ city: "[[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]"
 >* [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Victor Halberin|Victor Halberin]]
 >* [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Randall Corn|Randall Corn]]
 >* [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Sergeant Karr Donn|Sergeant Karr Donn]]
->* [[Nations/Daicon Kingdom/Towns/Dunmarrow/Habibis (Zolli chiller gang)|Habibis (Zolli chiller gang)]]
+>* [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Habibis (Zolli chiller gang)|Habibis (Zolli chiller gang)]]
 
 > [!danger] Quests
 > -
@@ -35,4 +35,4 @@ city: "[[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]"
 > - [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Belethor's General Goods|Belethor's General Goods]]
 > - Lorentz Oak: Schriner boi (Assistentin Svenia Birk)
 
-_Last edited: 17.04.2026, 01:28_
+_Last edited: 04.05.2026, 23:02_

@@ -23,7 +23,7 @@ Everybody chooses a new character:
 - Zougg: [[Party/Krah Krah Gang/Art|Art]]
 - Flävu: [[Party/Krah Krah Gang/Lizard the wizard|Lizard the wizard]]
 ## Townsquare
-- Players meet at [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Town square|Town square]] and figure things out by being reckless magic-casting cunts with the [[Nations/Daicon Kingdom/Towns/Dunmarrow/Habibis (Zolli chiller gang)|Habibis (Zolli chiller gang)]] 
+- Players meet at [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Town square|Town square]] and figure things out by being reckless magic-casting cunts with the [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Habibis (Zolli chiller gang)|Habibis (Zolli chiller gang)]] 
 - Meet [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Fuega|Fuega]] owners and carry peschä to sober up back to MBL. 
 - They search for booze and do a clean up of [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/The Jolly Hot Bongo Storm|The Jolly Hot Bongo Storm]]. 
 - They make plans to kill [[Party/Krah Krah Gang/Lizard the wizard|Lizard the wizard]]'s previous nasty wizard owner. He has a bounty that Heir knows about.
@@ -37,4 +37,4 @@ Everybody chooses a new character:
 - [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Vulgrim Savage|Vulgrim Savage]] (the master wizard shizzard) transformed to a sheep, with an animal speaking scroll in his mouth initially. -> Animal speaking for 7 days. He asks the party to attack his imposter student Ahmed Noke in the tower.
 - They approach the tower and see talking monkeys and the pooping bear.
 
-_Last edited: 17.04.2026, 01:28_
+_Last edited: 04.05.2026, 23:02_

@@ -42,4 +42,10 @@ context: Party
 - Write acceptance letter to [[Nations/Daicon Kingdom/Towns/Dunmarrow/Quests/Agent Varns Proposal|Agent Varns Proposal]]
 - Fulfill two side missions and gain level 5
 
-_Last edited: 17.04.2026, 01:28_
+### [[History/Sessions/Session 13 - Shambles and a path into another plane|Session 13 - Shambles and a path into another plane]]
+- Lizzy absolutely wrecks [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/The Jolly Hot Bongo Storm|The Jolly Hot Bongo Storm]] while a dragon
+- Party reunites in the dungeon and look for the hidden potential HQ for the [[Nations/The Freelands/Maquis|Maquis]]
+- Meet [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/The Caretaker|The Caretaker]] and enter the [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Fractured Library|Fractured Library]]
+- Explore riddles and encounter weird automatons
+
+_Last edited: 04.05.2026, 23:02_

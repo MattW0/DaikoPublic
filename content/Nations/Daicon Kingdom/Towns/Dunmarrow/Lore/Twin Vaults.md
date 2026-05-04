@@ -7,7 +7,8 @@ context: Party
 ---
 
 > [!info] Description
-> - Owned by: [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Jackie Sullivan|Jackie]], [[Party/Krah Krah Gang/Krah Krah Gang|Krah Krah Gang]]
+> - Ancient artifacts of unknown origin. [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Jackie Sullivan|Jackie Sullivan]] claimed he fabricated them himself
+> - Seems to choose successors of something. [[History/Lore/Zenia of the Vault|Zenia of the Vault]] is a spirit guarding the passage from one party to another
 
 ![[_assets/Sprites/Lore/Jackies_Cashregistry.png|488x325]]
 
@@ -21,10 +22,14 @@ The Twin Vaults function as a **paired teleportation container system**. Any non
 ![[_assets/Sprites/Lore/TwinVaults.png|269x269]]
 ![[_assets/Sprites/Lore/TwinVaultsOpen.png|267x267]]
 ## Known Uses in Your Campaign:
-- **Box A** is kept as a “register” in the player’s bar for daily earnings and orders.
-- **Box B** is carried by the party during adventures. This setup allows passive income transfer and magical communication of funds, notes, and materials.
+
+1) Kässeli:
+**Box A** is kept as a “register” in the player’s bar for daily earnings and orders.
+**Box B** is carried by the party during adventures. This setup allows passive income transfer and magical communication of funds, notes, and materials.
+2) Portal opener:
+The vault opens a portal to the [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Fractured Library|Fractured Library]]
 ## Fruther knowledge
 - [[Nations/Daicon Kingdom/Towns/Dunmarrow/Lore/Twin Vaults - Private|Twin Vaults - Private]]
 - [[Nations/Daicon Kingdom/Towns/Dunmarrow/Lore/Twin Vaults Key|Twin Vaults Key]]
 
-_Last edited: 17.04.2026, 01:28_
+_Last edited: 04.05.2026, 23:02_

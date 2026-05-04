@@ -5,7 +5,7 @@ thumbnail:
 concerning: History
 context: Party
 ---
- *Played on the 11.04.2026*
+*Played on the 11.04.2026*
 *Spent in game time:* 13. Apr 20 AS
 
 ## Meet Mac Tyffon
@@ -57,4 +57,4 @@ creatures:
   - 2: Dryad
 ```
 
-_Last edited: 17.04.2026, 01:28_
+_Last edited: 04.05.2026, 23:02_

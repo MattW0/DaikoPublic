@@ -6,7 +6,6 @@ concerning: Mechanics
 context: Party
 ---
 Equipment and state of [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/The Jolly Hot Bongo Storm|The Jolly Hot Bongo Storm]]. 
-Current cash: 197 GP 
 - 600 GP loan for initial food due next thursday
 ## 🍺 Daily upkeep (d20 BC)
 
@@ -19,7 +18,7 @@ If the bar is open, the party rolls a **business check (BC)** before the end of 
 | 11-15 | Break even                     |
 | 16-19 | Profit (earn d100 / 2 + 25 gp) |
 | 20+   | Big hit (earn d100 + 50 gp)    |
-If there are not at least 3 people working there, they pay a static upkeep cost of 14 GP (10 in general, +1 Peschä, +2 Diego, +1 Snib). Players may choose to close the bar any day.
+If there are not at least 3 people working there, they have to close the bar for the night. For a closed night they pay a static upkeep cost of 14 GP (10 in general, +1 Peschä, +2 Diego, +1 Snib). Players may choose to close the bar any day.
 
 ## Modifiers
 - Fridays and Saturdays and occasional special days give advantage on the business check.
@@ -66,4 +65,4 @@ Players make ability checks (each 1 or 2) to determine how well the opening day 
 - Days open: 1, 1, 0, 0, 0, 0, 0, 0, 1, 1
 - Earnings: 110 GP, -80 GP, -10 GP, -10 GP, -10GP, -10GP, -10GP, -10GP, 70GP, 57GP
 
-_Last edited: 17.04.2026, 01:28_
+_Last edited: 04.05.2026, 23:02_

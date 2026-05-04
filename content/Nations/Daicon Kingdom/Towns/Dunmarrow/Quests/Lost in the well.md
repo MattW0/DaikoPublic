@@ -19,8 +19,8 @@ tags:
 name: Combat
 
 creatures:
-  - 1: Troll
+  - 1: Ice Troll
   - Ice Mephit
 ```
 
-_Last edited: 17.04.2026, 01:28_
+_Last edited: 04.05.2026, 23:02_

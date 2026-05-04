@@ -43,7 +43,6 @@ city: "[[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]"
 | **Flash Vial**         | 30 gp | Thrown; creatures in 10 ft must succeed CON save or be blinded until end of next turn |
 | **Stone of Message**   | 40 gp | One-time use _sending_ (25 words)                                                     |
 
-
 ## 📜 Scrolls & Trinkets
 
 |Item|Price|
@@ -53,4 +52,4 @@ city: "[[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]"
 |**Scroll of Disguise Self**|45 gp|
 |**Scroll of Lesser Restoration**|75 gp|
 
-_Last edited: 17.04.2026, 01:28_
+_Last edited: 04.05.2026, 23:02_
