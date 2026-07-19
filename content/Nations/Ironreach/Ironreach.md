@@ -7,6 +7,8 @@ context: "[[Nations/Ironreach/Ironreach|Ironreach]]"
 ---
 
 > [!info] Description
-> - Joined dwarven clans that unite armies in case of war
+> - Joined dwarven clans of the Karakorum mountains
+> - Not much is known about them, only that the can easily hold grudges
+> -
 
-_Last edited: 17.04.2026, 01:28_
+_Last edited: 19.07.2026_

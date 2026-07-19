@@ -7,6 +7,6 @@ race: Human
 ---
 
 > [!info|wide-5] Name
-> Queen of the [[Nations/Daicon Kingdom/Daicon Kingdom|Daicon Kingdom]].
+> Former queen of the [[Nations/Daicon Kingdom/Daicon Kingdom|Daicon Kingdom]] (RIP)
 
-_Last edited: 17.04.2026, 01:28_
+_Last edited: 19.07.2026_

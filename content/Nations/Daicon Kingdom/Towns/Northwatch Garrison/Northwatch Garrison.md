@@ -8,11 +8,11 @@ city: "[[Nations/Daicon Kingdom/Towns/Northwatch Garrison/Northwatch Garrison|No
 ---
 
 > [!info] Description
-> - Northernmost military post in the [[Nations/Daicon Kingdom/Daicon Kingdom|Daicon Kingdom]] and bordering the [[Nations/Redfen (Demilitarized Zone)/Redfen (Demilitarized Zone)|Redfen (Demilitarized Zone)]]. 
+> - Northernmost military post in the [[Nations/Daicon Kingdom/Daicon Kingdom|Daicon Kingdom]] and bordering the [[Nations/Daicon Kingdom/Redfen/Redfen|Redfen]]. 
 > - Human outpost meant to keep watch over the truce with another elven and dwarfen one.
 
 > [!abstract] Relevant NPCs
-> * Warden: [[Nations/Daicon Kingdom/Towns/Northwatch Garrison/Flaviandur Nicculus|Flaviandur Nicculus]]
+> * Warden: [[Nations/Daicon Kingdom/Towns/Northwatch Garrison/NPCs/Flaviandur Nicculus|Flaviandur Nicculus]]
 > * Guards:
 >	- Peter (Human, Drunkard)
 >	- Kyle (Human, Anger issues)
@@ -25,7 +25,7 @@ city: "[[Nations/Daicon Kingdom/Towns/Northwatch Garrison/Northwatch Garrison|No
 
 > [!danger] Quests
 > - Get out of the prison
-> - [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Jackie Sullivan|Jackie]] is transferred to another high security prison
+> - [[Nations/Zeta/NPCs/Jackie Sullivan|Jackie]] is transferred to another high security prison
 > - Player hooks from other prisoners
 
 
@@ -33,4 +33,4 @@ city: "[[Nations/Daicon Kingdom/Towns/Northwatch Garrison/Northwatch Garrison|No
 
 [[Nations/Daicon Kingdom/Towns/Northwatch Garrison/Northwatch Garrison - Private|Northwatch Garrison - Private]]
 
-_Last edited: 17.04.2026, 01:28_
+_Last edited: 19.07.2026_

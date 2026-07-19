@@ -11,7 +11,7 @@ race: Human
 > - In charge of security for [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Krogmaw Mine|Krogmaw Mine]] deliveries
 
 > [!faq] **Hooks**
->- [[Nations/Daicon Kingdom/Towns/Dunmarrow/Quests/Guard Duty|Guard Duty]] 
->-  Investigated about vanishing owners of [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/The Jolly Hot Bongo Storm]]
+>- [[Krah Krah Gang/Sessions/Quests/Guard Duty|Guard Duty]] 
+>-  Investigated about vanishing owners of [[Krah Krah Gang/History/The Jolly Hot Bongo Storm]]
 
-_Last edited: 17.04.2026, 01:28_
+_Last edited: 19.07.2026_

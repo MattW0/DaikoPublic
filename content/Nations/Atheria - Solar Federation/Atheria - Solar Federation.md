@@ -14,4 +14,4 @@ context: "[[Nations/Atheria - Solar Federation/Atheria - Solar Federation|Atheri
 > * High education
 > * No wars but has defensive potent militia army
 
-_Last edited: 17.04.2026, 01:28_
+_Last edited: 19.07.2026_

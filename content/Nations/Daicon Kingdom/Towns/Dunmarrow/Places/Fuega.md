@@ -14,4 +14,4 @@ city: "[[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]"
 > - Old man that wanted piece from well. [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Guiseppe, the Russian|Guiseppe, the Russian]] is his grandson. 
 > - Igorr is the italian cook. He loves Broschtsch.
 
-_Last edited: 17.04.2026, 01:28_
+_Last edited: 19.07.2026_

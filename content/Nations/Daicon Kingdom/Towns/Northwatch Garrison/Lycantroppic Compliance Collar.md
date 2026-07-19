@@ -14,4 +14,4 @@ If Colt Creed is in the process of an Criminall act it gives a warning to colt c
 - 'This individual is currently on parole, be patient'
 - 'Probation Allert, dont do anything stupid'
 
-_Last edited: 17.04.2026, 01:28_
+_Last edited: 19.07.2026_

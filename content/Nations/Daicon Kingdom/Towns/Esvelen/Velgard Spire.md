@@ -16,4 +16,4 @@ city:
 > [!danger] Quests
 > - ???
 
-_Last edited: 17.04.2026, 01:28_
+_Last edited: 19.07.2026_

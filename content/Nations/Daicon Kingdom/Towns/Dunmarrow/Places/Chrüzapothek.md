@@ -17,4 +17,4 @@ city: "[[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]"
 
 ![[_assets/Sprites/Places/chrützappothek.png]]
 
-_Last edited: 17.04.2026, 01:28_
+_Last edited: 19.07.2026_

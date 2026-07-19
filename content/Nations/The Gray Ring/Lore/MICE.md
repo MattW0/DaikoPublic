@@ -11,4 +11,4 @@ The [[Nations/The Gray Ring/Lore/MICE|MICE]] (Magic & Intelligence Control Enfor
 
 [[Nations/The Gray Ring/Lore/MICE - Private|MICE - Private]]
 
-_Last edited: 17.04.2026, 01:28_
+_Last edited: 19.07.2026_

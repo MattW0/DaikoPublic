@@ -16,7 +16,7 @@ city: "[[Nations/Daicon Kingdom/Towns/Varenhold/Varenhold|Varenhold]]"
 > * ???
 
 > [!danger] Quests
-> - Free [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Jackie Sullivan|Jackie]]
+> - Free [[Nations/Zeta/NPCs/Jackie Sullivan|Jackie]]
 >
 
-_Last edited: 17.04.2026, 01:28_
+_Last edited: 19.07.2026_

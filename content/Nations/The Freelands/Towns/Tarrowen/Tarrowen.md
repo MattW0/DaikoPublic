@@ -3,19 +3,12 @@ tags:
   - Place
 thumbnail:
 type: City
-nation: Freelands
+nation: unknown
 city: "[[Nations/The Freelands/Towns/Tarrowen/Tarrowen|Tarrowen]]"
 ---
 
 > [!info] Description
-> - ???
+> - Conflict ravaged city
+> - Control of the city is disputed
 
-> [!abstract] Relevant NPCs
-> - [[Nations/The Freelands/Towns/Tarrowen/NPCs/Priska Demeer|Priska Demeer]]
-> - [[Nations/The Freelands/Towns/Tarrowen/NPCs/Garviel Loken|Garviel Loken]]
-
-> [!danger] Quests
-> -
->
-
-_Last edited: 17.04.2026, 01:28_
+_Last edited: 19.07.2026_

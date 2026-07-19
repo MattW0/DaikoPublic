@@ -8,7 +8,7 @@ race: Human
 
 > [!info|wide-5] Pete "Peschä" Flückiger
 > - Is a kind but lost guy
-> - Always hangs out in [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/The Jolly Hot Bongo Storm|The Jolly Hot Bongo Storm]]
+> - Always hangs out in [[Krah Krah Gang/History/The Jolly Hot Bongo Storm|The Jolly Hot Bongo Storm]]
 > - Reeks of Köbi
 > - Was a wall street trader long ago. Still as a reasonable wealthy status.
 > - Big fan of SC Dunmarrow (SCD) and is often seen walking around with their Fahne
@@ -16,4 +16,4 @@ race: Human
 > [!danger] Quests
 > -
 
-_Last edited: 17.04.2026, 01:28_
+_Last edited: 19.07.2026_

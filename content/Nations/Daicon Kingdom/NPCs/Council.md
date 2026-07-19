@@ -5,6 +5,11 @@ thumbnail:
 concerning: Faction
 context: "[[Nations/Daicon Kingdom/Daicon Kingdom|Daicon Kingdom]]"
 ---
-booooring
+The council sits on top of departments:
+* Security (military, [[Nations/The Gray Ring/Lore/MICE|MICE]])
+* Integrity (state media, education)
+* Prosperity (economy, trade, science)
 
-_Last edited: 17.04.2026, 01:28_
+The official ruling body of Daiko. Its members are often charismatic, influential humans (or surgically altered hybrids) trained in propaganda, counterinsurgency, and economic domination.
+
+_Last edited: 19.07.2026_

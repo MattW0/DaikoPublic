@@ -8,7 +8,7 @@ city: "[[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]"
 ---
 
 > [!info] Description
-> 7 years old, the mine has a small output of [[History/Lore/World/Obsidian|Obsidian]] and delivers it to [[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]] (in the north)
+> 7 years old, the mine has a small output of [[History/Lore/Obsidian|Obsidian]] and delivers it to [[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]] (in the north)
 > * [[Nations/Daicon Kingdom/Towns/Dunmarrow/Lore/Ferrun Bandits|Ferrun Bandits]] are in war with the human operation of Krogmaw. Since attempts were futile, they use guerilla tactics on deliveries.
 
 > [!abstract] Relevant NPCs
@@ -16,9 +16,9 @@ city: "[[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]"
 > * [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Randall Corn|Randall Corn]] investor and chair representative of Obsidian Mining Inc.
 
 > [!danger] Quests
-> [[Nations/Daicon Kingdom/Towns/Dunmarrow/Quests/Mine Combat|Mine Combat]]
+> [[Krah Krah Gang/Sessions/Quests/Mine Combat|Mine Combat]]
 
 
 ![[_assets/Downloaded/Maps/Dungeons/TC_Silverspring Mine 01 Entrance_Free.jpg]]
 
-_Last edited: 17.04.2026, 01:28_
+_Last edited: 19.07.2026_
