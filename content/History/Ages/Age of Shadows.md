@@ -7,7 +7,7 @@ context: World
 ---
 
 > [!info] Timeframe
- >- Started 20 years ago, following the [[History/Ages/Age of Enlightenment|Age of Enlightenment]].
+ >- Marks the calendar system 0 AS, following the [[History/Ages/Age of Enlightenment|Age of Enlightenment]].
 
 The Age of Shadows marks the start of a new calendar system (AS = Age of Shadow) in [[Daiko|Daiko]]’s history. Human society, having industrialized and militarized to extreme levels, now teeters on the edge of totalitarian domination. The ruling powers speak of “order, unity, and purity,” but behind these words is a regime built on surveillance, suppression, and the brutal erasure of culture and identity.
 

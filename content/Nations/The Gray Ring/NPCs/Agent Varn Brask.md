@@ -7,7 +7,7 @@ race: Human
 ---
 ## Description
 - Administrator general of the [[Nations/Daicon Kingdom/Redfen/Redfen|Redfen]]
-- [[Nations/The Gray Ring/Lore/MICE|MICE]] Commander in charge of the large scale extraction of deep [[Obsidian]] resources in the [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Krogmaw Mine|Krogmaw Mine]].
+- [[Nations/The Gray Ring/Lore/MICE|MICE]] Commander in charge of the large scale extraction of deep [[History/Lore/Obsidian|Obsidian]] resources in the [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Krogmaw Mine|Krogmaw Mine]].
 
 
 ![varn|366x518](_assets/Sprites/People/varn.png)

@@ -7,12 +7,12 @@ context: World
 ---
 
 > [!info] Timeframe
-> - Following: [[History/Ages/Age of Dominion|Age of Dominion]] 300 years ago
-> - Ended: 20 years ago, entering the [[History/Ages/Age of Shadows|Age of Shadows]]
+> - Following: [[History/Ages/Age of Dominion|Age of Dominion]] 300 years before 0 AS
+> - Ended: Entering the [[History/Ages/Age of Shadows|Age of Shadows]]
 
 ### Happenings
 - **The Iron Bloom Era** – the first Magitech engines transformed agriculture and industry. Vast fields were tilled by constructs, giving birth to food surpluses and population booms unseen before.
-- **Collapse of the Southern Nations** – as Magitech lessened dependence on foreign trade, distant nations in the south were abandoned or left to fend for themselves, sparking decades of uprisings and fractured successor states.
+- **Collapse of the Southern Nations** – as Magitech lessened dependence on foreign trade, nations in the south were abandoned or left to fend for themselves, sparking decades of uprisings and fractured successor states.
 - **The Great Imitation Wars** – rival kingdoms, desperate to replicate Daiconian Magitech, launched wars of theft and espionage. Their crude constructs often turned unstable, rampaging across battlefields and cities alike.
 - **The Gilded Revolution** – commoners, freed from grueling labor by automatons, demanded political rights. Though crushed in blood by Daicon forces, the revolution seeded the notion of civic equality across the continent.
 

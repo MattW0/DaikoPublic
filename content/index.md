@@ -28,12 +28,13 @@ tags:
 >- 
 
 ## 🕒 Recent Changes
-- [[Daiko.md|Daiko]]
-- [[Helios.md|Helios]]
-- [[History/Prolog.md|Prolog]]
+- [[Nations/The Gray Ring/NPCs/Agent Varn Brask.md|Agent Varn Brask]]
 - [[History/Ages/Age of Dominion.md|Age of Dominion]]
 - [[History/Ages/Age of Enlightenment.md|Age of Enlightenment]]
 - [[History/Ages/Age of Shadows.md|Age of Shadows]]
+- [[Daiko.md|Daiko]]
+- [[Helios.md|Helios]]
+- [[History/Prolog.md|Prolog]]
 - [[History/Lore/Obsidian.md|Obsidian]]
 - [[History/Lore/Weave.md|Weave]]
 - [[History/Sessions/Act 1.md|Act 1]]
@@ -47,6 +48,5 @@ tags:
 - [[Nations/Daicon Kingdom/Lore/Magitech.md|Magitech]]
 - [[Nations/Daicon Kingdom/NPCs/Council.md|Council]]
 - [[Nations/Daicon Kingdom/NPCs/Elen the Radiant.md|Elen the Radiant]]
-- [[Nations/Daicon Kingdom/Redfen/Redfen.md|Redfen]]
 
-Last update: _19.07.2026, 16:29_
+Last update: _19.07.2026, 16:49_
