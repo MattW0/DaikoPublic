@@ -11,6 +11,6 @@ race: High-Elf
 > - Deep into mindfullness and breathing techniques
 
 > [!faq] **Hooks**
->- [[Party/Krah Krah Gang/Past/Colt Creed|Colt Creed]] must show up to him every month (6 times) for his probation punishment
+>- [[Krah Krah Gang/Characters/Past/Colt Creed|Colt Creed]] must show up to him every month (6 times) for his probation punishment
 
-_Last edited: 17.04.2026, 01:28_
+_Last edited: 18.07.2026, 00:02_

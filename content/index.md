@@ -3,54 +3,50 @@ title: Daiko - Current Affairs
 tags:
   - Admin
 ---
-# [[History/Act 1 - Successors to the Twin Vaults|Act 1 - Successors to the Twin Vaults]]
+# [[History/Sessions/Act 1|Act 1]]
 
 > [!hint] Current day
-> - **Time:** *Early Afternoon, Monday, 15. Apr 20 AS*
-> - **Location:** [[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]] in [[Nations/Daicon Kingdom/Dunmarrow Region|Dunmarrow Region]]
-> - **News:** [[History/Lore/The State Herald|The State Herald]]
+> - **Time:** *Morning, 22. July 30 AS*
+> - **Location:** Somewhere north of [[Nations/Daicon Kingdom/Redfen Region|Redfen Region]]
 
 > [!danger] Active Quests
-> - [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/The Jolly Hot Bongo Storm|The Jolly Hot Bongo Storm]] is dead? :'(
-> - Await the response to accepting [[Nations/Daicon Kingdom/Towns/Dunmarrow/Quests/Agent Varns Proposal|Agent Varns Proposal]] 
-> - Help [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Mac Tyson|Mac Tyson]] find their potential new head quarters spot in a mysterious location in the dungeon beneath the bar.
-
+> - Survival
+> - Would you like to know weather boi
 
 ![[_assets/Sprites/Maps/Daiko.webp]]
 
 > [!faq] Regions
-> - [[Nations/Daicon Kingdom/Dunmarrow Region|Dunmarrow Region]]
+> - [[Nations/Daicon Kingdom/Redfen Region|Redfen Region]]
 > - [[Nations/Daicon Kingdom/Daicon Kingdom|Daicon Kingdom]]
-> - [[Nations/Ironreach/Hammerfall Empire/Hammerfall Empire|Hammerfall Empire]]
+> - [[Nations/Hammerfall Empire/Hammerfall Empire|Hammerfall Empire]]
 > - [[Nations/The Freelands/The Freelands|The Freelands]]
 > - [[Nations/Zeta/Zeta|Zeta]]
 
 > [!info] Lore
->- [[History/Lore/Ages/Prolog|Prolog]]
->- [[History/Act 0 - The bar|Act 0 - The bar]]
->- [[History/Act 1 - Successors to the Twin Vaults|Act 1 - Successors to the Twin Vaults]]
+>- [[History/Prolog|Prolog]]
+>- [[History/Sessions/Session 1|Session 1]]
 >- 
 
 ## 🕒 Recent Changes
-- [[History/Act 1 - Successors to the Twin Vaults.md|Act 1 - Successors to the Twin Vaults]]
-- [[History/Sessions/Session 13 - Shambles and a path into another plane.md|Session 13 - Shambles and a path into another plane]]
-- [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Habibis (Zolli chiller gang).md|Habibis (Zolli chiller gang)]]
-- [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Fractured Library.md|Fractured Library]]
-- [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/The Caretaker.md|The Caretaker]]
-- [[Nations/Daicon Kingdom/Towns/Dunmarrow/Quests/Mine Combat.md|Mine Combat]]
-- [[Nations/The Freelands/Freddrak Gruul.md|Freddrak Gruul]]
-- [[History/Sessions/Session 12 - Get established (for real for real).md|Session 12 - Get established (for real for real)]]
-- [[History/Sessions/Session 7 - New Awakening.md|Session 7 - New Awakening]]
-- [[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow.md|Dunmarrow]]
-- [[Nations/Daicon Kingdom/Towns/Dunmarrow/Lore/Jolly Hot Bongo Storm - Mechanics.md|Jolly Hot Bongo Storm - Mechanics]]
-- [[Nations/Daicon Kingdom/Towns/Dunmarrow/Lore/Twin Vaults.md|Twin Vaults]]
-- [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Belethor's General Goods.md|Belethor's General Goods]]
-- [[Nations/Daicon Kingdom/Towns/Dunmarrow/Quests/Lost in the well.md|Lost in the well]]
-- [[Daiko.md|Daiko]]
-- [[Helios.md|Helios]]
-- [[History/Act 0 - The bar.md|Act 0 - The bar]]
-- [[History/Lore/The State Herald.md|The State Herald]]
-- [[History/Lore/Zenia of the Vault.md|Zenia of the Vault]]
-- [[History/Lore/Ages/Age of Dominion.md|Age of Dominion]]
+- [[New Gang/New Gang.md|New Gang]]
+- [[Krah Krah Gang/Act 0 - The bar.md|Act 0 - The bar]]
+- [[Krah Krah Gang/Act 1 - Successors to the Twin Vaults.md|Act 1 - Successors to the Twin Vaults]]
+- [[Krah Krah Gang/Characters/Art.md|Art]]
+- [[Krah Krah Gang/Characters/Heir.md|Heir]]
+- [[Krah Krah Gang/Characters/Kevin Maxim.md|Kevin Maxim]]
+- [[Krah Krah Gang/Characters/Krah Krah Gang.md|Krah Krah Gang]]
+- [[Krah Krah Gang/Characters/Lizard the wizard.md|Lizard the wizard]]
+- [[Krah Krah Gang/Characters/Past/Caldra Sunhelm.md|Caldra Sunhelm]]
+- [[Krah Krah Gang/Characters/Past/Colt Creed.md|Colt Creed]]
+- [[Krah Krah Gang/Characters/Past/Marmaromenos Menos.md|Marmaromenos Menos]]
+- [[Krah Krah Gang/History/Freddrak Gruul.md|Freddrak Gruul]]
+- [[Krah Krah Gang/History/Zenia of the Vault.md|Zenia of the Vault]]
+- [[Krah Krah Gang/History/Teleion/Age of Goliaths.md|Age of Goliaths]]
+- [[Krah Krah Gang/History/Teleion/Teleion.md|Teleion]]
+- [[Krah Krah Gang/History/Teleion/Vorrak the Whispered.md|Vorrak the Whispered]]
+- [[Krah Krah Gang/Sessions/Heir's Traktanden.md|Heir's Traktanden]]
+- [[Krah Krah Gang/Sessions/Session 1 - Meet Jackie.md|Session 1 - Meet Jackie]]
+- [[Krah Krah Gang/Sessions/Session 10 - The new owners.md|Session 10 - The new owners]]
+- [[Krah Krah Gang/Sessions/Session 11 - Trending on Wizzdagram.md|Session 11 - Trending on Wizzdagram]]
 
-Last update: _04.05.2026, 23:05_
+Last update: _20.07.2026, 21:35_

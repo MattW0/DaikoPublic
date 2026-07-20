@@ -15,4 +15,4 @@ city: "[[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]"
 > [!danger] Quests
 > - CID Issueing: 150 GP for fast same day, 50 GP for 6-10 days
 
-_Last edited: 17.04.2026, 01:28_
+_Last edited: 17.07.2026, 23:56_

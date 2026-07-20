@@ -8,14 +8,12 @@ city: "[[Nations/Daicon Kingdom/Towns/Varenhold/Varenhold|Varenhold]]"
 ---
 
 > [!info] Description
-> - Capital of [[Nations/Daicon Kingdom/Daicon Kingdom|Daicon Kingdom]]
+> - Former capital of [[Nations/Daicon Kingdom/Daicon Kingdom|Daicon Kingdom]]
+> - Was taken over by the [[Nations/Daicon Kingdom/NPCs/Council|Council]], backed by [[Nations/The Gray Ring/The Grey Ring|The Grey Ring]]
 > 
 
 > [!abstract] Relevant NPCs
-> - Monarch: [[Nations/Daicon Kingdom/NPCs/Elen the Radiant|Elen the Radiant]]
+> - Former monarch: [[Nations/Daicon Kingdom/NPCs/Elen the Radiant|Elen the Radiant]]
+> - Administrator general: tbd
 
-> [!danger] Quests
-> -
->
-
-_Last edited: 17.04.2026, 01:28_
+_Last edited: 20.07.2026_

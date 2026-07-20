@@ -45,4 +45,4 @@ Furthermore:
 - In the case of emergency, activate the Contact Rune inscribed on the back of your CID.
 May your travels be swift, safe, and sanctioned.
 
-_Last edited: 17.04.2026, 01:28_
+_Last edited: 17.07.2026, 23:56_

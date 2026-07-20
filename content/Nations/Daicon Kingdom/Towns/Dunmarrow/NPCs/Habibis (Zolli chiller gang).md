@@ -7,9 +7,9 @@ race: Human
 ---
 
 > [!info|wide-5] Name
-> *Yo Blerim göh mr Mac nach [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/The Jolly Hot Bongo Storm|The Jolly Hot Bongo Storm]]??*
+> *Yo Blerim göh mr Mac nach [[Krah Krah Gang/History/The Jolly Hot Bongo Storm|The Jolly Hot Bongo Storm]]??*
 > Muesch säuber luege bro, lassi. Chum mr hitte [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Fuega|Fuega]]
 > 
 > Aute si si huere G digga.
 
-_Last edited: 04.05.2026, 23:02_
+_Last edited: 20.07.2026_

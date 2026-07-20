@@ -5,7 +5,7 @@ thumbnail: "[[_assets/Sprites/People/victorHalberin.jpg]]"
 origin: "[[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]"
 race: Human
 ---
-Previous employer of [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Jackie Sullivan|Jackie]]. Is a shift boss at [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Krogmaw Mine|Krogmaw Mine]] and cooperates with [[Nations/The Gray Ring/NPCs/Agent Varn Brask|Agent Varn Brask]] (security chief) and [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Randall Corn|Randall Corn]] (key investor). Dislikes them both. 
+Previous employer of [[Nations/Zeta/NPCs/Jackie Sullivan|Jackie]]. Is a shift boss at [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Krogmaw Mine|Krogmaw Mine]] and cooperates with [[Nations/The Gray Ring/NPCs/Agent Varn Brask|Agent Varn Brask]] (security chief) and [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Randall Corn|Randall Corn]] (key investor). Dislikes them both. 
 
 ![victorHalberin|544x816](_assets/Sprites/People/victorHalberin.jpg)
 
@@ -15,4 +15,4 @@ Previous employer of [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Jackie Sulliv
 
 [[Nations/Daicon Kingdom/Towns/Dunmarrow/NPCs/Victor Halberin - Private|Victor Halberin - Private]]
 
-_Last edited: 17.04.2026, 01:28_
+_Last edited: 20.07.2026_

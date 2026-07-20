@@ -52,4 +52,4 @@ city: "[[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]"
 |**Scroll of Disguise Self**|45 gp|
 |**Scroll of Lesser Restoration**|75 gp|
 
-_Last edited: 04.05.2026, 23:02_
+_Last edited: 17.07.2026, 23:56_

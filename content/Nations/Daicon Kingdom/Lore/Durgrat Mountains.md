@@ -11,7 +11,7 @@ context: World
  
  > [!example] Inhabitants 
  > - [[Nations/Daicon Kingdom/Daicon Kingdom|Daicon Kingdom]], *humans*
- > - [[Nations/Ironreach/Hammerfall Empire/Hammerfall Empire|Hammerfall Empire]], *dwarfs*
+ > - [[Nations/Hammerfall Empire/Hammerfall Empire|Hammerfall Empire]], *dwarfs*
  > - [[Nations/Daicon Kingdom/Towns/Dunmarrow/Lore/Ferrun Bandits|Ferrun Bandits]], *firbolgs and friends*
 
-_Last edited: 17.04.2026, 01:28_
+_Last edited: 20.07.2026_
