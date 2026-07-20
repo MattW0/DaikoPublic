@@ -49,4 +49,4 @@ tags:
 - [[Nations/Daicon Kingdom/NPCs/Elen the Radiant.md|Elen the Radiant]]
 - [[Nations/Daicon Kingdom/Redfen/Redfen (Remilitarized Zone).md|Redfen (Remilitarized Zone)]]
 
-Last update: _20.07.2026, 21:46_
+Last update: _20.07.2026, 21:50_
