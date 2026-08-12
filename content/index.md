@@ -6,11 +6,12 @@ tags:
 # [[History/Sessions/Act 1|Act 1]]
 
 > [!hint] Current day
-> - **Time:** *Morning, 22. July 30 AS*
+> - **Time:** *Noon, 22. July 30 AS*
 > - **Location:** Somewhere north of [[Nations/Daicon Kingdom/Redfen Region|Redfen Region]]
 
 > [!danger] Active Quests
 > - Survival
+> - Decide where to go
 > - Would you like to know weather boi
 
 ![[_assets/Sprites/Maps/Daiko.webp]]
@@ -24,29 +25,29 @@ tags:
 
 > [!info] Lore
 >- [[History/Prolog|Prolog]]
->- [[History/Sessions/Session 1|Session 1]]
+>- [[History/Sessions/Session 1 - Fleeing north|Session 1 - Fleeing north]]
 >- 
 
 ## 🕒 Recent Changes
-- [[Daiko.md|Daiko]]
-- [[Helios.md|Helios]]
-- [[History/Prolog.md|Prolog]]
-- [[History/Ages/Age of Dominion.md|Age of Dominion]]
-- [[History/Ages/Age of Enlightenment.md|Age of Enlightenment]]
-- [[History/Ages/Age of Shadows.md|Age of Shadows]]
-- [[History/Lore/Obsidian.md|Obsidian]]
-- [[History/Lore/Weave.md|Weave]]
+- [[New Gang/Jasika.md|Jasika]]
+- [[New Gang/Nigel MYR869QWERT23X.md|Nigel MYR869QWERT23X]]
+- [[New Gang/Tamtam Shellwell.md|Tamtam Shellwell]]
+- [[New Gang/The Creature.md|The Creature]]
+- [[New Gang/Yoli Tinkerton.md|Yoli Tinkerton]]
+- [[Nations/Daicon Kingdom/Redfen/Lore/Maquis.md|Maquis]]
+- [[Nations/Daicon Kingdom/Redfen/NPCs/Mac Typhon.md|Mac Typhon]]
+- [[Nations/The Freelands/Towns/Tarrowen/NPCs/Elendra Arierdas.md|Elendra Arierdas]]
+- [[Nations/Zeta/NPCs/Mud-eye.md|Mud-eye]]
+- [[Nations/Ironreach/Ironreach.md|Ironreach]]
+- [[History/Sessions/Session 1 - Fleeing north.md|Session 1 - Fleeing north]]
+- [[Nations/Hammerfall Empire/Durundal/NPCs/Borin Tesk.md|Borin Tesk]]
+- [[Nations/Hammerfall Empire/Durundal/NPCs/Brunna Torunn.md|Brunna Torunn]]
+- [[Nations/Ironreach/Karakorum.md|Karakorum]]
+- [[New Gang/Characters/Jasika.md|Jasika]]
+- [[New Gang/Characters/Nigel MYR869QWERT23X.md|Nigel MYR869QWERT23X]]
+- [[New Gang/Characters/Tamtam Shellwell.md|Tamtam Shellwell]]
+- [[New Gang/Characters/The Creature.md|The Creature]]
+- [[New Gang/Characters/Yoli Tinkerton.md|Yoli Tinkerton]]
 - [[History/Sessions/Act 1.md|Act 1]]
-- [[Nations/Atheria - Solar Federation/Atheria - Solar Federation.md|Atheria - Solar Federation]]
-- [[Nations/Daicon Kingdom/Daicon Kingdom.md|Daicon Kingdom]]
-- [[Nations/Daicon Kingdom/Redfen Region.md|Redfen Region]]
-- [[Nations/Daicon Kingdom/Lore/Continental Identification Sigil.md|Continental Identification Sigil]]
-- [[Nations/Daicon Kingdom/Lore/Durgrat Mountains.md|Durgrat Mountains]]
-- [[Nations/Daicon Kingdom/Lore/Grand Registry of Realms and Routes.md|Grand Registry of Realms and Routes]]
-- [[Nations/Daicon Kingdom/Lore/Inter Transport HUB.md|Inter Transport HUB]]
-- [[Nations/Daicon Kingdom/Lore/Magitech.md|Magitech]]
-- [[Nations/Daicon Kingdom/NPCs/Council.md|Council]]
-- [[Nations/Daicon Kingdom/NPCs/Elen the Radiant.md|Elen the Radiant]]
-- [[Nations/Daicon Kingdom/Redfen/Redfen (Remilitarized Zone).md|Redfen (Remilitarized Zone)]]
 
-Last update: _20.07.2026, 21:50_
+Last update: _12.08.2026, 10:32_

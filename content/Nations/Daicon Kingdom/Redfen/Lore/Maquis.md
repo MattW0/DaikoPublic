@@ -10,6 +10,8 @@ context: "[[Nations/Daicon Kingdom/Redfen/Redfen (Remilitarized Zone)|Redfen (Re
  >- A dispersed underground resistance movement against MICE and the [[Nations/Daicon Kingdom/Daicon Kingdom|Daicon Kingdom]]
  
 ## Members 
- - [[Nations/Daicon Kingdom/Redfen/NPCs/Mac Typhon|Mac Typhon]]
+ - [[Nations/Daicon Kingdom/Redfen/NPCs/Mac Typhon|Mac Typhon]] 
+ - [[Nations/The Freelands/Towns/Tarrowen/NPCs/Elendra Arierdas|Elendra Arierdas]]
+ - probably a bunch more
 
-_Last edited: 20.07.2026_
+_Last edited: 12.08.2026_

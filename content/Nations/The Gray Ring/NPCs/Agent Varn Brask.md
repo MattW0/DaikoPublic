@@ -13,6 +13,6 @@ race: Human
 ![varn|366x518](_assets/Sprites/People/varn.png)
 
 
-[[_assets/_5e/Bestiary/Agent Varn - Private|Agent Varn - Private]]
+[[_assets/_5e/Bestiary/MICE/Agent Varn - Private|Agent Varn - Private]]
 
-_Last edited: 20.07.2026_
+_Last edited: 12.08.2026_
