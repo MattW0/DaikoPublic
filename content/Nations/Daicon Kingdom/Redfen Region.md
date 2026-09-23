@@ -1,7 +1,7 @@
 ---
 tags:
   - Lore
-thumbnail: "[[_assets/Sprites/Maps/DunmarrowRegion.webp]]"
+thumbnail: "[[_assets/Sprites/Maps/region_redfen.webp]]"
 nation: "[[Nations/Daicon Kingdom/Daicon Kingdom|Daicon Kingdom]]"
 concerning: Region
 context: World
@@ -10,7 +10,7 @@ context: World
 > [!info] Description
 > Enclosed by the [[Nations/Daicon Kingdom/Lore/Durgrat Mountains|Durgrat Mountains]], [[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]] dwells in the central part of [[Daiko|Daiko]]. It lies on the northern edge of the [[Nations/Daicon Kingdom/Daicon Kingdom|Daicon Kingdom]], that borders the [[Nations/Daicon Kingdom/Redfen/Redfen (Remilitarized Zone)|Redfen (Remilitarized Zone)]], a once disputed territory with a bloody history. Beyond thast lay the [[Nations/The Freelands/The Freelands|The Freelands]] in the east and [[Nations/Hammerfall Empire/Durundal/Durundal|Durundal]], a city of the dwarven empire, in the north.
 
-![[_assets/Sprites/Maps/dunmarrowRegion.webp]]
+![[_assets/Sprites/Maps/region_redfen.webp]]
 
 ## Towns
 - [[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]
@@ -22,4 +22,4 @@ context: World
 - [[Nations/Daicon Kingdom/Lore/Durgrat Mountains|Durgrat Mountains]]
 - River Lorynth passing Esvelen into the southern sea.
 
-_Last edited: 20.07.2026_
+_Last edited: 23.09.2026_

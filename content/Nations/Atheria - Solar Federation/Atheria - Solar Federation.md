@@ -8,10 +8,9 @@ context: "[[Nations/Atheria - Solar Federation/Atheria - Solar Federation|Atheri
 > [!info] Description
 > Free Utopia in the West of [[Daiko|Daiko]].
 >
+> * Welcoming in a good way
 > * nachhautigi solarpunk federation
-> * Welcoming in a good way, 
 > * Obsidian needs collective approval and it got denied
-> * High education
-> * No wars but has defensive potent militia army
+> * No wars but has strong defensive forces
 
-_Last edited: 20.07.2026_
+_Last edited: 23.09.2026_

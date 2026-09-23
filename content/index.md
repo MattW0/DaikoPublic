@@ -6,12 +6,12 @@ tags:
 # [[History/Sessions/Act 1|Act 1]]
 
 > [!hint] Current day
-> - **Time:** *Morning, 22. July 30 AS*
-> - **Location:** Somewhere north of [[Nations/Daicon Kingdom/Redfen Region|Redfen Region]]
+> - **Time:** *Morning, 27. July 30 AS*
+> - **Location:** Somewhere close to [[Nations/The Freelands/The Freelands|The Freelands]]
 
 > [!danger] Active Quests
-> - Survival
-> - Would you like to know weather boi
+> - Arrive to [[Nations/The Freelands/Towns/Tarrowen/Tarrowen|Tarrowen]]
+> - Meet up with [[Nations/The Freelands/Towns/Tarrowen/NPCs/Elendra Arierdas|Elendra Arierdas]] and [[Nations/Daicon Kingdom/Redfen/NPCs/Mac Typhon|Mac Typhon]]
 
 ![[_assets/Sprites/Maps/Daiko.webp]]
 
@@ -23,30 +23,31 @@ tags:
 > - [[Nations/Zeta/Zeta|Zeta]]
 
 > [!info] Lore
->- [[History/Prolog|Prolog]]
->- [[History/Sessions/Session 1|Session 1]]
->- 
+>- [[History/Lore/Prolog|Prolog]]
+>- [[History/Sessions/Session 1 - Fleeing north|Session 1 - Fleeing north]]
+>- [[History/Sessions/Session 2 - Hello hag|Session 2 - Hello hag]]
+>- [[History/Sessions/Session 3 - Leiterlispiu-Fasttravel|Session 3 - Leiterlispiu-Fasttravel]]
 
 ## 🕒 Recent Changes
-- [[Daiko.md|Daiko]]
-- [[Helios.md|Helios]]
-- [[History/Prolog.md|Prolog]]
-- [[History/Ages/Age of Dominion.md|Age of Dominion]]
-- [[History/Ages/Age of Enlightenment.md|Age of Enlightenment]]
-- [[History/Ages/Age of Shadows.md|Age of Shadows]]
-- [[History/Lore/Obsidian.md|Obsidian]]
-- [[History/Lore/Weave.md|Weave]]
-- [[History/Sessions/Act 1.md|Act 1]]
-- [[Nations/Atheria - Solar Federation/Atheria - Solar Federation.md|Atheria - Solar Federation]]
-- [[Nations/Daicon Kingdom/Daicon Kingdom.md|Daicon Kingdom]]
-- [[Nations/Daicon Kingdom/Redfen Region.md|Redfen Region]]
+- [[Nations/The Freelands/The Freelands.md|The Freelands]]
+- [[History/Lore/Age of Dominion.md|Age of Dominion]]
+- [[History/Lore/Age of Enlightenment.md|Age of Enlightenment]]
+- [[History/Lore/Age of Shadows.md|Age of Shadows]]
+- [[History/Lore/Prolog.md|Prolog]]
+- [[History/Objects/Obsidian.md|Obsidian]]
+- [[History/Objects/Shal’Vaer.md|Shal’Vaer]]
+- [[History/Beings/Zenia of the Vault.md|Zenia of the Vault]]
 - [[Nations/Daicon Kingdom/Lore/Continental Identification Sigil.md|Continental Identification Sigil]]
-- [[Nations/Daicon Kingdom/Lore/Durgrat Mountains.md|Durgrat Mountains]]
-- [[Nations/Daicon Kingdom/Lore/Grand Registry of Realms and Routes.md|Grand Registry of Realms and Routes]]
-- [[Nations/Daicon Kingdom/Lore/Inter Transport HUB.md|Inter Transport HUB]]
-- [[Nations/Daicon Kingdom/Lore/Magitech.md|Magitech]]
-- [[Nations/Daicon Kingdom/NPCs/Council.md|Council]]
-- [[Nations/Daicon Kingdom/NPCs/Elen the Radiant.md|Elen the Radiant]]
-- [[Nations/Daicon Kingdom/Redfen/Redfen (Remilitarized Zone).md|Redfen (Remilitarized Zone)]]
+- [[Nations/Daicon Kingdom/Towns/Dunmarrow/Lore/Ferrun Bandits.md|Ferrun Bandits]]
+- [[Nations/Daicon Kingdom/Towns/Dunmarrow/Places/Krogmaw Mine.md|Krogmaw Mine]]
+- [[Nations/The Gray Ring/NPCs/Agent Varn Brask.md|Agent Varn Brask]]
+- [[Nations/Zeta/NPCs/Jackie Sullivan.md|Jackie Sullivan]]
+- [[History/Lore/Ages/Prolog.md|Prolog]]
+- [[History/Sessions/Session 3 - Leiterlispiu-Fasttravel.md|Session 3 - Leiterlispiu-Fasttravel]]
+- [[New Gang/History/An Unexpected Journey of Rivers and Gold.md|An Unexpected Journey of Rivers and Gold]]
+- [[History/Lore/Shal’Vaer.md|Shal’Vaer]]
+- [[History/Lore/Ages/Age of Dominion.md|Age of Dominion]]
+- [[History/Lore/Ages/Age of Enlightenment.md|Age of Enlightenment]]
+- [[History/Lore/Ages/Age of Shadows.md|Age of Shadows]]
 
-Last update: _20.07.2026, 21:50_
+Last update: _23.09.2026, 23:43_

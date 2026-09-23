@@ -9,4 +9,4 @@ Humans can't access the [[History/Lore/Weave|Weave]] and its magical powers. Usi
 
 [[Nations/The Gray Ring/The Grey Ring|The Grey Ring]] (with [[Nations/The Gray Ring/Lore/MICE|MICE]] as enforcement) regulates and relies on Obsidian for power
 
-_Last edited: 20.07.2026_
+_Last edited: 23.09.2026_
