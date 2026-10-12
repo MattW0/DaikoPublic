@@ -18,15 +18,15 @@ context: Party
 - Decision: [[Nations/The Freelands/Towns/Tarrowen/Tarrowen|Tarrowen]] in the Freelands
 ## In the night
 - Nigel spots movement in the forest and wakes up a sleepy guard and the others
-- Suddenly, bright lights and militarized people storm the camp, the caravan is 
+- Suddenly, bright lights and militarized people storm the camp, the caravan is surrounded
 - On a huge mechanical Ox, a figure shouts demands of seizing resistance
-- The party and other caravan members flees through the river while Mac holds the position
-- Elendra tells them to travel to [[Nations/The Freelands/Towns/Tarrowen/Tarrowen|Tarrowen]] and then joins Mac in holding the line
+- The party and other caravan members flee through the river while Mac holds the position
+- Elendra tells them to travel to [[Nations/The Freelands/Towns/Tarrowen/Tarrowen|Tarrowen]] and meet her there. She then joins Mac in holding the line
 
 ## Did you say snakes but no ladders?
 - For their journey Elendra gave the party a map.
 - It is snakes and dnd encounters with branching paths: [[New Gang/History/An Unexpected Journey of Rivers and Gold|An Unexpected Journey of Rivers and Gold]]
-![[_assets/Sprites/Maps/Leiterlispiel/path_freelands.png|591]]
+![[_assets/Sprites/Maps/Leiterlispiel/path_freelands.png|743]]
 
 - They encounter and slay a wild Owlbear
 - Jasika almost fucking dies from 1 attack
@@ -45,4 +45,4 @@ creatures:
 - They continue and gain their long rest 
 - Finally decide for a mystery path that is supposedly a shortcut to Tarrowen
 
-_Last edited: 23.09.2026_
+_Last edited: 12.10.2026_

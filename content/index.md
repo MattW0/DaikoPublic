@@ -29,7 +29,9 @@ tags:
 >- [[History/Sessions/Session 3 - Leiterlispiu-Fasttravel|Session 3 - Leiterlispiu-Fasttravel]]
 
 ## 🕒 Recent Changes
+- [[History/Sessions/Session 3 - Leiterlispiu-Fasttravel.md|Session 3 - Leiterlispiu-Fasttravel]]
 - [[Nations/The Freelands/The Freelands.md|The Freelands]]
+- [[Nations/The Freelands/Towns/Tarrowen/Tarrowen.md|Tarrowen]]
 - [[History/Lore/Age of Dominion.md|Age of Dominion]]
 - [[History/Lore/Age of Enlightenment.md|Age of Enlightenment]]
 - [[History/Lore/Age of Shadows.md|Age of Shadows]]
@@ -43,11 +45,9 @@ tags:
 - [[Nations/The Gray Ring/NPCs/Agent Varn Brask.md|Agent Varn Brask]]
 - [[Nations/Zeta/NPCs/Jackie Sullivan.md|Jackie Sullivan]]
 - [[History/Lore/Ages/Prolog.md|Prolog]]
-- [[History/Sessions/Session 3 - Leiterlispiu-Fasttravel.md|Session 3 - Leiterlispiu-Fasttravel]]
 - [[New Gang/History/An Unexpected Journey of Rivers and Gold.md|An Unexpected Journey of Rivers and Gold]]
 - [[History/Lore/Shal’Vaer.md|Shal’Vaer]]
 - [[History/Lore/Ages/Age of Dominion.md|Age of Dominion]]
 - [[History/Lore/Ages/Age of Enlightenment.md|Age of Enlightenment]]
-- [[History/Lore/Ages/Age of Shadows.md|Age of Shadows]]
 
-Last update: _23.09.2026, 23:43_
+Last update: _12.10.2026, 17:03_
