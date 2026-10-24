@@ -26,12 +26,12 @@ city: "[[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]"
 
 ## 🛡️ Armor & Wearables
 
-|Item|Price|Effect|
-|---|---|---|
-|**Cloak of Many Pockets**|60 gp|Holds 5 tiny items; can retrieve as a free object interaction|
-|**Traveler’s Boots**|50 gp|Ignore difficult terrain caused by mud, snow, or rubble|
-|**Helm of the Alert**|140 gp|Advantage on Perception checks while worn|
-|**Ring of Grip**|75 gp|Advantage on checks to avoid being disarmed or grappled|
+| Item                      | Price  | Effect                                                        |
+| ------------------------- | ------ | ------------------------------------------------------------- |
+| **Cloak of Many Pockets** | 80 gp  | Holds 5 tiny items; can retrieve as a free object interaction |
+| **Traveler’s Boots**      | 60 gp  | Ignore difficult terrain caused by mud, snow, or rubble       |
+| **Helm of the Alert**     | 140 gp | Advantage on Perception checks while worn                     |
+| **Ring of Grip**          | 75 gp  | Advantage on checks to avoid being disarmed or grappled       |
 
 ## 🧪 Potions & Consumables
 
@@ -52,4 +52,4 @@ city: "[[Nations/Daicon Kingdom/Towns/Dunmarrow/Dunmarrow|Dunmarrow]]"
 |**Scroll of Disguise Self**|45 gp|
 |**Scroll of Lesser Restoration**|75 gp|
 
-_Last edited: 20.07.2026_
+_Last edited: 24.10.2026_
