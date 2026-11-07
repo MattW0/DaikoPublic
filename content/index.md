@@ -31,6 +31,8 @@ tags:
 >- 
 
 ## 🕒 Recent Changes
+- [[History/Sessions/Session 4 - Cake, cake, cake and Tarrowen.md|Session 4 - Cake, cake, cake and Tarrowen]]
+- [[History/Sessions/Session 3 - Leiterlispiu-Fasttravel.md|Session 3 - Leiterlispiu-Fasttravel]]
 - [[History/Beings/Gabriel's Boons.md|Gabriel's Boons]]
 - [[History/Beings/Gabriel.md|Gabriel]]
 - [[History/Beings/Vigilantes of Stendar.md|Vigilantes of Stendar]]
@@ -41,7 +43,6 @@ tags:
 - [[Nations/The Freelands/The Freelands.md|The Freelands]]
 - [[Nations/The Freelands/Towns/Tarrowen/Tarrowen.md|Tarrowen]]
 - [[Nations/The Freelands/Towns/Tarrowen/NPCs/Garviel Loken.md|Garviel Loken]]
-- [[History/Sessions/Session 3 - Leiterlispiu-Fasttravel.md|Session 3 - Leiterlispiu-Fasttravel]]
 - [[History/Lore/Age of Dominion.md|Age of Dominion]]
 - [[History/Lore/Age of Enlightenment.md|Age of Enlightenment]]
 - [[History/Lore/Age of Shadows.md|Age of Shadows]]
@@ -50,6 +51,5 @@ tags:
 - [[History/Objects/Shal’Vaer.md|Shal’Vaer]]
 - [[History/Beings/Zenia of the Vault.md|Zenia of the Vault]]
 - [[Nations/Daicon Kingdom/Lore/Continental Identification Sigil.md|Continental Identification Sigil]]
-- [[Nations/Daicon Kingdom/Towns/Dunmarrow/Lore/Ferrun Bandits.md|Ferrun Bandits]]
 
-Last update: _24.10.2026, 22:36_
+Last update: _07.11.2026, 16:46_

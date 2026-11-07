@@ -6,7 +6,7 @@ concerning: History
 context: Party
 ---
 *Played on the 20.09.2026* 
-*Spent in game time:* 23. - 27. July AS
+*Spent in game time:* 23. - 27. July 30 AS
 
 ## Way to go
 - Return to caravan with documents about a group working with MICE: [[Nations/The Gray Ring/Lore/Sisters of Sorrow|Sisters of Sorrow]]
@@ -45,4 +45,4 @@ creatures:
 - They continue and gain their long rest 
 - Finally decide for a mystery path that is supposedly a shortcut to Tarrowen
 
-_Last edited: 12.10.2026_
+_Last edited: 07.11.2026_
